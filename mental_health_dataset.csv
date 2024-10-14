@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,Duration(weeks),Severity,Symptoms,Diagnosis,Treatment
+46fb2702-b875-45d6-837d-202c01ef35f8,55,Male,50,Moderate,"Anxiety, Insomnia, Loss of appetite, Irritability, Fatigue",Major Depressive Disorder,Combination therapy
+0fc7888c-eafc-4004-bb64-1f0d1125e929,30,Female,46,Mild,"Sadness, Loss of appetite, Irritability, Fatigue, Insomnia",Major Depressive Disorder,No treatment
+8e94d3eb-5f4c-4e91-a298-36ba37075b03,42,Other,10,Moderate,"Irritability, Insomnia, Loss of appetite",No Depression,Medication
+6c2a61f6-991e-4d6b-af69-baf3518215d0,68,Female,2,Moderate,"Loss of appetite, Sadness, Insomnia",Major Depressive Disorder,Medication
+3819322a-894a-40ca-ab3d-f4345a19d29b,44,Other,31,Mild,"Irritability, Loss of appetite, Sadness, Insomnia",No Depression,No treatment
+18163ed1-0e8a-4c03-916c-e4631b51b4eb,51,Other,30,Severe,"Irritability, Sadness, Insomnia, Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+e4567965-c977-4b8a-8682-75ae566fa9ea,29,Female,41,Severe,"Sadness, Insomnia, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+19b6fe7a-b094-45a1-a641-2fc65539e6fd,36,Female,2,Mild,"Sadness, Anxiety, Fatigue, Insomnia",No Depression,Cognitive Behavioral Therapy
+8d491fbb-1f37-456c-885d-f75eb503871b,48,Male,40,Mild,"Anxiety, Loss of appetite, Sadness, Insomnia, Irritability",Major Depressive Disorder,Medication
+c6c8d649-b529-4dbe-9821-24e7d213d1b1,52,Male,6,Moderate,"Sadness, Insomnia",No Depression,Cognitive Behavioral Therapy
+8911909d-4676-47a7-9bf2-b557c2d29a42,26,Female,38,Severe,"Insomnia, Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+0f88b9bf-f216-4ea9-a44d-e65cb1b796c6,44,Female,6,Mild,"Anxiety, Sadness, Loss of appetite, Irritability",Major Depressive Disorder,No treatment
+4e1e1891-266f-497b-85d6-101b7edeeea6,75,Other,20,Mild,"Anxiety, Irritability",No Depression,Combination therapy
+5ff102f4-a66e-4de5-b358-1fb050edb554,52,Other,33,Moderate,"Fatigue, Insomnia, Sadness, Irritability, Loss of appetite",Major Depressive Disorder,Medication
+d842ef9d-4e8a-4a90-ada9-b15663ea40fb,25,Female,24,Mild,"Anxiety, Insomnia",Major Depressive Disorder,Medication
+56daabc8-8f27-43cf-a56a-dfd369252956,78,Other,43,Severe,"Fatigue, Loss of appetite",Major Depressive Disorder,No treatment
+b86e889f-6191-4e44-a8d7-a5fb01506356,37,Other,8,Severe,"Loss of appetite, Sadness, Fatigue",No Depression,No treatment
+9001ec84-7551-4831-a83a-2d93fe13cf8d,71,Female,49,Mild,"Insomnia, Anxiety",No Depression,Cognitive Behavioral Therapy
+7c43ac6d-8117-4f78-94e6-a6a9669cb391,33,Female,3,Moderate,"Irritability, Fatigue, Insomnia, Anxiety",Major Depressive Disorder,No treatment
+660c8ae6-371a-403a-b749-4a83f5e9bbfb,55,Female,46,Severe,"Sadness, Loss of appetite",Major Depressive Disorder,Medication
+84faac55-190a-48a3-ba05-8b096bd46a98,78,Other,1,Mild,"Insomnia, Irritability, Loss of appetite",Major Depressive Disorder,Medication
+30b90d63-5359-44cf-b2fc-082fc166e680,37,Female,28,Mild,"Anxiety, Irritability, Insomnia",Major Depressive Disorder,Medication
+9ecadc28-daaf-46f0-b516-cda1080fd635,63,Female,17,Severe,"Irritability, Sadness, Insomnia",Major Depressive Disorder,No treatment
+d3f31132-d3e2-4718-9ad5-7a7de4f47578,80,Other,13,Moderate,"Fatigue, Irritability, Sadness, Anxiety",Major Depressive Disorder,Medication
+4e51d6a6-6ef0-4a72-a83a-e96b7d31f6fa,73,Male,18,Moderate,"Irritability, Fatigue, Anxiety, Sadness, Insomnia",Major Depressive Disorder,Medication
+f8a21a9d-8a3a-447e-9ef9-7f32d3a5ef42,40,Other,48,Moderate,"Fatigue, Insomnia, Anxiety, Irritability, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+2c0a1c50-5f08-4e0c-9f42-c28e52185ee9,76,Male,22,Mild,"Insomnia, Fatigue, Loss of appetite, Sadness, Anxiety",Major Depressive Disorder,Medication
+052fda52-b8f8-4f23-845f-8da67df2b172,55,Female,32,Severe,"Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Combination therapy
+0f171b88-8965-4576-939a-33c83829e578,63,Male,25,Mild,"Insomnia, Fatigue, Sadness, Anxiety",No Depression,Medication
+4e3d98b9-36c3-4801-a9c8-873c6357d049,72,Male,31,Mild,"Insomnia, Anxiety",Major Depressive Disorder,No treatment
+f5a3d8a5-1a69-4620-9b04-d16fc57fde14,21,Male,44,Moderate,"Anxiety, Irritability, Insomnia, Fatigue",Major Depressive Disorder,Medication
+5aa98bd5-e9e7-4545-9948-a5fbfaa197d9,51,Other,18,Moderate,"Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+3260341d-8993-4a88-ae67-fc1747dd3f06,40,Female,3,Moderate,"Sadness, Fatigue, Loss of appetite, Insomnia",No Depression,No treatment
+abe6f9a4-f125-4e12-8161-de126e03dec0,41,Male,22,Moderate,"Fatigue, Sadness",No Depression,Combination therapy
+3bc7bc38-ae68-440d-b215-d425af012833,44,Female,43,Moderate,"Loss of appetite, Irritability, Sadness",Major Depressive Disorder,No treatment
+94b1dbc9-7246-4cbd-8e1c-caf5d833622a,53,Male,20,Moderate,"Sadness, Irritability, Anxiety, Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+abd70d4c-ffad-4ca8-ae4f-18cbbb76afd9,63,Male,36,Severe,"Insomnia, Fatigue, Anxiety, Irritability, Sadness",No Depression,No treatment
+3f165504-62b8-4cac-a5e1-c3f7a0bc690b,42,Male,17,Moderate,"Fatigue, Sadness, Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+603ba457-4d13-404e-b231-3df62f38cda0,30,Male,15,Severe,"Sadness, Anxiety, Fatigue",Major Depressive Disorder,Combination therapy
+1865202f-e693-4495-8908-89d565cb72c9,52,Male,36,Moderate,"Anxiety, Irritability",No Depression,Cognitive Behavioral Therapy
+09d812a2-e3bb-479b-a8a2-27fd58948183,71,Other,41,Severe,"Fatigue, Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+f45537e1-acda-42ef-9d32-2189d5d25ac3,71,Other,27,Severe,"Fatigue, Loss of appetite, Insomnia, Sadness",No Depression,Medication
+2c8bb058-53f9-4146-987e-c97fe0244730,41,Male,34,Moderate,"Sadness, Insomnia, Anxiety",Major Depressive Disorder,Medication
+40e0e0d8-75bb-4b6f-a64c-0e1040c259ef,76,Female,51,Severe,"Irritability, Sadness, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+17a9f093-438b-4fc8-bc5d-760d4cd21f76,42,Male,7,Mild,"Irritability, Anxiety, Sadness",Major Depressive Disorder,Combination therapy
+0ecd6f8a-e804-4998-80f0-d0ef1ff77271,75,Other,27,Mild,"Anxiety, Irritability, Fatigue",No Depression,No treatment
+d400c29d-74f8-4e60-8da1-c4044c29b4ea,70,Other,14,Mild,"Irritability, Anxiety, Sadness, Fatigue, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+d204d89d-723f-407e-97d1-f4bcd9cea585,21,Other,6,Severe,"Irritability, Loss of appetite, Anxiety, Sadness",No Depression,Cognitive Behavioral Therapy
+f00d15bb-b636-4480-81d1-f588b764fa04,78,Male,41,Mild,"Fatigue, Anxiety, Sadness, Loss of appetite",Major Depressive Disorder,No treatment
+fa0b9bc1-6280-48c1-b5d2-7708a0305927,62,Female,35,Moderate,"Fatigue, Loss of appetite",No Depression,Cognitive Behavioral Therapy
+a937b7ac-ae66-4e33-bd9e-eae29085c61c,54,Female,51,Severe,"Anxiety, Insomnia",Major Depressive Disorder,No treatment
+29e51149-2a4c-46f5-8543-7ef3b59f0459,35,Other,18,Mild,"Fatigue, Irritability, Insomnia",Major Depressive Disorder,Medication
+a64c09f5-f735-43ba-80c5-6b1872b4d0d3,51,Male,6,Severe,"Anxiety, Sadness, Irritability, Loss of appetite",No Depression,Medication
+dca3ff72-91eb-4aa5-9df7-252e669ff236,46,Female,24,Severe,"Loss of appetite, Anxiety, Insomnia, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+f9f051e2-2912-4f1a-b84c-dc608c14e2d7,19,Other,48,Severe,"Fatigue, Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+5cdf82f2-4007-4720-90f7-ce572009f326,48,Female,48,Severe,"Irritability, Anxiety, Insomnia, Loss of appetite",Major Depressive Disorder,Combination therapy
+5476a101-597c-4b37-a13e-a632f281f913,56,Male,13,Mild,"Irritability, Sadness",Major Depressive Disorder,Combination therapy
+c9fc6b76-790d-4de5-87aa-7983b64fd2bb,24,Female,23,Mild,"Insomnia, Irritability, Fatigue",No Depression,Medication
+6973598c-75d1-4298-acdb-f2b09dbeab7b,22,Male,17,Mild,"Irritability, Sadness, Fatigue, Insomnia",No Depression,Cognitive Behavioral Therapy
+0c318060-4f7b-420c-a736-b6d2db86c05b,76,Male,47,Mild,"Irritability, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+a5886940-b466-4512-83ac-d374e9080add,22,Male,24,Moderate,"Sadness, Anxiety, Loss of appetite, Irritability",No Depression,Combination therapy
+7aab1b40-52ab-4e81-93f1-499926d381ff,34,Female,31,Severe,"Sadness, Insomnia, Fatigue",No Depression,Combination therapy
+36786218-d065-4824-87ba-58e2ac7c2d3e,78,Female,12,Severe,"Sadness, Fatigue, Insomnia, Loss of appetite",Major Depressive Disorder,Combination therapy
+2a4762fb-d898-4010-b244-0e21bf3a2a87,48,Male,13,Mild,"Irritability, Loss of appetite, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+cab87153-36ef-46ff-a1a1-e1afbecc2881,37,Other,30,Severe,"Anxiety, Loss of appetite, Sadness, Irritability, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+3a2ea5cb-68bf-47a6-9b87-32233a113ede,39,Male,9,Moderate,"Loss of appetite, Fatigue, Insomnia",No Depression,Cognitive Behavioral Therapy
+f97cc938-bf1e-4530-8327-2e13f49cdadb,51,Male,40,Moderate,"Loss of appetite, Sadness, Insomnia, Anxiety, Irritability",No Depression,No treatment
+2ba06c2e-8e13-4279-9996-226addab7216,75,Male,42,Mild,"Irritability, Loss of appetite",Major Depressive Disorder,Medication
+bf3edc2d-5585-47cc-9a8c-0e3c8d6d4b90,31,Other,14,Severe,"Loss of appetite, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+331a8143-c29d-4e8f-935f-791ecdd35af4,28,Other,2,Mild,"Insomnia, Irritability, Sadness, Anxiety",Major Depressive Disorder,Medication
+f9f7b3f6-f2f3-43f1-8a3d-df294aadad9e,63,Male,2,Mild,"Insomnia, Loss of appetite, Anxiety",No Depression,No treatment
+722e5ee0-6a22-4885-92d2-02f7fd3880ed,19,Male,31,Mild,"Anxiety, Insomnia, Loss of appetite",Major Depressive Disorder,Medication
+cae4b2de-aa6b-459d-8d92-f7771dfd5242,79,Male,41,Mild,"Anxiety, Fatigue, Irritability",Major Depressive Disorder,No treatment
+6a16162a-87e6-4dfc-98cd-684f006a5d2b,53,Male,20,Moderate,"Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+0d0312a7-805b-4bfe-b45b-acab6d73f52f,19,Female,29,Mild,"Insomnia, Loss of appetite, Fatigue, Sadness, Anxiety",Major Depressive Disorder,No treatment
+cd77918d-c279-45c1-ba11-c49997def98c,21,Female,32,Mild,"Sadness, Irritability",Major Depressive Disorder,Medication
+9cd1b2c9-5e0c-49e4-85a1-29447e10c84a,22,Other,40,Moderate,"Irritability, Insomnia, Anxiety, Fatigue",No Depression,Medication
+96bce68d-89e3-470d-8041-f2e9a353c64b,21,Other,23,Severe,"Loss of appetite, Fatigue, Insomnia",No Depression,Medication
+65f48e68-83aa-4568-a79a-75a7ae1011f2,55,Male,24,Moderate,"Anxiety, Fatigue",No Depression,No treatment
+1cc8ef75-48d8-4364-8834-ba39c205ecae,39,Male,36,Mild,"Irritability, Anxiety, Insomnia, Loss of appetite",Major Depressive Disorder,No treatment
+93233076-0b67-41c7-9ade-8e0ba4d5e16e,66,Female,37,Severe,"Loss of appetite, Fatigue",Major Depressive Disorder,Combination therapy
+46968b57-2e7e-48da-b18d-7e38460c31b9,34,Female,44,Severe,"Fatigue, Anxiety, Insomnia, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+a97bcadd-825c-44d7-97fa-68155b4a9574,59,Male,46,Moderate,"Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+14f0dd1b-c118-4a36-a37f-8a51ac448c1d,39,Other,21,Mild,"Fatigue, Insomnia, Irritability, Anxiety",Major Depressive Disorder,Medication
+0a6184af-31b7-4524-bb3e-c4847c4914d8,55,Other,8,Mild,"Irritability, Fatigue, Insomnia",Major Depressive Disorder,Combination therapy
+012dbf98-ba1d-4694-91c2-4af370b96b08,25,Male,46,Mild,"Sadness, Fatigue",Major Depressive Disorder,Medication
+ebd829dd-9ff8-442d-8813-d7871fca3529,40,Other,23,Mild,"Loss of appetite, Fatigue, Sadness, Anxiety, Insomnia",Major Depressive Disorder,Medication
+200bcada-0d15-47c3-ba65-8b0a170b4c44,65,Other,46,Severe,"Fatigue, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+9f796d50-91da-443f-abb8-18f73bece634,59,Female,43,Mild,"Insomnia, Fatigue, Anxiety",No Depression,Combination therapy
+0baa2933-a47f-4753-abcb-01e869433f81,49,Male,24,Moderate,"Sadness, Irritability, Anxiety",Major Depressive Disorder,No treatment
+576ca07f-26c5-4671-bec0-b548531c2765,55,Male,33,Mild,"Fatigue, Sadness, Insomnia, Irritability, Loss of appetite",Major Depressive Disorder,No treatment
+345a6a41-d5ae-4b8f-942a-3945bb8f5d4a,49,Female,42,Mild,"Irritability, Loss of appetite, Anxiety, Sadness",Major Depressive Disorder,Medication
+b013b525-6821-4dd0-9fd7-1798822e8417,56,Female,17,Severe,"Anxiety, Insomnia, Loss of appetite, Irritability, Sadness",No Depression,Combination therapy
+9b589db8-6817-4c03-9207-44763cf508d8,51,Male,12,Mild,"Sadness, Fatigue, Irritability, Anxiety",Major Depressive Disorder,Medication
+713bffcd-fa1d-46c8-be63-e0797cc8c56d,68,Female,2,Severe,"Irritability, Fatigue, Anxiety, Insomnia, Loss of appetite",Major Depressive Disorder,No treatment
+edada93b-f39d-44cf-8c50-c181192b97a0,43,Female,42,Severe,"Insomnia, Fatigue, Sadness",No Depression,Medication
+d0b7edc9-f99e-439b-8bd3-7a3ec8f4e048,34,Female,13,Moderate,"Sadness, Insomnia, Fatigue",Major Depressive Disorder,Medication
+0b5a19be-220c-45ff-bca1-66eef644b9b6,28,Other,50,Mild,"Insomnia, Fatigue, Sadness",Major Depressive Disorder,Medication
+6b5230f9-a0d5-4591-b319-dc5f1622a236,74,Male,6,Mild,"Fatigue, Anxiety",Major Depressive Disorder,No treatment
+529d0470-9b59-4b38-b0a1-ac3e132fa230,23,Male,39,Mild,"Fatigue, Irritability, Insomnia, Sadness, Loss of appetite",No Depression,Combination therapy
+ae21a840-dc2f-4c48-9f27-5326563c101d,70,Female,9,Mild,"Sadness, Insomnia, Fatigue, Irritability",Major Depressive Disorder,Combination therapy
+0bbff0c7-c22b-444a-9cc3-c0bd49dd33df,77,Male,6,Severe,"Loss of appetite, Anxiety, Insomnia",Major Depressive Disorder,No treatment
+319be793-a8df-41cb-85eb-09119ed6ac4c,53,Male,50,Severe,"Loss of appetite, Sadness, Fatigue, Insomnia, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+c8aaa59e-dc07-4162-b7de-b042eff9e9d9,48,Male,19,Moderate,"Insomnia, Fatigue",No Depression,Cognitive Behavioral Therapy
+1958622c-6781-44d8-be2e-1e1bd2071a36,53,Other,38,Severe,"Sadness, Loss of appetite, Irritability, Anxiety, Insomnia",No Depression,Cognitive Behavioral Therapy
+5a9201cd-c61c-4388-9f87-5c8ce07ccdae,29,Female,1,Severe,"Fatigue, Insomnia",Major Depressive Disorder,Medication
+e012a62f-6fa5-44f0-9f15-d2776116e92e,43,Female,34,Moderate,"Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+449d712d-a4b4-486b-92c6-be370b33688a,77,Male,44,Mild,"Irritability, Sadness",No Depression,Cognitive Behavioral Therapy
+b2807080-c55f-4a99-99a2-d1210fcaadaf,62,Female,14,Severe,"Anxiety, Insomnia, Fatigue",Major Depressive Disorder,Combination therapy
+248e49df-a02f-4dd5-b4d7-388c648c4980,19,Female,6,Mild,"Insomnia, Fatigue, Loss of appetite, Irritability",No Depression,No treatment
+a563a820-80c6-41ce-b3cc-b20fb8f69b88,53,Female,11,Moderate,"Sadness, Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+37616f02-65e9-487d-843e-24de86da9573,20,Other,12,Moderate,"Irritability, Sadness",No Depression,Medication
+6aee8c91-0986-46a5-90eb-d04411ce6530,40,Other,13,Mild,"Insomnia, Anxiety, Irritability, Loss of appetite, Sadness",No Depression,Medication
+373d40fb-24d0-4687-8a6d-26cee0c177be,39,Other,13,Mild,"Fatigue, Loss of appetite, Irritability",Major Depressive Disorder,Combination therapy
+fe79d2b7-6fbe-47b0-a8fc-49d635386523,18,Female,49,Severe,"Fatigue, Irritability, Insomnia, Sadness, Anxiety",Major Depressive Disorder,Medication
+2a25ce1e-0ff4-4715-a786-5954377e0455,37,Female,2,Moderate,"Sadness, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+8a352bb0-34ad-4326-8ebd-c9061f171884,47,Other,50,Mild,"Loss of appetite, Irritability, Insomnia, Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+dbfdcf5a-0774-4eaf-901c-9bd3552328ca,38,Male,34,Moderate,"Insomnia, Anxiety, Fatigue",Major Depressive Disorder,No treatment
+dd1b477d-9249-4897-9d8e-ca3f34651a5e,19,Other,38,Severe,"Insomnia, Irritability, Sadness",Major Depressive Disorder,No treatment
+46d1f9a6-964e-490d-86d1-648ddf123e90,27,Male,29,Severe,"Loss of appetite, Fatigue, Irritability, Sadness, Insomnia",No Depression,Medication
+c6bd1ff9-6061-4862-8724-07a7095fd173,58,Female,10,Moderate,"Sadness, Fatigue",Major Depressive Disorder,No treatment
+4d395fce-08a3-474d-b988-a914eb93896d,67,Female,51,Severe,"Irritability, Anxiety, Sadness, Fatigue, Loss of appetite",No Depression,Combination therapy
+5851d18a-a2dd-4f38-a59b-58fdcb461793,67,Female,49,Moderate,"Fatigue, Insomnia, Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+f1afe8b7-68b1-411f-a7c9-1c04052f0d3f,74,Other,47,Severe,"Fatigue, Anxiety",Major Depressive Disorder,Medication
+135a8987-8d18-4044-811b-04b6f88d14bb,33,Other,40,Severe,"Irritability, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+154d90e4-17ab-4050-b879-b9231fb3d54d,49,Male,49,Severe,"Insomnia, Fatigue, Sadness",Major Depressive Disorder,Combination therapy
+2d51eae6-460a-49bf-bb1a-b457d90e113d,59,Other,49,Moderate,"Insomnia, Irritability",Major Depressive Disorder,Combination therapy
+73b57611-d0a7-4aed-b5e7-3b8addca8b56,70,Female,37,Moderate,"Insomnia, Anxiety, Loss of appetite",Major Depressive Disorder,Combination therapy
+bf95708b-9c2a-4c0b-99fd-4f0cffa7318c,33,Other,19,Severe,"Fatigue, Irritability, Loss of appetite, Sadness",Major Depressive Disorder,No treatment
+56eee44f-517d-419a-9163-fc83355da6c2,69,Female,26,Mild,"Irritability, Fatigue",Major Depressive Disorder,No treatment
+07c49b4b-a893-4b37-a2b2-d02ec5dd6437,80,Other,44,Severe,"Anxiety, Insomnia, Fatigue, Irritability, Sadness",Major Depressive Disorder,Medication
+0d410d5d-21ae-4ffb-91cd-a81c5ddaa023,56,Female,10,Mild,"Insomnia, Irritability",No Depression,Medication
+71934d7a-baf5-45f4-8203-5cc72ea92533,79,Male,8,Mild,"Insomnia, Sadness, Irritability",No Depression,Medication
+8578f2b4-b0f5-4d8b-895f-9e87ce3a08ae,18,Female,16,Mild,"Loss of appetite, Sadness, Anxiety, Fatigue, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+8c880696-25d2-40b0-af9a-f421367ee861,44,Male,35,Moderate,"Loss of appetite, Irritability",Major Depressive Disorder,Combination therapy
+c9773a44-5558-4109-aed1-093c68501f48,38,Male,47,Moderate,"Loss of appetite, Irritability, Fatigue",Major Depressive Disorder,Combination therapy
+80ca935a-5706-452c-9ac9-1fc3d05a05d6,25,Male,9,Severe,"Sadness, Insomnia, Anxiety",Major Depressive Disorder,Medication
+c2f66aec-23a4-465f-9acb-111b1c773dc0,58,Other,16,Mild,"Insomnia, Anxiety, Sadness, Loss of appetite, Fatigue",Major Depressive Disorder,Combination therapy
+4a3bea7e-029a-44c9-a54a-29048253eba7,62,Other,34,Severe,"Irritability, Insomnia, Anxiety, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+c9874411-d74d-4253-8080-f48c03128bbc,23,Other,17,Moderate,"Sadness, Irritability",No Depression,No treatment
+c932a90d-9aa9-4bb2-91ad-db066bde398b,45,Other,11,Moderate,"Sadness, Insomnia, Fatigue, Loss of appetite",No Depression,Combination therapy
+65b65057-0610-4d40-901a-f3cad03aaa46,43,Other,30,Severe,"Anxiety, Fatigue, Sadness, Loss of appetite",Major Depressive Disorder,No treatment
+51dff45a-2db5-40f6-b7b9-95eacb3ce76a,31,Other,7,Mild,"Loss of appetite, Anxiety",No Depression,Combination therapy
+f34f3f76-851d-40c9-a106-6e1828f9fdd0,71,Male,42,Moderate,"Sadness, Insomnia, Loss of appetite, Fatigue, Anxiety",Major Depressive Disorder,Medication
+8ad2369f-931e-47b8-8252-281621036ed9,46,Other,31,Moderate,"Fatigue, Insomnia, Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Combination therapy
+819ba29b-3f16-41c3-be6f-aa18cec83187,55,Other,41,Moderate,"Fatigue, Sadness",No Depression,Combination therapy
+6c30deda-3cf7-45bd-82af-be51ad17a91b,71,Male,1,Mild,"Loss of appetite, Irritability, Anxiety, Fatigue",No Depression,Cognitive Behavioral Therapy
+a8bd18b1-2b17-4469-8340-9b18db201620,79,Male,51,Severe,"Anxiety, Irritability, Fatigue",Major Depressive Disorder,Combination therapy
+5ac41359-5b04-4025-b5e1-21008186fe53,20,Female,20,Severe,"Anxiety, Fatigue, Loss of appetite, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+8c45614a-690f-4d75-9ed8-21a2557e2c63,75,Female,8,Severe,"Anxiety, Sadness, Irritability",No Depression,No treatment
+9555ddc3-3ab6-43a4-89a9-36711f5b544a,60,Other,12,Moderate,"Sadness, Insomnia, Anxiety",Major Depressive Disorder,No treatment
+a5c8f64e-ef33-447c-84f7-30eeb07011b3,46,Male,45,Moderate,"Fatigue, Anxiety, Irritability, Sadness, Loss of appetite",Major Depressive Disorder,No treatment
+69053961-48fd-4735-9469-b06acb135fa2,25,Female,1,Severe,"Insomnia, Irritability, Loss of appetite, Sadness, Fatigue",No Depression,Medication
+d0060704-8e37-489e-b0ae-378dcc4caca9,28,Other,10,Mild,"Loss of appetite, Insomnia, Anxiety, Irritability",Major Depressive Disorder,Combination therapy
+221fbb06-e77f-4f08-802e-fdc476e2531f,65,Other,5,Severe,"Anxiety, Sadness, Loss of appetite, Fatigue, Irritability",Major Depressive Disorder,Combination therapy
+c4a7989a-e8d9-4b6d-84bf-95ca3af22824,57,Female,44,Mild,"Fatigue, Irritability, Insomnia, Anxiety, Sadness",No Depression,Medication
+56036beb-7855-489c-b231-14474ceceadd,53,Female,32,Moderate,"Anxiety, Irritability",No Depression,Combination therapy
+232167c8-aeea-45c5-bc07-55df49a0236d,76,Male,41,Severe,"Insomnia, Sadness",No Depression,Combination therapy
+fc340d65-5a84-4d2e-93c7-d4107917168f,37,Female,4,Severe,"Irritability, Fatigue, Anxiety, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+a94fea73-4321-4b43-b344-cef26d6783e6,52,Male,28,Severe,"Anxiety, Loss of appetite, Sadness, Irritability, Fatigue",No Depression,Combination therapy
+80d2fa5c-643a-4ce5-8f2e-08e47f81aca1,73,Other,43,Mild,"Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+e162fad8-05ec-4c6b-abd1-4d15ce3b9b4b,21,Female,41,Mild,"Fatigue, Loss of appetite, Anxiety, Insomnia, Irritability",No Depression,Cognitive Behavioral Therapy
+23de4c85-5fb2-49f4-9258-6fb2e91f72ad,28,Other,36,Severe,"Loss of appetite, Anxiety",No Depression,Cognitive Behavioral Therapy
+934caf78-f02e-4beb-83f4-fa26e0ef9e6b,67,Male,35,Mild,"Fatigue, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+e0f1dcf2-801b-4638-a09f-107136c01dd2,79,Female,37,Severe,"Sadness, Anxiety, Loss of appetite, Fatigue, Insomnia",Major Depressive Disorder,Medication
+3eade2ba-582f-405f-bf69-0c274ad37d4a,35,Other,28,Mild,"Insomnia, Sadness, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+877894b7-710a-4192-bf7f-18d58c79cafb,35,Other,10,Moderate,"Insomnia, Fatigue, Irritability",Major Depressive Disorder,No treatment
+d2199c8b-a490-4032-a774-c0341216c157,63,Other,6,Severe,"Irritability, Sadness",No Depression,No treatment
+89c9ea46-4a36-4515-a176-d92a0883938f,36,Female,5,Severe,"Loss of appetite, Irritability, Fatigue, Anxiety, Sadness",No Depression,Combination therapy
+2e219d0f-8c89-4ac5-b0eb-aa08ef9962e2,27,Female,8,Mild,"Irritability, Loss of appetite, Insomnia",Major Depressive Disorder,Medication
+536855b1-698f-4ad1-96e4-d75aae012a82,56,Female,16,Severe,"Loss of appetite, Anxiety",No Depression,Medication
+a5118486-81fb-4fe8-a5cc-74af5d46daf5,80,Male,17,Moderate,"Fatigue, Irritability",No Depression,Medication
+81293206-f983-48b5-a90c-45bb02a13b33,79,Male,21,Moderate,"Insomnia, Sadness, Irritability, Anxiety",Major Depressive Disorder,Combination therapy
+d29d84f7-0336-4cb2-ba3c-3370630da4e4,40,Female,51,Severe,"Fatigue, Anxiety, Irritability, Insomnia, Sadness",Major Depressive Disorder,No treatment
+32060d8f-9261-49c3-aa40-8f3cb1f38660,76,Male,19,Mild,"Irritability, Anxiety, Fatigue, Sadness, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+eef1339e-7bb3-4b6c-af6b-dc21482600bd,58,Other,22,Mild,"Loss of appetite, Irritability, Insomnia, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+cfef4aba-c2c1-439e-a9ce-cc94735c3663,25,Male,30,Severe,"Insomnia, Sadness",Major Depressive Disorder,Combination therapy
+3e695b88-cb67-4820-8ec1-af86f16e347d,67,Other,37,Severe,"Sadness, Irritability, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+4ba0f581-c605-4105-9bbf-722e92150fc8,40,Male,3,Mild,"Loss of appetite, Anxiety, Sadness, Insomnia",No Depression,No treatment
+96f8b091-1459-41ef-bd84-b11ecd4439e7,20,Male,17,Mild,"Fatigue, Insomnia, Irritability, Loss of appetite, Anxiety",Major Depressive Disorder,Combination therapy
+8e927960-0c64-4c95-b090-1e70b5eaf537,33,Other,1,Severe,"Irritability, Anxiety, Insomnia",Major Depressive Disorder,Combination therapy
+6ef4d5eb-f3a6-4ea2-ba16-ffb6a4db75c9,33,Female,19,Severe,"Fatigue, Anxiety",No Depression,Medication
+7f1c6e3e-298c-40fd-9c6c-6fc6a6b26cf7,38,Male,31,Mild,"Insomnia, Loss of appetite, Irritability, Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+4837d259-dc60-4f66-b773-b02f91b37ce5,47,Female,36,Severe,"Loss of appetite, Fatigue, Irritability, Insomnia, Sadness",No Depression,Cognitive Behavioral Therapy
+e31c22a5-fba5-4973-b274-080e3de3739c,75,Other,19,Mild,"Loss of appetite, Irritability, Insomnia",Major Depressive Disorder,No treatment
+ca9fcb1e-0473-4320-8348-8802597a400a,75,Female,1,Mild,"Loss of appetite, Sadness, Fatigue",Major Depressive Disorder,No treatment
+59bbebd6-cda6-413b-9b1d-9fdf64372ec8,75,Female,27,Severe,"Anxiety, Insomnia",Major Depressive Disorder,Medication
+3c123369-c6e7-487c-b3df-ef7afd892b3d,68,Other,49,Mild,"Sadness, Fatigue, Anxiety, Insomnia",No Depression,Medication
+a510b57d-5f5a-44d9-afec-d11dda3f38a7,29,Other,50,Moderate,"Sadness, Irritability, Fatigue, Loss of appetite, Anxiety",No Depression,No treatment
+61d6fe6c-c8cd-4fc3-b28c-474e6ec99050,39,Female,49,Moderate,"Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+ceb675c0-608c-47a4-86a6-8214505f6c97,46,Female,22,Mild,"Insomnia, Sadness, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+3adddf20-3d5c-4998-b6c7-902a0a75082a,29,Other,10,Severe,"Fatigue, Insomnia, Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Combination therapy
+311d5415-caaf-4067-af79-aba997ed3796,55,Male,37,Moderate,"Loss of appetite, Insomnia, Anxiety",Major Depressive Disorder,No treatment
+d69a75cc-6f6c-40da-a212-f2e8d46ad8ec,54,Male,1,Severe,"Anxiety, Irritability, Sadness, Loss of appetite, Insomnia",No Depression,Medication
+4e4821bc-b055-4c28-a2e5-bf0a469ffa33,45,Other,39,Mild,"Loss of appetite, Irritability, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+a0965447-a5d3-4a56-8655-77222a16ef91,38,Other,29,Mild,"Insomnia, Anxiety, Irritability, Fatigue, Sadness",Major Depressive Disorder,Combination therapy
+f8c06757-475e-4acd-8f2f-96b1f7e967b5,59,Female,8,Severe,"Anxiety, Sadness, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+5f26da5d-c1b8-461c-be5a-3a224b95efaa,51,Other,23,Moderate,"Insomnia, Loss of appetite, Irritability, Anxiety",Major Depressive Disorder,No treatment
+95a281e2-6d82-462e-96e8-4fa21e97d7d9,71,Other,5,Mild,"Irritability, Sadness, Fatigue, Insomnia, Anxiety",No Depression,Cognitive Behavioral Therapy
+135ae599-65a7-4934-ad67-6ecb7d603114,21,Female,12,Severe,"Loss of appetite, Fatigue, Sadness, Irritability, Anxiety",No Depression,No treatment
+5451a84b-7320-4cd8-aa95-e17776769bc9,62,Female,45,Mild,"Loss of appetite, Anxiety, Fatigue, Sadness, Insomnia",Major Depressive Disorder,Combination therapy
+a65b551a-3825-4537-9b38-c83dcae9abd8,74,Female,32,Moderate,"Loss of appetite, Anxiety",Major Depressive Disorder,Combination therapy
+ec258d2c-868e-4dd0-8eb8-5cce8b8e1dd6,75,Female,28,Mild,"Irritability, Fatigue, Loss of appetite, Insomnia, Anxiety",Major Depressive Disorder,Combination therapy
+8610ea8b-209a-4bb7-b5e9-288bd0e0d72f,67,Male,36,Mild,"Sadness, Fatigue, Insomnia",No Depression,Cognitive Behavioral Therapy
+56494ebc-ab8d-40a1-818f-7b09d2ad009d,49,Male,17,Moderate,"Loss of appetite, Anxiety, Insomnia",No Depression,Combination therapy
+3b8e3ec8-7fa6-4d29-8efb-b863a19f0421,51,Female,21,Severe,"Fatigue, Anxiety, Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+90c47bfb-1acb-4710-9cc4-0a528d863ef7,47,Other,5,Moderate,"Irritability, Sadness, Anxiety, Fatigue, Loss of appetite",Major Depressive Disorder,Combination therapy
+aacab9eb-b7a1-44e6-afc3-e94a32facfb4,24,Other,2,Severe,"Insomnia, Irritability, Loss of appetite, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+6a5d1330-1938-4588-9ade-fbfcbf001e8e,48,Male,22,Severe,"Insomnia, Loss of appetite, Anxiety, Sadness, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+5f95497f-673d-4f0b-9cf7-4098814620c8,44,Other,38,Severe,"Anxiety, Fatigue, Sadness, Irritability, Insomnia",No Depression,Combination therapy
+634237ac-6c0e-4f00-a543-656c8fec65a4,38,Female,39,Moderate,"Fatigue, Irritability, Loss of appetite, Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+23ee807a-5b66-4bb3-925b-8cd8a9a73213,20,Male,49,Mild,"Insomnia, Irritability, Fatigue, Sadness, Anxiety",No Depression,No treatment
+b871606e-ccae-40df-b745-1a3e539fda7c,54,Male,5,Moderate,"Irritability, Fatigue, Anxiety, Loss of appetite",Major Depressive Disorder,Combination therapy
+394fa915-ad68-4cbc-8315-cb56eb6e0664,62,Male,28,Mild,"Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+248f837d-ed3c-41a7-828e-9d63e93e389b,76,Male,27,Moderate,"Sadness, Fatigue",Major Depressive Disorder,Medication
+828ea593-550d-4f9d-8bfd-15194ba3e046,43,Other,44,Mild,"Anxiety, Fatigue",Major Depressive Disorder,Medication
+ca8da04e-afdb-4347-b05f-0e1010c7fa1d,36,Female,1,Severe,"Irritability, Fatigue, Loss of appetite",No Depression,Medication
+4d1590d0-fae8-4bee-91a5-5c57134a0546,33,Female,16,Mild,"Irritability, Anxiety",Major Depressive Disorder,Combination therapy
+a78dc6a4-fbaa-4f60-8c76-581a4000e72e,79,Female,14,Severe,"Fatigue, Anxiety, Loss of appetite, Irritability",No Depression,No treatment
+365a3196-352f-458c-b79b-b5650e4e75ef,60,Male,35,Mild,"Sadness, Irritability, Loss of appetite, Fatigue, Insomnia",No Depression,Combination therapy
+aa84b66e-9d2d-405e-85c2-2232aae08809,72,Female,21,Mild,"Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+ac0f9f4a-21db-4c51-bb51-b327ee336472,66,Male,29,Moderate,"Sadness, Insomnia, Anxiety, Irritability, Loss of appetite",Major Depressive Disorder,Medication
+59310017-6172-473e-b1e8-0fdc690c8a53,38,Female,47,Severe,"Irritability, Loss of appetite, Anxiety",Major Depressive Disorder,No treatment
+07da6081-e85e-48d4-81ae-680589fae3fa,29,Female,36,Severe,"Loss of appetite, Fatigue, Irritability, Anxiety",No Depression,No treatment
+29579a73-14d9-4903-8843-1310abc22fdf,25,Other,2,Mild,"Sadness, Loss of appetite, Irritability, Insomnia",Major Depressive Disorder,No treatment
+66f0f262-1d50-4dab-88d5-fff0dd6b0889,50,Male,16,Mild,"Fatigue, Insomnia",No Depression,No treatment
+d548f608-3710-4d46-b7dc-e7bf17be048e,28,Other,4,Severe,"Insomnia, Sadness, Loss of appetite, Irritability, Anxiety",Major Depressive Disorder,Combination therapy
+33b50697-cc20-4edf-afb8-ce530355d1d7,66,Female,33,Moderate,"Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+dd8d9b69-db1a-42f7-9182-98fc2f76c581,43,Other,31,Severe,"Anxiety, Sadness, Fatigue, Loss of appetite",No Depression,Medication
+eecd9924-5d56-4fc7-9a54-0a4ba275ed5b,55,Male,32,Mild,"Irritability, Fatigue, Anxiety, Sadness, Insomnia",Major Depressive Disorder,Medication
+cd651ef1-a8fd-4b5c-8d0e-8781970358e8,39,Male,42,Mild,"Irritability, Insomnia, Anxiety, Fatigue",No Depression,No treatment
+66f0c426-9721-41ae-9618-8fb2cb6f5f39,65,Male,14,Moderate,"Sadness, Insomnia, Fatigue",No Depression,Combination therapy
+7c22c733-7503-4795-86d6-f2c6fb2f996f,68,Other,35,Moderate,"Loss of appetite, Fatigue",Major Depressive Disorder,Combination therapy
+1bb6db39-35c9-4d22-b2ad-f07f8c65c58b,68,Other,50,Severe,"Sadness, Loss of appetite",Major Depressive Disorder,No treatment
+2674e507-7da6-45b1-88f5-c7cc088e9075,33,Male,26,Severe,"Irritability, Anxiety, Fatigue, Loss of appetite, Insomnia",No Depression,Medication
+2ed704a7-3c30-48cf-b8aa-2fcecd1dfbd5,58,Male,9,Severe,"Sadness, Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+5ca8d3fa-760b-4a3b-8388-4d5debeb1092,33,Female,44,Moderate,"Irritability, Sadness, Loss of appetite, Anxiety, Fatigue",Major Depressive Disorder,No treatment
+2daf7fc7-f707-46fc-a8e2-b556e2856a51,50,Male,34,Severe,"Irritability, Loss of appetite",No Depression,Combination therapy
+72269e1d-1a0e-4d1d-9b3f-03ed0511be42,30,Other,4,Severe,"Fatigue, Irritability, Sadness, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+7f7a677b-4e90-42c7-a289-164dcf02abda,29,Male,40,Severe,"Insomnia, Sadness, Irritability, Loss of appetite",Major Depressive Disorder,Combination therapy
+3be6800e-d972-48d3-a521-95d29706e5d7,55,Male,38,Moderate,"Insomnia, Loss of appetite, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+ebe4b449-eb5b-4ed4-b4cd-1260a7672acb,72,Male,17,Severe,"Fatigue, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+c859c090-0823-4ae4-814c-e20fe1992ab7,69,Female,44,Moderate,"Fatigue, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+b72c5c33-3ead-4236-bcf2-5be45ff4eda5,68,Other,10,Moderate,"Loss of appetite, Irritability, Sadness, Anxiety, Insomnia",No Depression,Cognitive Behavioral Therapy
+32a51160-df5a-4a35-9bba-574f1b800d68,28,Other,2,Moderate,"Sadness, Loss of appetite, Irritability, Insomnia",Major Depressive Disorder,No treatment
+42a03f52-2efc-4363-98e6-bb106cc718da,80,Male,39,Severe,"Anxiety, Sadness, Loss of appetite, Irritability, Insomnia",Major Depressive Disorder,Medication
+272880de-e579-4c95-933a-1397336deb03,29,Other,36,Severe,"Insomnia, Sadness, Irritability, Anxiety, Fatigue",Major Depressive Disorder,Medication
+ad6883ea-3456-4d13-8cf0-eac984608d42,61,Male,6,Moderate,"Fatigue, Loss of appetite, Irritability, Sadness, Anxiety",No Depression,Medication
+58210b9e-c36e-459c-82cf-7cd9cfb51700,41,Other,49,Severe,"Loss of appetite, Fatigue, Anxiety",No Depression,Cognitive Behavioral Therapy
+9efe47ef-0ada-4ed3-bf65-8f96c58f24af,35,Other,30,Severe,"Fatigue, Irritability, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+4f459d79-40d7-415e-8329-c62cecb166f0,46,Female,34,Severe,"Loss of appetite, Irritability, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+8541903e-77b2-42ea-bc2e-9e6b8c4705e1,23,Other,48,Moderate,"Insomnia, Loss of appetite, Irritability, Anxiety",No Depression,No treatment
+5bba2772-e44e-4083-b89b-aefa6fc114eb,34,Male,50,Severe,"Irritability, Fatigue, Insomnia",Major Depressive Disorder,Combination therapy
+c3ce26aa-83ef-4c28-93f0-a11112146c9c,65,Other,26,Mild,"Sadness, Anxiety",No Depression,No treatment
+c1cc2fb2-4e8b-4729-9966-eab08ecae20a,61,Other,22,Severe,"Sadness, Irritability, Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+999dbb2b-e789-40c3-b2ea-6bcac4d5aea6,63,Male,43,Mild,"Insomnia, Fatigue, Loss of appetite, Anxiety",Major Depressive Disorder,No treatment
+7aa8602a-07c5-4413-a96a-6f668c05cd24,53,Other,22,Severe,"Insomnia, Fatigue, Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+ec0cbbdd-4b3e-4e84-b03a-6337ebf296e1,68,Female,23,Moderate,"Fatigue, Loss of appetite, Anxiety",No Depression,Combination therapy
+ba13d162-679e-4898-ab72-7455b788aaad,61,Other,46,Severe,"Fatigue, Irritability, Insomnia",Major Depressive Disorder,Combination therapy
+5f93bb21-8272-452a-89da-f0bd57d8410c,76,Male,7,Mild,"Insomnia, Loss of appetite, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+e118efa1-f77f-4d24-8fe3-07bca7ddb587,54,Male,12,Moderate,"Fatigue, Anxiety, Insomnia, Loss of appetite, Irritability",No Depression,Combination therapy
+db6bcfa0-6c0f-4690-ba65-79555dcf90ef,59,Other,3,Moderate,"Loss of appetite, Anxiety, Sadness, Irritability, Fatigue",No Depression,No treatment
+e75355a8-4f75-4423-b15a-f55ad4a2dde5,75,Male,3,Moderate,"Anxiety, Loss of appetite, Fatigue, Insomnia, Irritability",No Depression,Cognitive Behavioral Therapy
+9f3f53e2-ecda-4479-a1f0-38fdadebbf93,44,Male,40,Severe,"Insomnia, Fatigue",No Depression,Cognitive Behavioral Therapy
+ce3e2250-5c07-4701-927a-34be6e2d079c,33,Other,17,Moderate,"Fatigue, Sadness, Insomnia, Loss of appetite, Irritability",Major Depressive Disorder,No treatment
+c82ff041-8828-439a-8f6d-623bf28eda3d,27,Female,38,Mild,"Sadness, Irritability, Fatigue, Loss of appetite, Anxiety",Major Depressive Disorder,Combination therapy
+7697c591-0a1f-45e8-bb0c-f871d099ecb4,49,Other,7,Moderate,"Anxiety, Sadness, Insomnia, Loss of appetite",No Depression,Medication
+468049bb-eb9e-4076-bab3-53ec5af02c28,32,Male,14,Moderate,"Irritability, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+ed0be6d7-3ae6-40e4-aa93-29e56d44a1e9,63,Other,38,Moderate,"Irritability, Insomnia, Loss of appetite, Anxiety, Sadness",Major Depressive Disorder,Combination therapy
+21f139b5-eb6f-4a7a-b3a8-7407af6e9b5e,60,Other,20,Severe,"Anxiety, Irritability",No Depression,Medication
+2fe4b821-d0c6-48ea-9748-b1dbddc4401f,46,Female,44,Severe,"Sadness, Loss of appetite, Insomnia, Anxiety, Irritability",Major Depressive Disorder,Medication
+aeba26e0-b6c0-4065-a4d6-e9a9d2f09c66,48,Other,29,Severe,"Loss of appetite, Sadness, Irritability, Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+01ac0006-a283-444e-8e68-57023b263172,36,Other,27,Severe,"Sadness, Fatigue, Irritability, Loss of appetite, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+7621e67f-9968-4125-9027-9781064e297e,63,Other,31,Mild,"Loss of appetite, Fatigue",No Depression,Cognitive Behavioral Therapy
+3a997d6b-04cb-4333-9660-f2c75842b8c9,46,Male,35,Moderate,"Insomnia, Irritability, Loss of appetite, Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+d3c73756-0f9b-4c28-93fd-83f3881a8fdd,52,Male,12,Severe,"Sadness, Anxiety, Irritability, Insomnia",No Depression,Medication
+e0a9031f-6fd4-4017-a0c4-8102d4488f26,76,Female,35,Moderate,"Anxiety, Loss of appetite",No Depression,Medication
+80c7e8a7-0b32-4843-8372-f1723f6b32a3,51,Other,18,Moderate,"Sadness, Loss of appetite",No Depression,No treatment
+1f83d983-f76a-4fdc-ba7b-55f7a86873e4,40,Male,43,Severe,"Sadness, Anxiety, Loss of appetite, Fatigue, Insomnia",Major Depressive Disorder,Medication
+ac825be8-51fc-4803-be7c-01a4ca71c641,51,Female,23,Moderate,"Sadness, Fatigue, Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+e08bdc1d-0d5e-4581-9e82-2c6261003b1f,21,Other,33,Mild,"Anxiety, Irritability, Insomnia",Major Depressive Disorder,No treatment
+17217424-f823-4c7c-8c77-6c3c0f4abc0c,40,Female,12,Mild,"Insomnia, Sadness, Fatigue",No Depression,No treatment
+a6f07fcf-0c14-4482-a8f2-799d1e414e14,26,Female,26,Moderate,"Sadness, Anxiety",Major Depressive Disorder,Medication
+721573f5-edb5-4049-89d0-cc9494549dad,80,Other,34,Severe,"Fatigue, Anxiety, Sadness, Loss of appetite",No Depression,Combination therapy
+99df78a1-6fbb-42ea-b79f-9df09197e4e8,76,Male,14,Mild,"Sadness, Loss of appetite, Irritability, Insomnia",No Depression,Cognitive Behavioral Therapy
+9314ceea-077f-482f-b602-ff5aafe547c8,72,Female,22,Moderate,"Loss of appetite, Sadness, Anxiety, Fatigue, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+0b535116-d0e6-423a-854c-d8c108cf522c,72,Female,25,Mild,"Sadness, Insomnia, Anxiety, Loss of appetite",Major Depressive Disorder,Combination therapy
+7a823507-2149-46f5-b101-c7a2c40c877f,21,Other,47,Mild,"Insomnia, Loss of appetite, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+09272534-6be4-4a6c-93ce-d83804d214e3,30,Other,50,Moderate,"Anxiety, Sadness",Major Depressive Disorder,No treatment
+e59fd08a-01de-4939-9e34-e8037a78f2cc,21,Female,38,Severe,"Anxiety, Insomnia, Irritability, Loss of appetite",Major Depressive Disorder,Medication
+fd3c2ffe-9950-4113-b60c-c578982c39b5,19,Female,13,Moderate,"Sadness, Insomnia, Fatigue, Anxiety, Irritability",No Depression,Cognitive Behavioral Therapy
+4588b110-2fce-426c-9467-202e1aa5421c,25,Male,14,Moderate,"Insomnia, Anxiety, Irritability, Loss of appetite",Major Depressive Disorder,No treatment
+e0779a5b-278d-420c-932a-223f724708c4,32,Female,2,Severe,"Loss of appetite, Fatigue, Sadness, Anxiety, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+3cd501d5-cbc2-4a01-a5b6-dc0f3dd24c16,53,Female,4,Severe,"Fatigue, Insomnia, Anxiety",No Depression,Medication
+d2a1475b-4d3c-479b-8324-9d4a32155b09,52,Male,18,Severe,"Loss of appetite, Sadness, Fatigue, Insomnia",Major Depressive Disorder,Combination therapy
+f6ff3c52-0571-44f0-9098-1478a4e1ba05,34,Female,21,Mild,"Loss of appetite, Fatigue, Anxiety",No Depression,Cognitive Behavioral Therapy
+4d265932-f051-4951-9b5d-d871d97c8e46,35,Female,35,Moderate,"Fatigue, Irritability, Insomnia, Anxiety, Sadness",Major Depressive Disorder,Medication
+21e028f8-0674-423e-9179-75b372324fb9,80,Male,44,Moderate,"Fatigue, Sadness, Insomnia, Irritability, Anxiety",No Depression,No treatment
+86a4b10f-cbaa-450c-bc70-5f5adca52031,67,Other,8,Moderate,"Anxiety, Sadness, Irritability",No Depression,Medication
+04c94c66-eac8-45ef-9a7b-ca7cdfd41f8c,70,Other,13,Severe,"Insomnia, Anxiety, Loss of appetite",No Depression,Cognitive Behavioral Therapy
+2ef92c6c-639d-4bca-af48-0f79cebe86ff,32,Other,33,Moderate,"Fatigue, Sadness",Major Depressive Disorder,Medication
+30a9db6e-6ded-4a8c-aabd-c4863bda101f,48,Other,18,Mild,"Fatigue, Irritability, Insomnia, Sadness",Major Depressive Disorder,No treatment
+335a1633-e06a-45c2-8aaa-7a7f44677fcd,48,Female,2,Mild,"Insomnia, Fatigue, Sadness, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+6cc201ba-5394-4477-a741-424d4a1ffd73,42,Male,52,Moderate,"Sadness, Loss of appetite, Anxiety",No Depression,Combination therapy
+dc8d4250-ea32-48c8-b07a-f3236c0e40ca,56,Other,20,Moderate,"Fatigue, Anxiety, Insomnia, Irritability",Major Depressive Disorder,Combination therapy
+7987c763-5447-4d6a-8434-9a516f31b4e5,66,Other,32,Severe,"Sadness, Anxiety",No Depression,Cognitive Behavioral Therapy
+d8e23cf3-f684-4173-aa23-60294a72f957,27,Other,1,Moderate,"Insomnia, Sadness, Loss of appetite, Fatigue",Major Depressive Disorder,Medication
+248a15a8-3d9e-4351-84f0-338f7c29d88c,48,Other,35,Mild,"Irritability, Insomnia",No Depression,No treatment
+562eec84-9ecb-4f4c-8f2b-9b80fca1ddb9,56,Other,5,Moderate,"Anxiety, Sadness, Irritability",Major Depressive Disorder,No treatment
+3a9e482d-a6b7-45ba-9393-043d743fc180,74,Female,5,Moderate,"Anxiety, Sadness, Irritability, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+5c07e1f5-af41-4409-9d1a-307708a35dab,39,Other,19,Severe,"Loss of appetite, Sadness",No Depression,Cognitive Behavioral Therapy
+ea7f7536-e5ce-4be2-83b3-d00aeeb01c77,21,Male,34,Mild,"Fatigue, Irritability, Sadness",Major Depressive Disorder,Combination therapy
+b8536cba-625e-422e-ad3c-042321072edd,56,Other,49,Mild,"Irritability, Anxiety",No Depression,Cognitive Behavioral Therapy
+4e8b0b5a-e8bd-4666-a8c8-2066dc8ee2f0,68,Male,15,Moderate,"Loss of appetite, Anxiety, Sadness, Irritability, Fatigue",No Depression,Combination therapy
+c6fc776f-d61e-446d-afa0-aeedb8de7c77,44,Other,5,Severe,"Irritability, Anxiety, Loss of appetite, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+70bf347c-d19b-46d9-94cb-740117b01ab4,34,Other,7,Moderate,"Fatigue, Insomnia",No Depression,Medication
+e9d4b66e-9348-4d23-9bb7-516eef96a579,32,Male,24,Moderate,"Fatigue, Irritability, Insomnia",No Depression,Cognitive Behavioral Therapy
+a4a23241-0521-47ef-959f-57145ea40d14,57,Other,17,Mild,"Loss of appetite, Fatigue, Anxiety",No Depression,Cognitive Behavioral Therapy
+4beee857-ffcf-4d79-a5ff-4aa970521f4a,56,Male,21,Severe,"Sadness, Loss of appetite, Insomnia, Irritability, Anxiety",Major Depressive Disorder,No treatment
+90547504-0bb7-4384-a475-a05aedfeabde,25,Male,4,Moderate,"Anxiety, Sadness",No Depression,Cognitive Behavioral Therapy
+8534226c-be0e-4849-b722-1c180de74f1a,44,Female,36,Severe,"Irritability, Loss of appetite, Sadness, Anxiety",Major Depressive Disorder,Medication
+41a95b46-ad4e-4844-b5b5-9b47b27c0d48,57,Female,23,Mild,"Fatigue, Loss of appetite",No Depression,Combination therapy
+88c93980-fcab-4f94-8d33-c034568d7a0f,69,Female,19,Severe,"Anxiety, Sadness, Irritability, Loss of appetite, Fatigue",Major Depressive Disorder,Medication
+6b70a15f-11a8-4918-99b7-f54057a4ffef,59,Other,16,Moderate,"Insomnia, Sadness, Fatigue, Loss of appetite, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+d50cb730-8553-4055-9c96-5731c5ed5940,28,Other,32,Mild,"Fatigue, Sadness, Insomnia",No Depression,No treatment
+1c26778d-685a-4d00-bb7e-58f8da951f34,73,Other,37,Mild,"Irritability, Insomnia, Loss of appetite",Major Depressive Disorder,No treatment
+fb739329-e505-40fd-aadb-03877115d850,45,Male,8,Severe,"Loss of appetite, Insomnia, Sadness",No Depression,Combination therapy
+915180ca-c83e-47b6-837b-ab07001e1aa9,41,Other,49,Mild,"Irritability, Insomnia, Fatigue, Anxiety, Sadness",No Depression,Combination therapy
+84dbe95e-6327-4da1-9e84-a45e13768fbd,38,Male,3,Moderate,"Sadness, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+4418e9e5-afc6-47b4-beff-08ae588ec4cd,52,Female,46,Moderate,"Sadness, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+917b7b94-cfe3-4908-8689-29f9081e8259,80,Female,51,Mild,"Insomnia, Sadness, Loss of appetite, Anxiety",No Depression,No treatment
+4514518d-9eab-48f6-b515-a0cde89e970c,25,Female,24,Severe,"Anxiety, Insomnia, Sadness, Fatigue",Major Depressive Disorder,Medication
+f83c89a8-6a2d-4085-a72d-2b5b205420e3,23,Male,6,Severe,"Irritability, Sadness, Fatigue",No Depression,Medication
+1372dd43-035e-4022-87c1-e32e54cb7f9a,73,Male,29,Mild,"Anxiety, Irritability, Sadness",Major Depressive Disorder,Combination therapy
+f42a9966-28a0-4c03-83be-0e6b251d7ac9,64,Female,20,Severe,"Irritability, Fatigue, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+26b0755e-e786-44d5-80f5-594e6bce2365,37,Other,22,Severe,"Loss of appetite, Irritability, Fatigue, Sadness, Insomnia",Major Depressive Disorder,Combination therapy
+af9abb06-2068-44b0-8042-dfe3cc31391d,40,Other,3,Mild,"Anxiety, Sadness",Major Depressive Disorder,Combination therapy
+59402aaa-5d86-41f5-80ea-1a404afac86c,41,Male,24,Moderate,"Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,No treatment
+6eb52b64-cc93-4674-ada2-89d3f5766b52,48,Other,43,Severe,"Fatigue, Loss of appetite",No Depression,Cognitive Behavioral Therapy
+e591d3e7-dd56-440c-a67b-77a65c8dd6bb,42,Male,11,Moderate,"Sadness, Fatigue, Anxiety, Loss of appetite, Insomnia",Major Depressive Disorder,No treatment
+8d2008a6-3746-4259-8abc-138f031935e6,49,Female,35,Severe,"Fatigue, Loss of appetite, Anxiety",Major Depressive Disorder,Medication
+2a5fac04-2b91-41e7-8690-41f72bb237da,48,Female,21,Severe,"Insomnia, Fatigue",No Depression,Medication
+c7c10b49-d74f-4d20-bc70-ab45083db510,46,Male,24,Severe,"Anxiety, Fatigue, Loss of appetite, Insomnia",No Depression,No treatment
+d206d8a0-91c1-40c4-9736-c66c3ea5bbf4,56,Other,31,Mild,"Irritability, Anxiety, Loss of appetite",No Depression,Medication
+207375f3-ee3c-4274-bb3d-082fa02b7a52,63,Other,20,Mild,"Loss of appetite, Anxiety",No Depression,No treatment
+3062a943-3768-4deb-8f33-2ce87b2c43ff,69,Other,49,Moderate,"Sadness, Insomnia, Anxiety, Loss of appetite, Fatigue",Major Depressive Disorder,Medication
+dd79a07b-22d2-4e66-a954-10510feac8ea,62,Other,43,Mild,"Sadness, Fatigue, Irritability, Anxiety, Loss of appetite",No Depression,Medication
+4b4ae611-2998-4295-b500-a5e96aa1605e,44,Male,37,Severe,"Loss of appetite, Insomnia, Irritability, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+1522cf2f-bdcf-42e1-aebf-e71f77a6cd25,69,Other,32,Severe,"Irritability, Sadness, Fatigue, Loss of appetite",Major Depressive Disorder,No treatment
+f612ee2c-d6ea-4f49-8aa6-41cfe80f9d89,49,Male,22,Mild,"Anxiety, Fatigue",Major Depressive Disorder,Combination therapy
+1ca3672e-be27-44b7-8dd5-eeda691fad75,67,Female,6,Moderate,"Irritability, Insomnia, Sadness, Fatigue",Major Depressive Disorder,Medication
+2dc9d1e1-6caf-4b20-99a2-e6e469ece42a,24,Female,15,Mild,"Insomnia, Irritability, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+0bd5358b-dd43-4687-8300-4461d5ebbb19,41,Male,26,Mild,"Fatigue, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+e3cc9ef8-0032-49bd-80f9-32c2ecc5b24d,60,Female,17,Severe,"Loss of appetite, Anxiety, Fatigue, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+b21e3db9-8c7e-4413-a4e1-b0f5da1b6667,23,Other,44,Severe,"Fatigue, Irritability, Insomnia, Anxiety",No Depression,Cognitive Behavioral Therapy
+41ddbb6d-28e8-4bfb-8553-76957f2f91c4,80,Male,15,Severe,"Insomnia, Irritability, Loss of appetite, Fatigue",No Depression,Cognitive Behavioral Therapy
+14a8244b-e401-4a72-834c-c386c7777456,29,Female,6,Mild,"Irritability, Fatigue, Anxiety",No Depression,Combination therapy
+168a6991-dfe0-4a25-b64f-6be8fd158d1e,18,Other,29,Severe,"Irritability, Insomnia",Major Depressive Disorder,Combination therapy
+c2724a03-b515-4d1a-ae5c-8899ec6447c9,58,Female,52,Moderate,"Irritability, Fatigue, Anxiety",No Depression,Combination therapy
+ee0443ee-0439-4fac-989b-8e764ced701f,63,Male,34,Moderate,"Fatigue, Irritability, Anxiety, Loss of appetite",No Depression,Medication
+009d0904-25bd-47f2-a6bf-c9d584c372d1,58,Male,33,Severe,"Sadness, Loss of appetite, Insomnia, Fatigue, Irritability",No Depression,Cognitive Behavioral Therapy
+d905f223-750d-4dac-acd6-0558b3805373,60,Other,18,Mild,"Insomnia, Loss of appetite, Irritability, Anxiety",No Depression,Cognitive Behavioral Therapy
+8e683c1d-3410-4e2a-b9da-7e5c469331c0,40,Other,6,Severe,"Anxiety, Fatigue, Loss of appetite, Sadness",No Depression,Medication
+00e08e99-f23b-4ba9-bd80-6bfcec0ebc7f,58,Female,44,Mild,"Sadness, Anxiety, Insomnia, Fatigue",Major Depressive Disorder,Medication
+843912da-31cf-4dea-b5e4-0465b4e2eca7,71,Other,29,Mild,"Insomnia, Irritability",No Depression,Medication
+bf84e581-3c8a-4de0-8cfb-3ceb627ea70e,55,Other,28,Severe,"Irritability, Loss of appetite",Major Depressive Disorder,Medication
+2d21113f-7bb8-42da-a3d7-2b6a4dad88ac,37,Female,22,Mild,"Sadness, Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+f83e2f10-4f72-4128-a300-b12ce8dcd0a1,65,Male,52,Moderate,"Fatigue, Anxiety",Major Depressive Disorder,No treatment
+5d572256-3f19-4bd6-8ab3-e98e28e7d5a1,38,Female,8,Mild,"Anxiety, Loss of appetite, Irritability, Sadness, Fatigue",Major Depressive Disorder,Medication
+4f33273c-ad82-4ea4-84ab-11e0f47f7633,43,Male,49,Moderate,"Irritability, Sadness, Loss of appetite, Fatigue, Anxiety",No Depression,Medication
+aa597d48-afb4-46f3-8939-1b73331d2073,19,Female,13,Severe,"Sadness, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+d268ddd4-601f-404f-adc7-6a744127773f,58,Male,48,Mild,"Irritability, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+428eebf5-0bf8-4a9b-99e8-1cdd3d35c6bd,61,Other,31,Severe,"Anxiety, Irritability, Loss of appetite",Major Depressive Disorder,Combination therapy
+43dd385d-3c5b-4787-b69e-0eb5d8a53d7c,36,Female,27,Severe,"Insomnia, Anxiety, Sadness",Major Depressive Disorder,No treatment
+cd7fc376-050f-4c49-a18b-3bc9e5f8ea07,62,Male,14,Moderate,"Insomnia, Sadness, Loss of appetite, Fatigue, Anxiety",Major Depressive Disorder,Medication
+ce1d2b77-cd41-47fc-9d1c-2527996f7c45,20,Male,37,Mild,"Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+50118a18-a4ca-42cd-809b-1acc8ec3269f,76,Male,13,Severe,"Loss of appetite, Insomnia, Fatigue, Sadness, Irritability",Major Depressive Disorder,No treatment
+c5de5ca8-2914-4649-b03a-181709cc919a,76,Other,31,Severe,"Irritability, Sadness",Major Depressive Disorder,No treatment
+24f96750-1af2-4734-ba0d-92a50930cc35,25,Other,46,Moderate,"Anxiety, Irritability, Loss of appetite, Insomnia, Fatigue",Major Depressive Disorder,Medication
+319c8d36-6de9-4db3-a1e3-3c2e2ea0102e,19,Other,31,Mild,"Fatigue, Loss of appetite, Anxiety, Sadness, Irritability",Major Depressive Disorder,Medication
+8cbe803d-d4ad-4a72-a85c-41763381ea04,64,Male,26,Mild,"Fatigue, Sadness, Irritability, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+024d84bb-6ea4-4cfc-859c-b0d9e2efe70d,59,Female,21,Moderate,"Anxiety, Sadness, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+2950b309-a161-48b8-9b3d-ec51a3aa1be9,18,Other,42,Moderate,"Fatigue, Irritability, Loss of appetite, Sadness, Insomnia",Major Depressive Disorder,Medication
+581a7e86-d570-445d-86c5-ae6f5a12002b,48,Male,23,Severe,"Irritability, Fatigue, Anxiety, Insomnia, Sadness",No Depression,Medication
+bb0d36c0-ca6a-45c8-8f80-b5483d25e7de,22,Female,12,Mild,"Anxiety, Loss of appetite, Irritability, Insomnia, Fatigue",Major Depressive Disorder,No treatment
+5102e573-0467-48b3-a5d5-199d044e4c4a,74,Female,40,Mild,"Sadness, Anxiety",Major Depressive Disorder,Medication
+63dc8391-770f-4ebd-9ef0-33883f3f9776,73,Female,3,Moderate,"Anxiety, Insomnia",Major Depressive Disorder,No treatment
+5607d731-6cd2-4bfa-920a-55c1d6358885,57,Female,1,Moderate,"Anxiety, Sadness, Insomnia",Major Depressive Disorder,Combination therapy
+bd2ad075-ade3-4b6d-910a-8e7d5d92bf95,49,Other,51,Severe,"Loss of appetite, Irritability, Insomnia, Anxiety",No Depression,No treatment
+1b6930d9-d968-4a17-844a-427d1a7cc765,19,Other,14,Mild,"Irritability, Fatigue, Loss of appetite",Major Depressive Disorder,Medication
+47dda2b0-a199-467d-b82b-67930c388a21,74,Male,47,Severe,"Sadness, Anxiety",Major Depressive Disorder,Medication
+4ab1a60e-5187-4304-90c8-593833cd96cc,66,Male,21,Moderate,"Irritability, Insomnia",No Depression,No treatment
+c8c87812-3a7f-414c-b717-4f6dddd9e053,63,Female,29,Severe,"Irritability, Fatigue, Sadness, Insomnia, Anxiety",Major Depressive Disorder,No treatment
+dd8ea6fb-8973-44a3-b674-a9e94ed8f272,19,Other,18,Moderate,"Insomnia, Sadness",Major Depressive Disorder,No treatment
+6c86d0ea-4d51-4ead-b94e-a8882cbdeb44,80,Other,12,Moderate,"Loss of appetite, Anxiety",Major Depressive Disorder,Medication
+80f3842f-cabb-4775-a324-e0a15012c541,64,Other,4,Mild,"Insomnia, Loss of appetite",Major Depressive Disorder,Combination therapy
+99f1031c-b0ad-4c13-bd0c-aa9d46bdad5a,58,Male,50,Severe,"Sadness, Fatigue",No Depression,Medication
+0552a14a-465b-4469-beac-d7eb50132b04,43,Other,38,Severe,"Anxiety, Sadness, Irritability",No Depression,No treatment
+a6f9f78d-9232-4adc-b313-c2b19e94ee91,75,Female,14,Mild,"Fatigue, Loss of appetite, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+8357f14c-86ec-4ab7-9999-3052ffa5b5dc,59,Other,48,Moderate,"Loss of appetite, Fatigue, Sadness, Anxiety",No Depression,No treatment
+c63f6fab-0ee1-4474-8f9e-19625e5baca7,31,Other,40,Severe,"Irritability, Anxiety, Loss of appetite, Insomnia",No Depression,Cognitive Behavioral Therapy
+5296ce7d-755d-4bc5-8aea-af667863db65,40,Other,40,Mild,"Insomnia, Irritability, Loss of appetite, Fatigue, Sadness",No Depression,Medication
+9bbcaf52-b84e-4f8b-8213-0fd953ad816a,34,Other,1,Mild,"Insomnia, Irritability, Sadness, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+9b52d714-3a44-44a5-97af-c7f356331632,44,Female,11,Severe,"Insomnia, Sadness, Irritability, Anxiety, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+574febb0-162d-4a03-a9e6-29e991bd3273,41,Male,26,Severe,"Fatigue, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+b27850fa-e556-4253-8dbe-0cc6697c1708,77,Male,2,Mild,"Loss of appetite, Anxiety, Sadness, Fatigue",No Depression,No treatment
+6e8803e8-6c3d-42ba-9269-1e1c5fec5327,21,Male,28,Moderate,"Fatigue, Sadness, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+d6c5fde4-15fd-4107-8292-38d0f46ac005,45,Male,6,Mild,"Sadness, Irritability, Fatigue",No Depression,No treatment
+03e79ed6-4136-4259-9c99-52ac88e5ea92,63,Other,13,Moderate,"Insomnia, Irritability, Anxiety, Loss of appetite, Fatigue",Major Depressive Disorder,No treatment
+dc24b2a9-b0a6-443b-9452-166a53668e87,74,Male,10,Moderate,"Anxiety, Irritability",Major Depressive Disorder,Combination therapy
+5837cde5-6f00-426b-bc9f-e4135bd05a3c,57,Female,49,Mild,"Sadness, Fatigue, Insomnia, Anxiety, Irritability",Major Depressive Disorder,Medication
+2706599c-6d6c-408a-94a8-66f603970bd9,42,Other,10,Severe,"Sadness, Loss of appetite, Fatigue, Anxiety, Insomnia",No Depression,Cognitive Behavioral Therapy
+52aef727-71ab-4830-845a-3aa608e4df2f,35,Female,12,Severe,"Loss of appetite, Sadness, Anxiety",No Depression,Medication
+b33779b8-446c-40dc-9a5c-330007df917e,72,Male,35,Severe,"Anxiety, Insomnia, Loss of appetite, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+9aec4c96-2e48-41d2-b865-ebf2b144652e,39,Male,26,Moderate,"Fatigue, Anxiety, Irritability, Insomnia",Major Depressive Disorder,Medication
+072db0d7-06af-495f-80c9-8f3685fe3e9d,38,Female,16,Moderate,"Sadness, Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+4eb9e681-f0d9-466a-81f5-7f2b9374e2e6,68,Male,31,Severe,"Fatigue, Irritability, Anxiety",Major Depressive Disorder,Combination therapy
+63d5d709-49d6-4b6b-83fb-a123aba42875,71,Male,3,Mild,"Fatigue, Insomnia, Sadness, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+a5790e47-aa3b-45d2-a8da-7ca67ec0245b,21,Male,6,Severe,"Irritability, Insomnia, Sadness, Loss of appetite, Fatigue",Major Depressive Disorder,Combination therapy
+5d473be6-25e1-40e0-9e01-978095959806,40,Female,36,Moderate,"Loss of appetite, Fatigue, Anxiety, Sadness, Irritability",No Depression,Combination therapy
+3ff74de4-9912-45ca-81a8-974dd0aa95ef,59,Other,41,Severe,"Fatigue, Irritability, Sadness",No Depression,Medication
+09747505-3ed6-4dc4-af40-3bc8c77af032,42,Other,39,Severe,"Sadness, Loss of appetite, Insomnia, Irritability",Major Depressive Disorder,Medication
+d3754219-a8e7-440a-adcb-6e8e2ea696ec,73,Other,22,Severe,"Sadness, Irritability",No Depression,Combination therapy
+2ff7457e-9e27-4533-ac66-b36c778b1594,50,Female,43,Moderate,"Irritability, Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+0c4650c2-93bb-4b32-b501-6093ce4ea6d6,51,Male,48,Mild,"Irritability, Anxiety",No Depression,Medication
+0053fc46-d010-4cea-ab81-bba9ebcb21af,38,Other,2,Mild,"Fatigue, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+62a481b9-f8dd-472b-963f-52e61e3f7d01,43,Male,49,Severe,"Sadness, Loss of appetite, Irritability, Anxiety",Major Depressive Disorder,Medication
+5dcdf651-6d58-4ee6-83e3-6e4cc9d74e06,24,Female,51,Mild,"Irritability, Fatigue, Insomnia, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+bbb9ea28-a038-4d7f-b7b5-ca525fdf70be,34,Other,22,Mild,"Insomnia, Anxiety, Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+b20264f9-e45e-4733-b011-9a1e95f47357,69,Other,15,Moderate,"Loss of appetite, Irritability, Fatigue",No Depression,Cognitive Behavioral Therapy
+6ba41ef4-7fa8-4fe6-bc9e-e6f610c3394d,77,Male,26,Mild,"Anxiety, Loss of appetite, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+2a6c009f-b9e2-430b-be39-7ce3e4c36d54,55,Female,15,Severe,"Irritability, Loss of appetite",No Depression,No treatment
+9f771547-1356-4cff-b65e-41038f97ec95,69,Other,45,Severe,"Irritability, Fatigue, Sadness",No Depression,Cognitive Behavioral Therapy
+5f08001d-fc22-4596-8d27-317812eb2707,24,Male,27,Mild,"Anxiety, Fatigue, Irritability, Loss of appetite",Major Depressive Disorder,No treatment
+078af5fc-53f5-4ed3-b4ff-fcf9db1a3a62,56,Female,10,Mild,"Irritability, Insomnia, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+47e2bb58-4f87-40a2-ab03-28766ef2410e,70,Male,37,Mild,"Irritability, Insomnia",No Depression,Medication
+e86c23d9-20a3-43ef-a69b-0984d75054e3,48,Female,33,Severe,"Loss of appetite, Sadness",Major Depressive Disorder,No treatment
+2673c6a1-5c90-4089-b409-6e6118726fe4,68,Female,15,Mild,"Loss of appetite, Anxiety, Insomnia, Sadness",Major Depressive Disorder,Combination therapy
+5c018116-1f71-440d-87df-2ca11fca1295,64,Other,35,Severe,"Irritability, Anxiety, Loss of appetite, Insomnia",Major Depressive Disorder,Medication
+1640f239-dedb-401a-9f3f-9ef414487db5,76,Other,32,Severe,"Anxiety, Insomnia, Sadness, Irritability",Major Depressive Disorder,No treatment
+9c468097-7085-4b03-b7b1-dc2646608ec4,79,Other,5,Moderate,"Fatigue, Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+46e4d12f-e9e4-4ead-95d4-cf966fd205f8,56,Female,19,Mild,"Sadness, Loss of appetite, Irritability, Insomnia",Major Depressive Disorder,No treatment
+1d1cd9c0-6a43-42c2-bfc4-fd9aeba2e700,50,Male,10,Mild,"Anxiety, Fatigue, Insomnia",No Depression,Combination therapy
+c62606e3-1be9-44c6-b4d0-68d9cb32a389,54,Male,8,Severe,"Fatigue, Irritability, Sadness, Insomnia, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+25d8c32e-4c96-4a22-aa92-72298e3f1c69,29,Other,51,Severe,"Sadness, Insomnia, Loss of appetite, Irritability",No Depression,Cognitive Behavioral Therapy
+631dbb62-54e9-42fa-86ff-048dfb5ba2ae,24,Male,43,Moderate,"Anxiety, Fatigue, Loss of appetite, Sadness, Irritability",No Depression,Combination therapy
+c45f1722-30d3-4e2f-b381-cacec485f7ba,27,Other,30,Mild,"Sadness, Loss of appetite, Fatigue",Major Depressive Disorder,No treatment
+137b218b-2375-4723-95b9-427a69cda4b1,75,Male,47,Mild,"Fatigue, Sadness, Insomnia, Irritability, Anxiety",No Depression,Cognitive Behavioral Therapy
+d3774f80-d1fc-4537-978d-23f8e5f8524e,65,Male,27,Mild,"Anxiety, Fatigue, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+4f6ced90-a20f-489a-9238-f36572347414,47,Other,18,Moderate,"Fatigue, Anxiety, Insomnia, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+8df067c9-16aa-410b-866f-6d4759335170,40,Female,49,Severe,"Insomnia, Sadness, Anxiety",Major Depressive Disorder,No treatment
+99055a01-01c7-4745-a0d0-6e1b1c4f9467,80,Other,24,Moderate,"Insomnia, Anxiety",Major Depressive Disorder,Medication
+77b6308b-7ba6-4307-9a92-e09d8a5ee965,23,Female,48,Severe,"Irritability, Sadness, Anxiety, Insomnia, Loss of appetite",Major Depressive Disorder,Medication
+de45c71d-c139-456e-a068-1c7a3c1e8e26,64,Male,14,Mild,"Sadness, Irritability, Loss of appetite",Major Depressive Disorder,No treatment
+daf702bc-a9ce-4ef7-b3f8-2e3b3652313e,72,Male,3,Mild,"Insomnia, Anxiety",Major Depressive Disorder,Combination therapy
+7b569a48-8982-4ff9-bde6-968e3f7bc213,49,Male,26,Moderate,"Sadness, Irritability",No Depression,Cognitive Behavioral Therapy
+c91c9e42-f457-4be5-bbbc-a07c71c2d598,49,Male,1,Severe,"Irritability, Loss of appetite, Fatigue, Anxiety",No Depression,Combination therapy
+32609ec6-e65a-4d10-bddd-80c929ead7ab,57,Female,25,Moderate,"Fatigue, Anxiety, Loss of appetite, Sadness, Irritability",No Depression,Cognitive Behavioral Therapy
+102d1b70-c498-4fcc-8b71-e3eb72974d1a,32,Male,39,Mild,"Irritability, Sadness, Loss of appetite",Major Depressive Disorder,Medication
+3711a697-95b0-445d-a45f-d90f0d84e4b2,54,Male,37,Severe,"Insomnia, Irritability, Anxiety, Fatigue, Loss of appetite",No Depression,No treatment
+cc179acd-becf-4d43-91e4-766f99a213e7,76,Male,38,Moderate,"Anxiety, Irritability, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+38972657-63e1-4fd3-9f6f-35e73844e066,57,Female,9,Mild,"Irritability, Fatigue, Sadness, Insomnia",No Depression,Cognitive Behavioral Therapy
+bd2e3c9d-56eb-4c7b-9872-0ff3a18a5f92,57,Other,40,Severe,"Irritability, Fatigue",No Depression,Cognitive Behavioral Therapy
+c026381e-2c3f-4d80-8682-66c7aceae16c,39,Male,40,Severe,"Fatigue, Sadness, Insomnia, Anxiety, Loss of appetite",No Depression,Cognitive Behavioral Therapy
+89b6d008-4439-441c-b6e8-7574b3720d44,35,Other,48,Severe,"Sadness, Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+ce5a9380-62df-4014-929a-9d7942f4d11b,36,Female,34,Severe,"Insomnia, Fatigue, Anxiety, Loss of appetite, Sadness",Major Depressive Disorder,Medication
+5fe41c1c-cb3d-445c-8908-b9fc88d493da,23,Female,39,Mild,"Loss of appetite, Fatigue, Irritability, Insomnia, Sadness",No Depression,No treatment
+333664f6-98ba-4252-b0c4-0ddbcf10ec4a,37,Female,19,Severe,"Insomnia, Anxiety, Sadness, Irritability",Major Depressive Disorder,Medication
+497ff160-68c6-42bb-99e5-4cb4ffa2dfcb,34,Other,42,Mild,"Irritability, Insomnia, Fatigue",Major Depressive Disorder,Medication
+68bf66cf-295d-49a7-98ff-1c01ef310856,37,Female,16,Moderate,"Anxiety, Irritability",No Depression,No treatment
+6c0ddc99-896d-4046-a92c-56b0712ac756,30,Female,26,Moderate,"Sadness, Irritability, Fatigue",No Depression,Cognitive Behavioral Therapy
+a7aa5c46-626d-425f-8150-168b7ccc0681,19,Female,48,Moderate,"Irritability, Insomnia, Anxiety",Major Depressive Disorder,Medication
+55960609-5e26-4111-b615-65c966ea5dbf,64,Female,25,Mild,"Insomnia, Irritability, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+16df864d-f472-4dc7-a608-a14de86935fc,74,Other,29,Mild,"Anxiety, Irritability, Insomnia, Fatigue, Sadness",Major Depressive Disorder,Combination therapy
+3520a3fa-6336-462e-b6c1-1d6bcae17f0e,35,Male,25,Severe,"Insomnia, Irritability, Anxiety, Sadness",No Depression,Cognitive Behavioral Therapy
+6333ee17-cc57-48c4-a7ff-6b1e9e04093b,48,Other,48,Moderate,"Loss of appetite, Anxiety, Irritability",Major Depressive Disorder,Medication
+5266253e-c65a-41b8-b0a1-bb9cc7bb184f,30,Other,28,Severe,"Loss of appetite, Irritability, Fatigue, Insomnia",Major Depressive Disorder,No treatment
+051f1e7d-51af-4fad-ba48-d957b51a71f4,69,Other,12,Mild,"Sadness, Fatigue, Loss of appetite, Anxiety, Insomnia",Major Depressive Disorder,Combination therapy
+a3981469-92f9-47f6-b5d1-f7937e65ba3d,45,Other,43,Mild,"Sadness, Insomnia, Anxiety, Irritability",Major Depressive Disorder,Combination therapy
+e0ac7dc9-098f-49a6-b9ea-4f39232e18a8,51,Female,30,Mild,"Sadness, Anxiety, Insomnia, Fatigue, Irritability",No Depression,Medication
+a3b5b869-f09a-4a15-a23e-a2f599b09b13,47,Female,22,Mild,"Fatigue, Irritability, Sadness",Major Depressive Disorder,No treatment
+7afb17e0-b363-4300-afcc-cf6def7f64df,46,Female,18,Mild,"Loss of appetite, Irritability",No Depression,Medication
+49c34c29-5c6d-40f3-8bb5-e3dd5de5a3a1,66,Male,4,Moderate,"Irritability, Loss of appetite",No Depression,Combination therapy
+fac65f72-2151-468b-ac6e-749bbf04c904,55,Female,52,Moderate,"Loss of appetite, Insomnia, Sadness",Major Depressive Disorder,Combination therapy
+c3ced204-d312-49d2-b463-6a1c3ce47db2,58,Female,32,Mild,"Irritability, Fatigue",No Depression,Combination therapy
+991e25c2-6078-4d20-81ef-9721b75e15a0,48,Male,12,Severe,"Insomnia, Fatigue, Anxiety, Loss of appetite",No Depression,Combination therapy
+4d7e1077-7cca-4d67-baa6-b4bcf7030b37,23,Female,37,Severe,"Irritability, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+ce019b56-ff99-4ed6-b8dd-81dc7d0e6856,67,Other,48,Moderate,"Irritability, Insomnia, Fatigue, Sadness",No Depression,Combination therapy
+c7cfb69e-693b-4259-b728-b977060412ed,67,Female,9,Moderate,"Insomnia, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+52933a17-6619-4213-b7d3-1dadc0fb8045,29,Male,32,Moderate,"Anxiety, Fatigue, Insomnia, Irritability, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+fa959e03-a0b4-44c4-93b5-48efd24b00e1,74,Female,50,Severe,"Insomnia, Irritability, Fatigue, Anxiety",No Depression,Medication
+0ff4f807-13bc-4208-a01e-74faca54de63,70,Male,8,Severe,"Sadness, Anxiety, Fatigue",Major Depressive Disorder,No treatment
+5374f94a-b420-4291-b946-668e1cfc16b0,50,Male,10,Moderate,"Fatigue, Sadness",Major Depressive Disorder,Medication
+e0085b3d-b82d-407d-a56a-399e14282c95,65,Other,26,Severe,"Insomnia, Fatigue, Anxiety, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+ef1f7f25-8301-47d9-925d-7d92371c1339,27,Female,5,Moderate,"Insomnia, Sadness, Anxiety, Fatigue",Major Depressive Disorder,Combination therapy
+7bccb4c4-d904-409f-8366-96e4947cab55,27,Male,49,Moderate,"Anxiety, Sadness",No Depression,Medication
+86e938b4-e2a3-4376-967d-40be7d61f6f3,63,Male,13,Mild,"Sadness, Fatigue, Insomnia, Loss of appetite, Anxiety",Major Depressive Disorder,Combination therapy
+bf265ac3-fe32-4aca-8e17-e9e6fa2206e2,41,Female,34,Severe,"Sadness, Insomnia, Fatigue, Anxiety",No Depression,Medication
+ca5ad559-ab2a-4b40-92b5-d0c0b2d88839,45,Other,4,Moderate,"Anxiety, Sadness, Fatigue",Major Depressive Disorder,Medication
+00b32c45-aab5-4a7a-b886-a12975c7de8a,38,Male,47,Mild,"Fatigue, Sadness",No Depression,Medication
+bd21a67d-62e4-48e4-b91e-a10fe0e13bec,67,Male,39,Severe,"Irritability, Sadness, Loss of appetite",No Depression,Cognitive Behavioral Therapy
+9d189ab6-4e15-4fb0-9b2e-cb945a1f5dd1,71,Female,15,Mild,"Anxiety, Insomnia",No Depression,Cognitive Behavioral Therapy
+f6ba7bce-3f98-4e91-877c-91f60c562a25,23,Female,1,Mild,"Fatigue, Anxiety, Loss of appetite",Major Depressive Disorder,Medication
+22003a6d-cbbd-4b32-9df6-e8962b9c6d94,71,Other,4,Severe,"Anxiety, Fatigue",Major Depressive Disorder,Combination therapy
+55b01850-0609-4824-b3c3-840eea60bfd4,78,Male,18,Severe,"Insomnia, Loss of appetite",Major Depressive Disorder,Combination therapy
+6f5fe457-7369-431a-b74f-dd2229077469,56,Female,9,Severe,"Irritability, Loss of appetite, Fatigue, Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+5574cc40-59e4-49b1-b67c-60d00d81539c,63,Other,1,Severe,"Sadness, Irritability, Fatigue, Loss of appetite",No Depression,Medication
+d5df8cbb-cc4a-4e2e-9892-5709dba8d639,26,Male,3,Severe,"Loss of appetite, Irritability, Fatigue",Major Depressive Disorder,No treatment
+45134308-d03d-4b39-bb34-b99b276055e7,37,Male,19,Mild,"Anxiety, Sadness, Loss of appetite, Insomnia, Fatigue",Major Depressive Disorder,Medication
+1fa336f9-1c28-49a9-a09e-18187dd36533,43,Female,6,Severe,"Fatigue, Sadness, Irritability, Insomnia",No Depression,Cognitive Behavioral Therapy
+0a36d8e0-6787-4c72-8b30-e023141bbcc0,30,Female,19,Mild,"Insomnia, Loss of appetite, Irritability",Major Depressive Disorder,No treatment
+56afef2a-877f-44d3-ab2d-c3a61b7622f1,57,Other,47,Severe,"Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+f1a3cd24-ef85-42c5-9dce-cfd3d16d8946,41,Male,7,Moderate,"Anxiety, Irritability, Fatigue, Sadness, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+31610ea8-1d97-41b9-a998-5f38a25f19f9,20,Male,7,Severe,"Irritability, Insomnia, Anxiety, Loss of appetite, Fatigue",No Depression,Cognitive Behavioral Therapy
+43676cbd-8ba6-4838-9622-d9a8ae0d6173,41,Female,35,Mild,"Loss of appetite, Fatigue, Irritability, Anxiety, Insomnia",No Depression,Cognitive Behavioral Therapy
+0dc2c05a-3264-4615-91f6-6d46d605f9d7,71,Female,40,Mild,"Sadness, Fatigue, Loss of appetite, Irritability",Major Depressive Disorder,Combination therapy
+178b9e2d-5705-42c3-b2e6-52cfe9f436d8,70,Male,46,Mild,"Fatigue, Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+9d844024-7fe5-4c80-9a08-35c5e68b908b,60,Female,13,Mild,"Sadness, Anxiety, Fatigue, Loss of appetite",No Depression,No treatment
+7d207606-9ac8-40c3-8cb8-d41214c5dad1,61,Female,42,Mild,"Loss of appetite, Insomnia",Major Depressive Disorder,Medication
+3bd934e6-7a5c-4251-bbb0-70373308f72a,76,Other,29,Moderate,"Anxiety, Insomnia, Irritability, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+28c33020-8a98-4312-bcd3-407eeb7f1c36,30,Female,33,Severe,"Insomnia, Anxiety, Loss of appetite, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+26fe8173-f2d9-46aa-a00b-11b8bd3a952a,51,Female,25,Severe,"Anxiety, Insomnia, Irritability, Sadness, Loss of appetite",No Depression,Combination therapy
+de6a03f7-179d-450a-a29b-8e5631039cd9,31,Male,32,Mild,"Fatigue, Sadness",Major Depressive Disorder,No treatment
+14728417-bbb1-4d0f-aa19-e86fca9b84ee,76,Male,36,Severe,"Insomnia, Fatigue",Major Depressive Disorder,Medication
+e00e34b6-624d-4ae9-9902-ec34f4f0548e,69,Female,11,Moderate,"Loss of appetite, Fatigue, Irritability",No Depression,Medication
+688092e0-42c5-40bf-ba21-78a938df3956,53,Other,18,Mild,"Sadness, Fatigue",No Depression,Medication
+a06c1d3c-c2fe-4230-a55f-d4e17474c6fd,34,Other,52,Mild,"Irritability, Fatigue, Anxiety, Sadness",No Depression,Cognitive Behavioral Therapy
+0e5082de-6742-4b6d-9c67-0469d24e89aa,37,Other,48,Moderate,"Loss of appetite, Fatigue, Irritability, Insomnia, Sadness",No Depression,No treatment
+e4a78dc6-ce8d-4b6d-9e2d-7d74c2cf22ff,28,Other,41,Severe,"Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+f3b926f4-4795-4b15-85a5-b7f9c09e3d62,37,Other,17,Severe,"Loss of appetite, Insomnia, Fatigue, Sadness",No Depression,No treatment
+8581c459-bac0-4d1e-a980-d1f7232d4911,75,Male,28,Moderate,"Anxiety, Irritability, Fatigue, Loss of appetite, Sadness",Major Depressive Disorder,Combination therapy
+eeb4fe40-ce18-4d4c-9a9f-93127d4716ba,23,Other,43,Mild,"Loss of appetite, Irritability",Major Depressive Disorder,Combination therapy
+57c2f8ac-f183-45fc-a2e5-63579348fbc6,73,Male,19,Severe,"Irritability, Insomnia, Sadness, Anxiety",Major Depressive Disorder,No treatment
+2da40ca7-c176-42d5-a344-42b0b3b7785c,70,Other,26,Mild,"Fatigue, Loss of appetite, Irritability, Anxiety, Sadness",Major Depressive Disorder,Combination therapy
+1e4ece74-1338-4543-b56e-0659b1bad171,51,Other,14,Moderate,"Fatigue, Loss of appetite",Major Depressive Disorder,Medication
+46781ec6-2cf5-4613-83aa-1dcfc77ab1db,51,Female,38,Severe,"Irritability, Anxiety",Major Depressive Disorder,Combination therapy
+6297f2c8-0f1f-432c-86ef-f9927759e42c,29,Other,40,Mild,"Loss of appetite, Anxiety, Sadness",No Depression,No treatment
+6cede833-0c2c-4cd2-805a-4d8604324360,43,Male,36,Moderate,"Fatigue, Loss of appetite, Anxiety, Insomnia",No Depression,Combination therapy
+6105ae0e-64f3-4cc5-abcb-555aab1d0e96,24,Female,20,Mild,"Irritability, Insomnia, Fatigue, Loss of appetite, Anxiety",Major Depressive Disorder,Medication
+d55ef750-ea6c-4082-9af5-6195151f8351,80,Other,28,Severe,"Fatigue, Loss of appetite, Sadness, Anxiety, Irritability",Major Depressive Disorder,Medication
+a9d2df5a-6712-44c6-8a1f-be382229e917,74,Other,39,Severe,"Fatigue, Sadness, Loss of appetite",Major Depressive Disorder,Medication
+07d82cd4-ab34-492a-9874-72178cb1dc5c,55,Other,23,Severe,"Insomnia, Loss of appetite, Sadness, Irritability",Major Depressive Disorder,No treatment
+0dac7e51-d693-4212-a302-e9c1400d4d0a,69,Other,8,Moderate,"Sadness, Irritability",No Depression,Medication
+7cd6f551-d966-4d60-877a-326cf1fc0b42,36,Male,49,Severe,"Loss of appetite, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+f176334c-2c7b-4197-bff5-4b87d4afea1f,52,Other,49,Moderate,"Sadness, Anxiety, Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+22949589-d223-4824-ad2b-817232c4f87b,28,Other,39,Moderate,"Loss of appetite, Sadness, Irritability, Fatigue, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+604d19f6-0004-46d1-a09b-a87e35e738e5,38,Male,39,Severe,"Anxiety, Loss of appetite, Insomnia, Irritability, Sadness",Major Depressive Disorder,Combination therapy
+c2995e82-3d02-487e-8169-730877831fe7,54,Male,47,Severe,"Sadness, Loss of appetite, Insomnia, Anxiety, Irritability",Major Depressive Disorder,Combination therapy
+0d911309-6a8a-4c48-b855-63db47aa110a,56,Male,7,Severe,"Fatigue, Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+e8890e01-35b8-497c-91db-081967c6e35d,29,Male,6,Severe,"Sadness, Loss of appetite",Major Depressive Disorder,Medication
+db23e49d-810e-4310-b283-686a8b9690c5,67,Female,44,Severe,"Anxiety, Loss of appetite, Irritability, Fatigue, Sadness",No Depression,Cognitive Behavioral Therapy
+d9b2ae55-f59a-4f4d-9bb0-87d8226ac8e2,65,Other,11,Mild,"Insomnia, Loss of appetite",Major Depressive Disorder,No treatment
+8075c37f-7ba3-4b26-8d7e-419d712a5051,19,Other,1,Moderate,"Anxiety, Insomnia, Loss of appetite, Sadness, Fatigue",No Depression,Cognitive Behavioral Therapy
+7bc0da49-213a-4186-96d4-cc1dab86e6a9,26,Male,3,Mild,"Insomnia, Fatigue",No Depression,No treatment
+893d6e9a-57ab-4670-9822-6d2f8e312395,75,Female,40,Mild,"Loss of appetite, Anxiety, Fatigue",Major Depressive Disorder,Medication
+ddcb9018-01fa-4e74-9377-71d1da7c54e8,25,Male,48,Mild,"Irritability, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+71758077-cba8-4dd8-98c4-14005575731e,28,Male,1,Moderate,"Insomnia, Fatigue",No Depression,No treatment
+02c9c164-d9e4-4620-9f36-5859e66b7075,77,Other,13,Severe,"Fatigue, Anxiety, Irritability, Loss of appetite",Major Depressive Disorder,No treatment
+68250a2f-5d5e-4670-a89e-8aded2b0231d,36,Other,16,Moderate,"Loss of appetite, Anxiety, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+2147e12c-cd93-4de4-b8bd-0f42b21f71a2,61,Male,20,Moderate,"Irritability, Sadness",Major Depressive Disorder,No treatment
+181e2569-31da-4c23-b591-4b7d62b9a28d,62,Female,15,Moderate,"Fatigue, Anxiety",Major Depressive Disorder,Medication
+9ed44ef3-8f9f-49e9-8e69-363f7a212cab,67,Female,45,Mild,"Anxiety, Fatigue, Irritability, Loss of appetite, Insomnia",No Depression,Combination therapy
+67c4870b-2ece-4ddf-91f7-c76e0597881e,55,Other,25,Severe,"Insomnia, Anxiety, Loss of appetite, Sadness, Fatigue",Major Depressive Disorder,Combination therapy
+cc803f66-ceae-4e95-b981-02dde825bb35,22,Other,14,Severe,"Fatigue, Sadness",Major Depressive Disorder,Medication
+d33c305f-7b40-4482-b144-bd676f214de9,69,Male,15,Severe,"Irritability, Sadness, Loss of appetite, Anxiety, Fatigue",Major Depressive Disorder,Combination therapy
+f68e84c9-268e-4476-b037-86fb34470b31,46,Other,43,Severe,"Fatigue, Loss of appetite, Insomnia, Sadness",Major Depressive Disorder,Medication
+4ec0b7a1-9e3a-436b-b965-b1a694f150d0,20,Female,22,Mild,"Sadness, Anxiety, Fatigue",Major Depressive Disorder,Combination therapy
+7f7310fb-7baf-4ca1-ab07-d6fab8d6757d,58,Male,31,Mild,"Loss of appetite, Fatigue, Irritability, Anxiety, Insomnia",No Depression,Cognitive Behavioral Therapy
+2c95ab75-6be6-45f7-b84e-55b25c2162f4,25,Male,33,Severe,"Loss of appetite, Fatigue, Insomnia, Sadness",No Depression,Medication
+a92d9713-292a-49b5-9865-cb57a71a4324,20,Other,47,Mild,"Anxiety, Insomnia, Loss of appetite, Sadness",No Depression,Cognitive Behavioral Therapy
+389fe6ef-8f8b-480d-8d81-f09c7165267b,58,Male,13,Severe,"Irritability, Anxiety, Loss of appetite, Sadness",Major Depressive Disorder,No treatment
+9bdba57d-6adc-4b5d-8a56-313ecf6d5179,43,Female,43,Mild,"Insomnia, Fatigue, Irritability",Major Depressive Disorder,Medication
+1084f983-2b60-4fec-8617-8b271b5b9dc6,27,Female,29,Moderate,"Anxiety, Sadness, Loss of appetite",Major Depressive Disorder,No treatment
+7989f27e-61f9-4c06-8801-540d02011611,22,Other,14,Severe,"Anxiety, Insomnia, Fatigue, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+fe7d460e-322c-4c02-a4f0-4da27ec12bbf,32,Female,15,Moderate,"Sadness, Insomnia, Anxiety, Fatigue, Irritability",Major Depressive Disorder,Medication
+2ddcf13d-9f6c-450e-8281-6b5463983fda,55,Female,6,Mild,"Sadness, Loss of appetite, Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+7543224f-22ae-47f7-ab83-bb284182a1a1,46,Male,1,Moderate,"Anxiety, Fatigue, Sadness",Major Depressive Disorder,Medication
+80daa5b0-72f2-4c49-9857-4ad966e087b7,77,Female,42,Mild,"Anxiety, Fatigue, Sadness, Insomnia, Irritability",No Depression,Combination therapy
+7f9ec38c-d865-44b7-92db-583aaf43f594,34,Other,19,Moderate,"Insomnia, Fatigue",No Depression,Medication
+d005b9ab-1963-45b4-b4e5-5d40b2801663,54,Other,14,Severe,"Fatigue, Loss of appetite, Sadness, Insomnia, Irritability",Major Depressive Disorder,Combination therapy
+c5157550-5532-4c27-96cb-54bf0778dc57,76,Male,13,Moderate,"Fatigue, Loss of appetite, Insomnia, Anxiety, Sadness",No Depression,Medication
+fe2b942c-a1d9-4e6a-9836-99809d6d8082,37,Female,28,Moderate,"Loss of appetite, Irritability",Major Depressive Disorder,No treatment
+e8c6b661-436b-45db-89a4-7be939216ed4,35,Male,15,Mild,"Insomnia, Irritability",Major Depressive Disorder,Combination therapy
+1f297917-596d-4e24-8056-a442e19eb2c2,32,Male,42,Moderate,"Sadness, Insomnia, Loss of appetite, Irritability, Anxiety",Major Depressive Disorder,No treatment
+b6fac92e-6352-4f34-a3d5-41f963e89595,60,Male,51,Moderate,"Irritability, Sadness, Loss of appetite, Anxiety",No Depression,No treatment
+c4ff0acd-e120-44db-a801-dcdc034995a0,26,Male,32,Severe,"Sadness, Loss of appetite",Major Depressive Disorder,No treatment
+234a2f73-bae9-46a7-ab70-012ac9e35109,60,Other,6,Severe,"Fatigue, Loss of appetite, Anxiety, Insomnia, Sadness",Major Depressive Disorder,Medication
+7ca57833-c6bc-4094-bd48-83cc990ae06a,65,Other,14,Moderate,"Sadness, Loss of appetite, Irritability, Fatigue",Major Depressive Disorder,No treatment
+cf0fe500-adfb-435e-8c41-414f85887ad4,62,Female,25,Moderate,"Loss of appetite, Fatigue, Irritability, Sadness",Major Depressive Disorder,Medication
+cf814803-c72b-42b9-994d-af00fb7d1d20,57,Female,1,Mild,"Insomnia, Loss of appetite, Irritability",Major Depressive Disorder,No treatment
+2bba2361-3194-4424-b1ef-ba640cfad03c,79,Other,33,Mild,"Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+809ffd79-c8ba-43d0-ad9c-f6c2248d63b3,46,Other,13,Moderate,"Fatigue, Sadness, Irritability, Insomnia, Anxiety",Major Depressive Disorder,Medication
+71597819-a0a3-4e58-bff8-a3badc2f82bf,63,Male,52,Moderate,"Fatigue, Anxiety, Loss of appetite, Sadness",Major Depressive Disorder,Medication
+310e3d5c-eb9e-4f1d-9856-54683c3cc31e,30,Other,19,Moderate,"Sadness, Insomnia, Fatigue, Irritability, Anxiety",No Depression,Cognitive Behavioral Therapy
+7e420e52-4288-4d21-910f-c37bb7728367,74,Male,24,Mild,"Loss of appetite, Anxiety, Fatigue, Irritability, Insomnia",No Depression,Cognitive Behavioral Therapy
+ca00ae38-e9aa-4af8-aa07-55aeefa2ec1d,24,Male,32,Severe,"Loss of appetite, Anxiety, Sadness, Irritability, Fatigue",No Depression,Medication
+0743ee4b-72a4-4ced-b96e-8f533afa3cba,44,Other,36,Mild,"Insomnia, Fatigue",Major Depressive Disorder,Combination therapy
+55e2fcfc-d9e5-469c-8ccd-c95b3ca7c627,35,Female,28,Mild,"Fatigue, Anxiety",No Depression,Cognitive Behavioral Therapy
+75baaccc-f39a-4a0e-8ddb-903825f60482,25,Male,9,Mild,"Anxiety, Loss of appetite, Irritability",No Depression,No treatment
+c018e148-8e7f-4d90-b4fd-4bde56cc624d,50,Female,27,Moderate,"Fatigue, Irritability, Insomnia, Sadness, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+35a40061-660c-42cb-81ce-26090c17c0f8,75,Female,34,Mild,"Anxiety, Loss of appetite, Irritability, Insomnia, Fatigue",No Depression,No treatment
+d6da26f1-bdf1-48ff-a817-236c9bd941dc,36,Male,26,Mild,"Irritability, Insomnia",No Depression,No treatment
+7fcc10c7-9f26-44bf-9396-95842b925a4b,60,Other,21,Severe,"Fatigue, Insomnia, Loss of appetite, Irritability",No Depression,Combination therapy
+6e696005-196d-4054-9866-d7fffc5a41c4,40,Male,18,Severe,"Insomnia, Anxiety, Fatigue",Major Depressive Disorder,Medication
+0b19e763-f43a-4e8d-9943-648330643dcf,19,Other,27,Moderate,"Insomnia, Anxiety, Fatigue, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+bac23a82-91d2-4eb5-8d86-948ef0194afd,58,Other,14,Moderate,"Sadness, Fatigue",No Depression,Medication
+428be371-44d3-4f44-b055-1a177dd4653d,30,Other,28,Severe,"Sadness, Insomnia, Anxiety, Loss of appetite",No Depression,No treatment
+a714258d-bb2c-47f7-9ec7-df314fa275f5,48,Other,7,Mild,"Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+7402ac82-7a35-4cce-bd92-ba385fca14d3,65,Female,24,Moderate,"Sadness, Loss of appetite, Irritability, Anxiety, Insomnia",No Depression,Medication
+82c20f64-b55e-4773-bd3f-4811b5d598ce,60,Other,28,Moderate,"Loss of appetite, Insomnia, Sadness",Major Depressive Disorder,Combination therapy
+af179c7a-892b-4cb3-b46c-9f91dd9623a6,79,Female,41,Moderate,"Sadness, Loss of appetite, Irritability, Insomnia, Anxiety",Major Depressive Disorder,Combination therapy
+e680926a-0884-4cb3-935b-c089c21e629b,43,Other,34,Moderate,"Irritability, Insomnia",Major Depressive Disorder,No treatment
+3e1e536c-f776-4df5-bc6d-26690a70c950,30,Female,38,Mild,"Anxiety, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+3ddda387-cbbf-4723-a644-3560dfea4add,66,Female,32,Moderate,"Insomnia, Fatigue, Irritability, Sadness, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+772e2d53-e789-4b49-b7ea-9256bae3dc77,49,Male,28,Severe,"Irritability, Anxiety",Major Depressive Disorder,Combination therapy
+412f1669-94db-4479-9315-d473ca92ab18,45,Male,35,Mild,"Anxiety, Sadness, Irritability",No Depression,Medication
+c06b158b-f2de-412e-8578-a2a62d8debcc,46,Male,21,Severe,"Irritability, Anxiety, Loss of appetite, Sadness",Major Depressive Disorder,Combination therapy
+b0df8ca5-7a04-401f-b75a-86d6dc340043,56,Male,27,Mild,"Sadness, Insomnia",Major Depressive Disorder,Medication
+5e1dee57-4129-402e-9358-ea7842b3703e,33,Other,21,Moderate,"Loss of appetite, Fatigue, Irritability, Sadness",Major Depressive Disorder,No treatment
+9a20d378-4108-4f73-a430-85e7dee06b91,50,Other,16,Moderate,"Fatigue, Loss of appetite",Major Depressive Disorder,No treatment
+391a5134-6365-41a4-9ec6-6486ee09f791,69,Female,2,Mild,"Anxiety, Insomnia, Irritability, Loss of appetite, Fatigue",Major Depressive Disorder,Combination therapy
+2efbd9e0-9663-41ca-9edd-2174b8517344,47,Other,42,Severe,"Insomnia, Sadness, Fatigue, Irritability",Major Depressive Disorder,Combination therapy
+55326ee7-f357-490d-9054-764940e48a90,55,Male,15,Moderate,"Loss of appetite, Insomnia, Fatigue, Irritability, Anxiety",No Depression,No treatment
+6370ce0c-0e9d-4f6b-93e2-a7230f77c457,62,Male,16,Mild,"Irritability, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+285a57ee-7521-4e30-a691-8262d8ce462e,18,Female,24,Moderate,"Irritability, Anxiety, Insomnia, Loss of appetite, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+53af83ce-1a68-40ba-826c-fa6d8ff6d0c3,46,Male,43,Moderate,"Loss of appetite, Insomnia, Sadness, Fatigue",Major Depressive Disorder,Combination therapy
+95e2aa4a-c5f0-4e20-a991-4dd5951a27fc,76,Other,44,Mild,"Anxiety, Irritability, Insomnia",Major Depressive Disorder,No treatment
+fe995e46-be7c-41c8-9a29-dc4e5cd3072e,21,Male,6,Severe,"Sadness, Irritability, Anxiety, Insomnia, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+bc8b9f08-9d91-4459-ade4-0896d0d07ff0,64,Male,41,Severe,"Anxiety, Irritability",Major Depressive Disorder,No treatment
+6c8113a3-7137-4c92-a40a-1dd271c7363d,56,Female,2,Moderate,"Irritability, Sadness, Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+6cbd14fd-ba4f-4956-a007-26814692064d,26,Female,39,Mild,"Loss of appetite, Sadness, Fatigue, Insomnia",Major Depressive Disorder,Combination therapy
+c3781e3b-0e38-45b2-a6b9-488f3e201f6f,28,Male,36,Mild,"Insomnia, Loss of appetite, Sadness, Anxiety, Fatigue",No Depression,Combination therapy
+5ae1a5a0-1399-4af6-9537-4346fc532f73,76,Other,33,Mild,"Fatigue, Sadness, Anxiety, Irritability",No Depression,No treatment
+b6cb086f-a895-436e-aa92-799bf8294029,32,Other,14,Mild,"Loss of appetite, Anxiety, Irritability",No Depression,Combination therapy
+0b9b391a-b7ea-42b2-ae09-af9a79e48e06,45,Other,43,Moderate,"Sadness, Irritability, Anxiety, Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+d8272fb5-5c3f-445c-808e-3366a8ee36d6,43,Other,43,Severe,"Loss of appetite, Insomnia, Fatigue",Major Depressive Disorder,Combination therapy
+d45d071e-2851-4bb5-855d-282b588beaaf,50,Female,26,Moderate,"Sadness, Loss of appetite, Irritability, Anxiety, Fatigue",Major Depressive Disorder,No treatment
+378b4457-40af-4511-9a82-416e7b60301a,34,Other,16,Mild,"Sadness, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+a7ba2b50-6cdb-4eb5-b9c7-3b9942d01ba1,23,Male,47,Severe,"Fatigue, Irritability, Loss of appetite, Anxiety, Insomnia",No Depression,Medication
+1f0b61ab-1aca-4f8a-85b4-e6c355aed662,47,Male,17,Moderate,"Sadness, Anxiety, Loss of appetite, Insomnia, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+56076c5c-538c-43cc-abbc-fcd244618284,71,Male,2,Mild,"Loss of appetite, Irritability, Insomnia, Sadness",No Depression,Cognitive Behavioral Therapy
+2a2d1942-c9d4-4667-84ac-049d85512a3c,71,Male,26,Moderate,"Fatigue, Irritability, Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,Medication
+f676d56f-e857-4d3a-97c0-9d09f9e580ef,59,Male,19,Moderate,"Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+f201aa1e-1715-438f-b311-4841b45cb1d4,66,Female,38,Moderate,"Sadness, Fatigue, Anxiety, Insomnia",Major Depressive Disorder,Combination therapy
+7401a24b-23f3-4510-b1f6-648dbbd1f574,45,Other,7,Mild,"Insomnia, Loss of appetite, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+468494a7-853f-495c-9347-7132ac3cfd3c,33,Female,36,Mild,"Fatigue, Irritability, Insomnia, Loss of appetite",No Depression,Cognitive Behavioral Therapy
+07004c70-1305-43b8-a4d4-693b545af78d,57,Other,38,Mild,"Irritability, Loss of appetite, Sadness, Insomnia, Fatigue",No Depression,Combination therapy
+700deadd-2191-45df-bf13-253696c845da,33,Other,29,Moderate,"Sadness, Anxiety, Loss of appetite, Fatigue",Major Depressive Disorder,No treatment
+94cb14c0-137a-4a8b-9a13-c1bf80c0c43a,64,Other,35,Moderate,"Loss of appetite, Anxiety",Major Depressive Disorder,No treatment
+fac5c05f-048f-4c7a-9055-8d97adf49e5b,42,Female,2,Mild,"Insomnia, Loss of appetite, Anxiety, Irritability, Sadness",No Depression,Cognitive Behavioral Therapy
+262ef095-35f6-43da-a78d-be9ca1ec6a8d,20,Other,37,Moderate,"Loss of appetite, Fatigue, Anxiety, Irritability",Major Depressive Disorder,Medication
+eb405130-a744-4581-84c8-b7170a09b3e4,72,Male,46,Mild,"Loss of appetite, Irritability, Insomnia",Major Depressive Disorder,No treatment
+b9becd97-f937-4ff2-a424-e1f44c3196f3,27,Male,51,Mild,"Anxiety, Loss of appetite, Fatigue, Sadness, Insomnia",No Depression,No treatment
+141d4ac7-e208-4d1c-a95c-e93002874458,20,Male,35,Severe,"Fatigue, Anxiety, Loss of appetite",Major Depressive Disorder,Medication
+1d5662de-f989-4088-9307-39284921d61f,56,Other,48,Moderate,"Loss of appetite, Irritability, Fatigue",No Depression,Medication
+8c89a036-7771-420a-b98d-6d2024a560aa,80,Other,47,Severe,"Irritability, Anxiety, Sadness, Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+2758ef49-7fb7-4779-b728-5eabd347a8dd,25,Male,23,Mild,"Sadness, Irritability, Loss of appetite, Anxiety",No Depression,Combination therapy
+257436ef-8e36-4c7d-9d29-6758bdb62a78,39,Female,18,Severe,"Fatigue, Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+b38fe67c-751f-4530-b2ff-230e539965db,58,Other,5,Severe,"Irritability, Anxiety, Sadness",No Depression,Combination therapy
+8edc9b8a-7be5-41fb-bf68-604b62bfa6fb,72,Other,39,Mild,"Anxiety, Irritability, Insomnia, Sadness",No Depression,Medication
+87ea7271-9e21-42c0-b10a-3f1e3fc7e2a1,76,Female,51,Severe,"Insomnia, Fatigue, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+c3630614-7ea3-4084-940b-142869ef79d9,74,Female,32,Moderate,"Insomnia, Loss of appetite",No Depression,Combination therapy
+d05c2af6-cfc8-4b47-ba95-36c9a5641498,38,Other,18,Severe,"Fatigue, Loss of appetite, Anxiety, Irritability",Major Depressive Disorder,Medication
+60caa8b9-b768-46a6-9851-e3fa150abfdf,57,Male,39,Moderate,"Anxiety, Fatigue, Irritability, Loss of appetite, Sadness",No Depression,Cognitive Behavioral Therapy
+9c7f7d94-da04-42ef-93fa-82900838eca5,80,Female,3,Severe,"Fatigue, Loss of appetite, Anxiety, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+8e033b58-add8-4375-89cc-f2e8319761af,36,Other,43,Moderate,"Irritability, Sadness, Loss of appetite, Insomnia, Anxiety",No Depression,Combination therapy
+7033c690-5a7a-4d3c-bb59-bafbb3fe2316,57,Female,8,Mild,"Insomnia, Sadness",No Depression,No treatment
+2b083659-724d-4365-8eaa-2b9cbed908ca,24,Male,11,Severe,"Sadness, Irritability",No Depression,Combination therapy
+5709ca70-a9e0-4814-a9d2-e43dfba953ac,18,Male,15,Severe,"Insomnia, Anxiety, Fatigue, Sadness, Irritability",No Depression,Medication
+46caf5ed-2a9a-4b35-93bf-dfe053f452a0,49,Female,5,Mild,"Anxiety, Irritability, Insomnia, Fatigue",Major Depressive Disorder,Combination therapy
+b109f86f-58f5-4dff-a275-8930ca709d34,42,Male,5,Mild,"Anxiety, Loss of appetite, Irritability, Fatigue",No Depression,Medication
+b84bb8bc-2ca0-47ec-831f-cb63684018a8,45,Male,27,Mild,"Sadness, Loss of appetite",Major Depressive Disorder,No treatment
+327250e7-0cbe-4c63-8e09-71cc84b1f321,61,Male,13,Mild,"Fatigue, Loss of appetite, Irritability, Sadness, Insomnia",No Depression,No treatment
+d4c340c7-453f-4375-a720-91ad12ba3a7c,24,Other,48,Mild,"Loss of appetite, Irritability, Insomnia, Anxiety, Sadness",No Depression,Medication
+fd3d5a29-c083-40dc-b564-7cbf2a33bf12,29,Male,13,Moderate,"Sadness, Irritability, Insomnia, Fatigue, Anxiety",No Depression,Combination therapy
+9160260c-d8ff-46e7-9af3-1c725e693fd0,34,Male,35,Moderate,"Insomnia, Irritability, Loss of appetite, Anxiety, Sadness",Major Depressive Disorder,No treatment
+49a84f02-53c7-4809-82e6-2f1b928b7f6c,40,Male,48,Severe,"Sadness, Loss of appetite, Fatigue, Anxiety, Irritability",Major Depressive Disorder,Combination therapy
+755c8c0b-5f61-4885-981e-3774dc3dac65,25,Female,32,Moderate,"Insomnia, Fatigue, Anxiety",No Depression,Medication
+e009698f-5657-44bd-838c-35874d931796,77,Female,19,Mild,"Fatigue, Irritability, Insomnia",Major Depressive Disorder,Combination therapy
+b6f66727-eaf3-4152-9ac7-6258a240abf8,80,Female,42,Mild,"Sadness, Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+f339af23-3f4f-4750-9940-aa68bc4321b8,78,Female,22,Mild,"Anxiety, Fatigue, Irritability, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+73512f53-0508-48da-b8b5-b19bdd16fa9a,55,Male,51,Mild,"Fatigue, Insomnia, Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+ff14daea-7cc0-4b46-8f49-b03c3c9bbbc2,58,Other,15,Severe,"Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+5faa4a9f-d53d-4f11-955b-635decb9546e,79,Female,30,Mild,"Fatigue, Anxiety, Irritability, Insomnia, Loss of appetite",No Depression,Combination therapy
+5e042ba7-5c0b-4555-8661-aa28a2d78787,22,Other,28,Mild,"Loss of appetite, Irritability, Anxiety, Sadness, Fatigue",Major Depressive Disorder,Medication
+76a236c0-fd8e-438d-bc7d-4d5a26bd2841,32,Female,50,Moderate,"Anxiety, Loss of appetite, Irritability, Sadness, Fatigue",Major Depressive Disorder,Combination therapy
+d7d3fe28-2dfa-4868-9936-06c52b02f352,52,Other,22,Severe,"Insomnia, Sadness, Fatigue, Loss of appetite",No Depression,Combination therapy
+94b31f41-f5f6-4919-8139-986e58cdaf29,27,Male,40,Mild,"Sadness, Loss of appetite, Irritability",Major Depressive Disorder,No treatment
+6634aff2-8a26-4fc2-987e-11ed543f6510,78,Female,44,Severe,"Fatigue, Insomnia, Anxiety",Major Depressive Disorder,Combination therapy
+1e1362e8-8edd-4781-a182-5f34d60093b2,57,Female,31,Moderate,"Sadness, Irritability, Insomnia",No Depression,Cognitive Behavioral Therapy
+c8e8c307-053f-49a1-9c08-07cf86ef1785,30,Other,12,Severe,"Anxiety, Fatigue",Major Depressive Disorder,Combination therapy
+dd937ebd-14a9-4d7a-84e3-d9672247d35b,19,Male,29,Severe,"Irritability, Fatigue, Loss of appetite, Insomnia, Anxiety",No Depression,No treatment
+410bd4f9-7acf-4b79-9540-f6b69cc40d69,46,Other,18,Severe,"Insomnia, Sadness, Irritability, Anxiety, Fatigue",No Depression,Combination therapy
+d56d68b8-308c-42e7-adde-6c3346418f6d,62,Male,30,Moderate,"Loss of appetite, Irritability, Insomnia, Anxiety",Major Depressive Disorder,Combination therapy
+8db2eef2-bbe7-48e2-bfd5-c93a6d5a5605,75,Male,22,Moderate,"Loss of appetite, Anxiety, Insomnia",Major Depressive Disorder,No treatment
+69af6cec-8afc-40c2-a67c-3819a03a233b,24,Male,47,Moderate,"Loss of appetite, Irritability",No Depression,Cognitive Behavioral Therapy
+4f98f68b-588c-4614-a22e-c2fbe7ebc882,78,Other,6,Moderate,"Insomnia, Anxiety, Irritability",No Depression,Cognitive Behavioral Therapy
+1455c0b9-6ca9-4ce6-b577-8241f9410fa1,35,Female,35,Moderate,"Fatigue, Sadness, Irritability",No Depression,Combination therapy
+b90ee60b-2f32-4f51-aaff-9dbf1b1af6f9,26,Male,7,Severe,"Anxiety, Loss of appetite, Irritability, Insomnia, Sadness",Major Depressive Disorder,Combination therapy
+d42bde1a-caae-466b-89ed-21c1bc89e282,43,Female,15,Severe,"Loss of appetite, Insomnia, Anxiety, Irritability, Fatigue",Major Depressive Disorder,Combination therapy
+b0fbbd5b-42b3-40b3-89a2-3926d6200af9,78,Male,45,Moderate,"Anxiety, Irritability, Loss of appetite, Sadness, Insomnia",No Depression,Cognitive Behavioral Therapy
+1a7a2f63-3af7-4329-9251-6e2e93526071,19,Male,46,Severe,"Fatigue, Loss of appetite, Sadness",Major Depressive Disorder,No treatment
+55d58264-211c-41ba-a0be-121daca692e6,26,Female,36,Moderate,"Insomnia, Loss of appetite, Fatigue, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+573a989f-05c0-479b-a861-737e16ab75c4,36,Other,7,Severe,"Anxiety, Fatigue, Sadness, Irritability",No Depression,No treatment
+94374018-414b-42b3-a18b-736542c5006d,57,Male,17,Mild,"Insomnia, Loss of appetite",No Depression,Medication
+a597cd53-d448-4378-8be2-d224fcbab2ab,80,Male,16,Moderate,"Fatigue, Anxiety",No Depression,No treatment
+45f2faff-f166-4b94-936b-19a3546bd334,26,Male,11,Mild,"Anxiety, Insomnia, Fatigue, Loss of appetite",Major Depressive Disorder,No treatment
+6652aa3f-8849-4b50-be54-c5ae2878a8fb,75,Female,22,Mild,"Sadness, Loss of appetite, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+7ed73927-769d-4a3f-97db-c788519f93a3,20,Other,16,Severe,"Loss of appetite, Fatigue, Irritability, Insomnia",Major Depressive Disorder,Combination therapy
+7c142af9-6bd5-4258-9138-791500d33954,48,Other,15,Moderate,"Irritability, Fatigue",Major Depressive Disorder,Medication
+675ad17a-a623-402b-9ea6-8233708eab17,50,Male,36,Severe,"Anxiety, Irritability, Loss of appetite, Fatigue",No Depression,Combination therapy
+8f57c9b7-f8cc-45c4-a996-7b0aa4ba3208,70,Other,11,Moderate,"Insomnia, Sadness, Anxiety",Major Depressive Disorder,No treatment
+1c81661b-2559-4cd7-9964-9fdfc0fb5e25,78,Male,25,Moderate,"Anxiety, Sadness, Irritability, Loss of appetite, Fatigue",No Depression,No treatment
+a2ca6a3f-5e79-446a-9f69-2322d4140cae,53,Female,29,Moderate,"Fatigue, Irritability, Loss of appetite, Sadness",Major Depressive Disorder,No treatment
+3c15b9ea-902f-4a2a-8958-54f53dea0b54,51,Other,19,Severe,"Irritability, Sadness, Fatigue, Loss of appetite",No Depression,Medication
+9c996ca3-7c1c-492f-967c-aaa85e270c87,61,Male,50,Mild,"Loss of appetite, Sadness, Fatigue, Insomnia",No Depression,No treatment
+741094cc-e61a-498c-b79d-378f223b2d1a,27,Female,17,Moderate,"Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+82dafb69-a8db-4c9e-acb2-8faa04803ca7,42,Male,9,Moderate,"Fatigue, Irritability, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+715bac09-4548-412a-85d2-5927fb1cbaa4,73,Male,4,Moderate,"Loss of appetite, Fatigue, Insomnia, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+8c05cf85-45c0-4d7b-a3ff-261c2ee55582,55,Male,20,Severe,"Irritability, Loss of appetite, Fatigue, Sadness",No Depression,Combination therapy
+bf049f33-a6f7-4a37-95a6-cfbcc90137fc,51,Female,23,Severe,"Anxiety, Loss of appetite, Sadness, Insomnia, Fatigue",No Depression,Medication
+4acebc8f-7e45-4466-8353-72593d3e69da,23,Female,26,Severe,"Fatigue, Irritability, Anxiety, Insomnia",Major Depressive Disorder,Combination therapy
+000f724e-f757-4345-b244-ffa036397f2a,19,Female,27,Severe,"Sadness, Loss of appetite, Irritability, Insomnia",No Depression,Medication
+4d7b2695-c2c6-4137-ab65-f8dedb3c583f,58,Other,5,Moderate,"Sadness, Insomnia",No Depression,Combination therapy
+a9c64ac6-7a66-462a-b87d-cfeeca3f7729,19,Female,13,Severe,"Irritability, Anxiety, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+770cce0f-5a2e-46dc-9ca0-117ba29359ca,41,Male,48,Severe,"Loss of appetite, Fatigue, Anxiety, Sadness, Irritability",Major Depressive Disorder,Medication
+30ae3a52-990f-4678-bb13-962984ed8b83,69,Male,27,Moderate,"Loss of appetite, Sadness",No Depression,No treatment
+52439fa0-25bb-490f-99d3-35c3d7213839,41,Female,45,Mild,"Anxiety, Irritability",No Depression,Combination therapy
+d5956860-1c43-47ef-b3a2-0aff5ece21c6,38,Female,37,Severe,"Irritability, Anxiety, Insomnia, Sadness",Major Depressive Disorder,Medication
+b28ba9b7-ac16-4139-8be9-7ec3239705a4,46,Female,37,Mild,"Sadness, Loss of appetite, Insomnia, Fatigue, Irritability",Major Depressive Disorder,No treatment
+b0fac73e-11c3-490f-8c29-c9342e358427,56,Other,36,Moderate,"Fatigue, Sadness, Irritability, Anxiety",Major Depressive Disorder,Medication
+cc2013e2-eaa9-4269-a6b7-b032330bbdde,61,Female,38,Moderate,"Anxiety, Loss of appetite, Insomnia",Major Depressive Disorder,No treatment
+8917c205-ed89-4630-9098-bb19e835556e,69,Female,18,Severe,"Sadness, Anxiety, Fatigue",Major Depressive Disorder,Combination therapy
+c4275441-ef1c-45ec-98ac-e2a0e1f175f1,19,Other,40,Severe,"Loss of appetite, Fatigue, Sadness, Irritability, Insomnia",Major Depressive Disorder,Combination therapy
+392ed251-d571-42f5-b12a-6bc0bb4f45af,79,Male,46,Mild,"Irritability, Anxiety, Sadness",No Depression,Medication
+95e68895-7b51-410c-b37f-4d01fdf2a664,66,Male,10,Moderate,"Anxiety, Insomnia, Loss of appetite, Irritability, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+ac6e7756-39ee-46e2-a6b0-2e37bc239227,68,Other,1,Moderate,"Insomnia, Anxiety, Fatigue, Irritability, Loss of appetite",Major Depressive Disorder,Medication
+b43ca0d7-71f7-43c3-9c01-0cc4104773e6,30,Female,24,Moderate,"Irritability, Insomnia, Anxiety, Sadness",No Depression,Cognitive Behavioral Therapy
+e248152d-199c-47c8-8035-d3559a4de5e5,70,Female,37,Mild,"Anxiety, Irritability, Sadness",No Depression,Combination therapy
+9fa9a294-8820-4840-a7ae-b92b9897e220,35,Male,26,Severe,"Insomnia, Irritability, Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,No treatment
+2180e422-9853-4d29-8a04-732fe1aa9be7,80,Female,19,Moderate,"Sadness, Insomnia, Anxiety",No Depression,Cognitive Behavioral Therapy
+e2c8d4a4-6612-4192-8d4a-36c543fb8869,60,Male,35,Mild,"Irritability, Insomnia, Fatigue, Sadness, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+763f8f09-7538-48ff-9642-ed79d825c17e,75,Male,8,Mild,"Fatigue, Sadness, Anxiety, Insomnia, Loss of appetite",No Depression,Medication
+ff6ec69a-57d5-4924-8a57-9897f952885a,54,Male,6,Mild,"Loss of appetite, Insomnia, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+b17b4537-7eec-4e77-ac91-8b5004542dda,66,Other,50,Severe,"Sadness, Fatigue, Loss of appetite, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+8e1a79fc-1e11-4183-b3d8-618d9239465c,74,Other,2,Severe,"Insomnia, Fatigue, Anxiety, Loss of appetite",No Depression,No treatment
+988f8155-0fb2-46ce-8015-3853498083fb,44,Other,46,Severe,"Loss of appetite, Fatigue, Sadness, Anxiety",Major Depressive Disorder,No treatment
+0f5aba8f-89cf-4d28-b818-aede344ac704,71,Female,47,Severe,"Loss of appetite, Irritability, Sadness, Insomnia, Fatigue",Major Depressive Disorder,No treatment
+56f47dad-a27e-42a1-845c-a67f6634aef0,23,Male,3,Mild,"Sadness, Irritability, Insomnia, Loss of appetite",Major Depressive Disorder,No treatment
+953ee02f-cdc6-4fcc-854b-37ac71e6e3e1,28,Female,40,Moderate,"Insomnia, Irritability",Major Depressive Disorder,Medication
+341e76ee-c4b4-44af-9635-e00113eddc23,35,Other,23,Mild,"Irritability, Anxiety",No Depression,No treatment
+9b59e0a8-fea4-406b-b749-92499b1d065f,54,Other,21,Mild,"Loss of appetite, Anxiety, Insomnia, Sadness, Fatigue",No Depression,Combination therapy
+72d49d83-d4d8-40bc-a49f-027810f4e876,54,Male,3,Mild,"Loss of appetite, Irritability, Sadness",Major Depressive Disorder,Medication
+065d6b59-a67d-4c79-8fe0-87b40f723c98,75,Female,18,Severe,"Loss of appetite, Sadness, Insomnia, Fatigue, Anxiety",No Depression,Combination therapy
+84119744-6ec7-4b05-b463-8ce9daececc9,57,Female,11,Moderate,"Insomnia, Loss of appetite",No Depression,No treatment
+d617449b-647b-4871-8b49-fdc11326fdb0,45,Male,39,Severe,"Irritability, Loss of appetite, Fatigue",No Depression,Combination therapy
+0c0b122f-d16c-4c86-aa15-66a82959d318,57,Female,50,Mild,"Sadness, Insomnia, Fatigue, Anxiety",Major Depressive Disorder,Medication
+076264ea-2347-41d7-8494-7f727633fa36,69,Male,41,Severe,"Fatigue, Sadness, Anxiety, Loss of appetite",No Depression,Combination therapy
+3ff26893-d39b-4781-94a1-0487aeb5acae,31,Male,25,Mild,"Sadness, Insomnia, Fatigue",Major Depressive Disorder,Medication
+efe426fc-1c96-483b-a7c3-42cad5441e10,19,Female,13,Mild,"Sadness, Fatigue, Irritability, Loss of appetite, Insomnia",Major Depressive Disorder,No treatment
+ffb5888c-feaf-4968-9725-6a23e2a3092e,72,Male,48,Moderate,"Insomnia, Sadness, Irritability",No Depression,Medication
+c14a90f3-e105-4e84-8428-e6cbd3814dd0,55,Female,2,Severe,"Sadness, Irritability, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+d2a83183-a60e-409c-bb97-93b7d01f9213,72,Male,51,Mild,"Loss of appetite, Irritability, Sadness, Fatigue, Insomnia",Major Depressive Disorder,Combination therapy
+3705c6f4-e5e5-4197-bd48-2448fc1d3b77,60,Other,45,Severe,"Insomnia, Fatigue, Irritability, Anxiety, Loss of appetite",No Depression,Cognitive Behavioral Therapy
+1baec27b-1c14-49a6-8294-dd4f8d30e6d9,63,Other,12,Severe,"Irritability, Sadness, Fatigue, Loss of appetite, Insomnia",No Depression,No treatment
+31f02fbd-e696-4894-b6b1-1e269f910bb5,44,Other,12,Moderate,"Insomnia, Anxiety, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+c314abff-515a-47b5-9161-1a80075e1549,25,Female,18,Severe,"Sadness, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+6716c34c-a048-45db-a227-7ae312ee56ce,27,Male,16,Mild,"Loss of appetite, Irritability, Anxiety, Fatigue",Major Depressive Disorder,Medication
+7a5af297-a13d-41d1-b950-90fee7e6a8af,46,Other,47,Moderate,"Insomnia, Fatigue, Loss of appetite",No Depression,Combination therapy
+e0233c4d-7eee-41b1-86a0-5a86e2688b24,19,Male,8,Severe,"Insomnia, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+aa3c0f7f-7d76-44d5-b2d5-ced4ba90f1c3,35,Male,12,Severe,"Loss of appetite, Irritability, Fatigue",No Depression,Combination therapy
+80b0c2b5-5942-4b2e-abbb-2da857006bf1,35,Female,51,Mild,"Fatigue, Irritability, Sadness",No Depression,No treatment
+6e687429-2e9f-43e3-b0cd-d8977bd48c3e,67,Female,35,Moderate,"Insomnia, Anxiety",Major Depressive Disorder,No treatment
+d5aa496d-a1ab-456b-967f-ef5a1f92280c,71,Male,33,Moderate,"Irritability, Fatigue",No Depression,Medication
+6ef94cc0-0fda-40c1-9076-db87cfca0cea,19,Female,20,Severe,"Anxiety, Sadness",No Depression,No treatment
+0c8f9fd1-a0d8-4bd8-8cfa-809ebf17cc6a,18,Female,51,Mild,"Anxiety, Irritability, Fatigue, Sadness, Insomnia",Major Depressive Disorder,No treatment
+7837e119-13c9-4e06-b5d2-95c8e759536e,64,Female,49,Severe,"Loss of appetite, Sadness, Fatigue, Insomnia, Anxiety",No Depression,No treatment
+1c462490-d913-4f50-8dbd-6305e737b5f0,45,Male,15,Moderate,"Irritability, Fatigue, Insomnia, Sadness",No Depression,No treatment
+854ad0b3-3632-43ec-b562-204353fb8714,43,Female,9,Moderate,"Anxiety, Fatigue, Insomnia",Major Depressive Disorder,Medication
+f9de4dc9-29b3-4749-a50a-98b462e61bec,34,Female,48,Severe,"Irritability, Sadness, Fatigue, Anxiety",No Depression,No treatment
+ddae939b-db67-44a7-9772-41e6417e463b,37,Other,8,Moderate,"Sadness, Anxiety, Fatigue",Major Depressive Disorder,No treatment
+8575a8a7-5937-4161-91c5-129bb59b7125,73,Female,8,Moderate,"Sadness, Insomnia, Anxiety, Irritability, Loss of appetite",Major Depressive Disorder,Combination therapy
+85d7d209-481b-4ad3-9ae9-b4430654d05e,18,Female,51,Moderate,"Anxiety, Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+bcf5a367-5155-4f95-b8e9-d9a3190c5acc,38,Male,48,Mild,"Sadness, Irritability, Loss of appetite",No Depression,Medication
+77a6afba-c3ee-4b5e-a2c1-c946fdd7b9bc,30,Female,2,Severe,"Irritability, Sadness, Loss of appetite",Major Depressive Disorder,No treatment
+f97660a8-4828-4ec7-aa25-3fd9e784ccd7,70,Male,6,Moderate,"Anxiety, Loss of appetite, Fatigue, Insomnia",Major Depressive Disorder,No treatment
+294c944a-38ab-4856-a627-2c5e2558da2f,70,Other,52,Severe,"Irritability, Fatigue",Major Depressive Disorder,Combination therapy
+51f31493-146d-4029-93fa-ef9fbbe2d15f,42,Female,29,Mild,"Insomnia, Anxiety, Sadness, Fatigue",Major Depressive Disorder,Medication
+0f63fb6a-a2e3-4097-86ec-6739ce7bdc8d,25,Male,2,Severe,"Sadness, Anxiety, Insomnia, Fatigue",No Depression,Medication
+437628af-0d48-41f5-9c91-fe13048b3f0b,27,Female,52,Moderate,"Loss of appetite, Irritability, Sadness, Insomnia, Fatigue",Major Depressive Disorder,No treatment
+609b646c-315d-49e1-9a73-0f13428c2224,64,Male,21,Mild,"Fatigue, Insomnia, Anxiety, Irritability",No Depression,Medication
+e3b38bbb-2682-4464-be3d-e0066e63f1b9,61,Female,5,Mild,"Insomnia, Loss of appetite",Major Depressive Disorder,No treatment
+3a76411a-a7d0-4d5c-b9ee-847aa8deba57,62,Other,30,Severe,"Irritability, Anxiety, Loss of appetite",Major Depressive Disorder,Medication
+fcaffd5f-ae8b-4b3c-b955-90d1b88f9e96,76,Other,10,Moderate,"Sadness, Anxiety",No Depression,Medication
+bcad38d0-ca8b-46ec-87dd-6901c252f1a4,68,Female,44,Severe,"Anxiety, Sadness, Fatigue, Irritability, Loss of appetite",No Depression,No treatment
+5fba7f25-82da-4334-a877-2b2e7031384a,54,Male,2,Severe,"Loss of appetite, Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+d908487b-eb82-4379-af18-7e907eca2465,54,Female,6,Mild,"Sadness, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+cdc98467-ccb6-46cb-9942-beadc9b8e9d2,49,Female,3,Mild,"Loss of appetite, Irritability",No Depression,Medication
+4e41ba46-77a2-4c4e-a8c8-987384ac4480,51,Other,40,Moderate,"Anxiety, Insomnia, Loss of appetite, Irritability",No Depression,Cognitive Behavioral Therapy
+e92fd4cc-24f5-403d-a6c2-4fa48ffb6815,74,Female,31,Moderate,"Sadness, Anxiety, Insomnia",No Depression,Medication
+79b9a031-2714-4fe1-8030-5e6234954a16,71,Female,33,Severe,"Anxiety, Loss of appetite, Sadness, Irritability, Fatigue",No Depression,Combination therapy
+9b57e4c3-3750-47be-ba8d-17a60855bd19,20,Female,14,Moderate,"Fatigue, Loss of appetite, Sadness, Insomnia",No Depression,Combination therapy
+796b72bc-e8bc-4a8d-9308-a0703d748ee8,20,Male,48,Mild,"Sadness, Insomnia, Irritability, Fatigue, Loss of appetite",No Depression,No treatment
+03c56d2b-185b-4ac6-8bbb-9098a06a81b5,35,Male,52,Moderate,"Irritability, Sadness",Major Depressive Disorder,Combination therapy
+f3304deb-e5cb-4452-bf4a-17aad062f6d4,64,Female,21,Moderate,"Loss of appetite, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+fe75dcfe-404a-4bbc-959f-6db5f0b3e24c,28,Male,43,Mild,"Fatigue, Anxiety, Loss of appetite, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+708045cb-c341-49f6-8bc6-48df6e674651,18,Female,32,Severe,"Anxiety, Insomnia, Fatigue, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+84489eb5-4c0b-4052-8330-4f66e46886c4,24,Female,27,Mild,"Loss of appetite, Sadness, Insomnia, Irritability, Anxiety",No Depression,Cognitive Behavioral Therapy
+dd036537-9b95-482e-a4ca-73ef9adb355a,31,Female,36,Mild,"Sadness, Insomnia, Loss of appetite, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+8b181f20-92f8-4268-ac16-0489335027f8,61,Male,43,Mild,"Loss of appetite, Anxiety, Sadness",No Depression,No treatment
+5a5bedac-ce99-4e24-80c3-92232f5e8466,28,Male,27,Moderate,"Sadness, Anxiety",Major Depressive Disorder,No treatment
+6d2e2d34-6270-4a56-829f-1f31e97abf87,34,Other,7,Moderate,"Fatigue, Anxiety, Loss of appetite, Insomnia, Sadness",Major Depressive Disorder,No treatment
+2e88606f-a679-4b46-9707-5de4ba426d3a,72,Male,23,Severe,"Sadness, Irritability, Loss of appetite",Major Depressive Disorder,No treatment
+d86dd136-0a50-45a9-a2c9-1b97f0ddd493,54,Male,52,Mild,"Fatigue, Insomnia, Loss of appetite, Anxiety, Sadness",No Depression,No treatment
+23d29094-21e5-488d-9b1f-463a9145899e,31,Other,51,Moderate,"Insomnia, Sadness, Loss of appetite, Fatigue",No Depression,Cognitive Behavioral Therapy
+2c1182ed-9f3c-44b7-9a23-82eeb22b7ead,38,Other,29,Mild,"Fatigue, Loss of appetite, Irritability, Anxiety, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+2bbce238-2376-4994-a2be-d51518c311a4,75,Female,31,Moderate,"Sadness, Irritability",No Depression,No treatment
+63192f56-9dbd-4a68-91c2-696c18e091c7,42,Male,43,Severe,"Fatigue, Sadness, Loss of appetite, Irritability, Insomnia",Major Depressive Disorder,No treatment
+3e8224f3-234e-4f42-91f6-fba20cfe8c81,32,Other,35,Severe,"Loss of appetite, Anxiety, Fatigue, Insomnia, Irritability",Major Depressive Disorder,No treatment
+cacc9c1f-919a-4c83-8795-6044aef61598,61,Other,44,Severe,"Anxiety, Fatigue, Irritability, Insomnia",Major Depressive Disorder,Medication
+f0193ff6-e8c8-4c82-8c8e-787ad3cb8016,22,Other,34,Moderate,"Sadness, Fatigue, Loss of appetite, Insomnia",Major Depressive Disorder,No treatment
+6fc46814-4011-4cf8-a115-cf6e22b95c80,30,Male,5,Moderate,"Sadness, Irritability, Loss of appetite, Anxiety",Major Depressive Disorder,Combination therapy
+11a80b03-496e-49d4-8ede-029e922cdc57,63,Other,31,Severe,"Insomnia, Anxiety, Fatigue, Loss of appetite, Sadness",No Depression,No treatment
+66fe79a0-7269-4864-beb4-db7c856ccb51,63,Female,6,Severe,"Anxiety, Insomnia, Irritability",No Depression,Cognitive Behavioral Therapy
+0419863e-2ddc-42a7-952e-15fda2fbc0f9,60,Other,18,Moderate,"Loss of appetite, Anxiety",Major Depressive Disorder,Medication
+17dd5cd4-1cda-4cd8-98a4-1bbeef6c2136,39,Other,36,Moderate,"Insomnia, Sadness",Major Depressive Disorder,Combination therapy
+8f8cd1d8-5111-461e-8471-4f3e4f0c2432,30,Male,5,Severe,"Sadness, Loss of appetite, Fatigue, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+3ce66c07-31c8-4b55-a225-f46317d96b45,37,Male,1,Moderate,"Sadness, Loss of appetite, Irritability, Fatigue, Insomnia",No Depression,No treatment
+a57f907d-a9d8-4f5b-9e11-9915b5ee829a,52,Female,3,Severe,"Anxiety, Loss of appetite, Sadness",No Depression,Medication
+89c9679c-4c63-4ed9-80ec-ade2ae6eaa4d,31,Male,26,Moderate,"Fatigue, Sadness, Irritability, Anxiety",Major Depressive Disorder,Medication
+36bcb612-9e6d-40af-a0c8-1504fdac94dd,70,Other,19,Moderate,"Irritability, Insomnia, Anxiety, Loss of appetite, Fatigue",Major Depressive Disorder,Combination therapy
+5ab92966-46d3-47a9-b701-ea9b0f63adec,55,Other,42,Moderate,"Insomnia, Anxiety, Fatigue, Irritability",Major Depressive Disorder,No treatment
+18b22ce8-28de-4538-a202-045bb7ec3c43,79,Male,30,Severe,"Irritability, Insomnia, Sadness, Loss of appetite",No Depression,No treatment
+6795fe68-062b-4679-a6c9-0ce1a2962129,63,Other,43,Moderate,"Anxiety, Insomnia, Loss of appetite, Sadness",No Depression,Medication
+47644ece-c97b-4859-a41f-f5ce637a0b06,23,Female,42,Severe,"Insomnia, Sadness, Fatigue, Loss of appetite, Anxiety",No Depression,Cognitive Behavioral Therapy
+80ea5972-3340-49b5-8537-0e13902e566d,19,Male,48,Moderate,"Loss of appetite, Sadness",Major Depressive Disorder,No treatment
+7ebdafad-ff43-4cd8-b4f6-a499d38ce709,31,Other,2,Mild,"Anxiety, Insomnia, Loss of appetite, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+87d04b8c-34f0-4486-a5d5-fbc79f7ff9be,56,Male,28,Severe,"Irritability, Fatigue",No Depression,Cognitive Behavioral Therapy
+7d85fc43-ba01-4964-99b5-8bb39730bb51,50,Male,40,Moderate,"Irritability, Loss of appetite, Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+b081ebb6-d785-4567-8545-bc62538435dd,50,Other,24,Mild,"Irritability, Sadness, Loss of appetite, Anxiety, Fatigue",Major Depressive Disorder,No treatment
+206fb2ec-e523-47c8-8532-3b2e8650a29c,76,Other,5,Severe,"Loss of appetite, Insomnia, Fatigue, Irritability, Anxiety",No Depression,Medication
+dbcbdb8d-94ea-4f94-bcea-1b6891f66de9,41,Female,19,Mild,"Insomnia, Anxiety",No Depression,Medication
+765856e2-d68f-4ef1-8097-9daa4899d27b,32,Female,37,Mild,"Loss of appetite, Irritability, Sadness, Insomnia",No Depression,No treatment
+75a7aa48-6386-428e-ad46-ab56b50611cf,77,Female,47,Mild,"Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+e9178acf-1a03-45d9-b8ac-bd7cd4398116,33,Female,20,Mild,"Insomnia, Fatigue, Anxiety",No Depression,No treatment
+e5a64496-37f3-4ef8-8e5f-096aa2b82086,74,Other,40,Mild,"Anxiety, Insomnia, Fatigue, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+d2f24e17-ca2f-4f27-9024-535927b4c9fc,60,Female,2,Severe,"Sadness, Anxiety, Insomnia, Fatigue, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+730ff7ce-1e7b-4e31-9088-d4f5c0722d35,48,Other,18,Severe,"Sadness, Irritability, Anxiety, Insomnia",No Depression,No treatment
+05f94320-80ea-4df0-a72d-8e6a26dcce4d,33,Female,14,Severe,"Anxiety, Fatigue",No Depression,Combination therapy
+1d7b30cb-eaba-4318-b7b5-2727d40730eb,32,Female,18,Mild,"Insomnia, Loss of appetite, Fatigue",No Depression,Cognitive Behavioral Therapy
+f5d8949c-1cb9-4615-bbb4-f1be0c79aa74,72,Other,23,Mild,"Sadness, Irritability, Fatigue",Major Depressive Disorder,Medication
+9ce7728a-0183-4d18-81f0-484cb9921fd1,38,Other,43,Moderate,"Loss of appetite, Insomnia",No Depression,No treatment
+ded91d90-77c0-4b84-9376-ffcd9941bb12,27,Other,16,Moderate,"Irritability, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+a34773fb-e12b-4da5-9078-8a284604d659,77,Male,20,Moderate,"Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+3be2e583-f46b-4b62-82a2-4a40830af6f6,79,Other,7,Mild,"Irritability, Anxiety, Fatigue, Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+83f508ee-637d-45c8-b7f2-db73e84a6d0e,45,Other,24,Severe,"Sadness, Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+d51a8c2e-cbeb-4d8f-b0e6-d5bfb24ff3e9,48,Male,52,Moderate,"Sadness, Insomnia, Irritability, Loss of appetite",No Depression,Combination therapy
+d75252b6-9623-4269-ba5f-7e30abe11802,68,Other,1,Moderate,"Anxiety, Irritability",Major Depressive Disorder,No treatment
+a1f8087c-4481-4cfe-a246-ae0cd88bdbf7,33,Male,29,Moderate,"Insomnia, Irritability",Major Depressive Disorder,Medication
+c93d268e-fb40-40de-97ab-fbb42a6b7b1b,30,Other,38,Severe,"Sadness, Insomnia, Anxiety",No Depression,No treatment
+a72339cf-0cc4-4c68-8ce1-ab9126bd579a,77,Other,47,Moderate,"Insomnia, Sadness, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+a5e8c8c4-380e-40bf-be28-94568d3e6e59,38,Female,17,Moderate,"Fatigue, Anxiety, Insomnia, Irritability, Sadness",Major Depressive Disorder,Medication
+44cdd180-2556-4f37-b4f7-997cb823496f,74,Male,25,Severe,"Fatigue, Insomnia, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+cda9eb1f-90f6-498a-ba0f-8b840915ccff,34,Male,34,Severe,"Fatigue, Irritability",No Depression,No treatment
+2b30dd90-74d7-455b-bfee-f62ef9bf7833,63,Female,39,Severe,"Anxiety, Irritability",No Depression,Medication
+e6ba0418-6ba3-4a28-bb4c-950e781016b4,76,Other,26,Severe,"Loss of appetite, Anxiety, Irritability",No Depression,Combination therapy
+a05f36fc-92a1-4151-8094-4fabcd06f7c9,43,Female,8,Moderate,"Anxiety, Insomnia",Major Depressive Disorder,Medication
+3b56cd88-5b0a-4049-9298-991fd65e23ba,73,Female,1,Mild,"Loss of appetite, Anxiety, Irritability, Fatigue, Sadness",Major Depressive Disorder,Combination therapy
+13b5c61b-e4bd-4644-b873-0b1f3ce9e0a6,37,Female,42,Moderate,"Anxiety, Loss of appetite, Fatigue",No Depression,Cognitive Behavioral Therapy
+81761627-16c3-4b32-b960-287adb87f0b8,79,Female,34,Severe,"Sadness, Insomnia, Fatigue, Irritability",Major Depressive Disorder,Medication
+e70a8d43-9626-4013-88f5-4250068af45f,59,Other,41,Severe,"Fatigue, Irritability, Anxiety, Sadness, Loss of appetite",No Depression,Cognitive Behavioral Therapy
+211478e1-7432-44a7-9dc3-349050c9bbdd,80,Male,20,Moderate,"Loss of appetite, Insomnia, Sadness",Major Depressive Disorder,Medication
+db77ab03-2e0b-468f-b1c1-878dda70ca87,64,Other,36,Mild,"Fatigue, Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+d6890de5-9006-44f9-bcab-1d3752a97f9a,60,Male,38,Mild,"Anxiety, Fatigue, Irritability, Loss of appetite, Insomnia",No Depression,Combination therapy
+a25df1bd-4c41-496f-9caa-9b58287aaaa2,51,Male,32,Mild,"Insomnia, Loss of appetite",Major Depressive Disorder,Combination therapy
+45dc15c5-308b-4033-b953-324966e341d6,48,Male,7,Moderate,"Insomnia, Anxiety, Irritability, Loss of appetite, Sadness",Major Depressive Disorder,Combination therapy
+44e993d4-bc85-403d-b201-75201b46fa13,40,Male,28,Severe,"Insomnia, Irritability, Fatigue",Major Depressive Disorder,Combination therapy
+c91b2373-8ad1-4b5a-bbad-c0604e011d96,41,Female,47,Moderate,"Insomnia, Fatigue, Loss of appetite, Irritability, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+bd94dcc1-85d5-4fbf-9b8b-2c1f5b1bf435,65,Male,50,Moderate,"Loss of appetite, Insomnia, Sadness, Irritability, Fatigue",No Depression,Combination therapy
+7f0debd3-e86a-4a1f-95cc-cfbf760ddc69,50,Male,45,Moderate,"Anxiety, Insomnia, Sadness, Fatigue",No Depression,No treatment
+466b18ea-d57f-4d92-9184-2006e70194e0,37,Female,4,Mild,"Fatigue, Sadness, Anxiety",No Depression,Medication
+1c9331dc-ed01-41d7-b7a9-e49887b5f3fb,55,Female,51,Moderate,"Fatigue, Anxiety, Irritability",Major Depressive Disorder,Medication
+e32500c9-f581-4676-a016-ca7fc13105a4,35,Male,31,Mild,"Fatigue, Irritability, Insomnia, Loss of appetite, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+6d235381-930b-4f61-b5e3-221b36e26ac8,62,Female,34,Mild,"Loss of appetite, Sadness",No Depression,No treatment
+48bf4b2e-2027-44f5-88b3-edfda1be2f07,25,Female,20,Severe,"Irritability, Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+ce261d0a-2218-4327-9edb-d7cccf74e259,72,Female,13,Moderate,"Anxiety, Insomnia, Sadness, Fatigue",No Depression,Medication
+4b8c24db-3e06-4fef-86e2-224fc410890b,41,Other,32,Mild,"Anxiety, Insomnia, Irritability, Fatigue, Sadness",No Depression,Cognitive Behavioral Therapy
+8d334209-fd4b-4953-8ac4-e46d12c35dc0,36,Female,6,Moderate,"Sadness, Insomnia, Fatigue, Anxiety, Loss of appetite",Major Depressive Disorder,Combination therapy
+f727cbf7-cb82-4d08-abc6-9b8c973ac0ca,38,Other,12,Mild,"Sadness, Anxiety, Loss of appetite, Irritability, Insomnia",Major Depressive Disorder,Combination therapy
+1ca6e61b-0a39-4aee-8412-29de640c575d,56,Male,45,Mild,"Loss of appetite, Insomnia",Major Depressive Disorder,No treatment
+e92d211f-9663-4dd1-a514-406b812bab15,26,Female,38,Moderate,"Irritability, Insomnia",No Depression,Combination therapy
+62c4dd80-5093-418c-be42-8b32814d09f5,54,Other,21,Severe,"Fatigue, Irritability",No Depression,Cognitive Behavioral Therapy
+96cdc52b-e5c1-4a17-a819-176f0b0b5291,32,Other,28,Severe,"Sadness, Fatigue",Major Depressive Disorder,No treatment
+47b3a6ff-9db5-4583-90d8-f828cbcd7fb5,56,Female,22,Moderate,"Insomnia, Irritability",No Depression,No treatment
+b44da585-189b-4741-904f-e4beb3fb4be0,68,Female,49,Moderate,"Irritability, Sadness, Anxiety, Insomnia, Loss of appetite",No Depression,No treatment
+5cd0268e-9d34-4b50-8aa4-dd20476d092c,71,Other,20,Moderate,"Irritability, Insomnia",Major Depressive Disorder,No treatment
+2062429b-8fac-4795-91ac-997a92b91d83,64,Other,30,Mild,"Irritability, Insomnia, Loss of appetite, Sadness, Anxiety",Major Depressive Disorder,Medication
+341e17a1-9874-4f61-af72-a19ef1e5a459,65,Male,44,Moderate,"Anxiety, Insomnia, Fatigue, Loss of appetite",Major Depressive Disorder,Combination therapy
+15464ac2-8b9a-4213-907a-202825597130,46,Female,18,Severe,"Insomnia, Loss of appetite, Irritability, Fatigue",Major Depressive Disorder,Medication
+f64706b8-93da-462b-b943-af2ab55e5559,23,Male,13,Severe,"Irritability, Loss of appetite, Fatigue",No Depression,No treatment
+e7d6dd4d-330f-425f-a2f9-3337b32351f5,49,Other,9,Moderate,"Fatigue, Insomnia, Anxiety, Sadness",Major Depressive Disorder,Medication
+f73c39ea-4c5b-4768-abed-9e281b990285,28,Other,45,Moderate,"Insomnia, Anxiety, Fatigue",No Depression,Combination therapy
+7c66bf83-0a04-4145-8ada-1ba3b885583e,29,Other,12,Moderate,"Sadness, Fatigue, Insomnia",No Depression,Cognitive Behavioral Therapy
+abc2c46e-5d7e-4051-8ba9-4162ebabdc9f,71,Female,51,Severe,"Irritability, Insomnia, Loss of appetite",No Depression,Combination therapy
+dd3e3e30-d26b-4f9f-8cbb-021edc11192e,33,Male,50,Moderate,"Anxiety, Sadness, Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+bc6827d5-36de-4559-bfbe-793b027509c3,30,Other,39,Mild,"Fatigue, Insomnia, Anxiety, Sadness, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+2354c0ba-1a51-41fc-8f0f-2d7d84317549,65,Male,21,Moderate,"Fatigue, Anxiety, Insomnia",Major Depressive Disorder,Medication
+8a1d809e-cd9e-417b-93b1-e2b62c56674b,39,Female,22,Mild,"Fatigue, Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+e97be9be-2e7f-467e-98af-9916f668b5c5,19,Other,8,Severe,"Irritability, Anxiety, Insomnia",Major Depressive Disorder,Combination therapy
+a30c9ea2-300b-478a-858f-7c6491306133,70,Male,26,Moderate,"Anxiety, Insomnia, Loss of appetite, Irritability, Fatigue",No Depression,No treatment
+f93fe887-2367-48d3-9ffd-4f4a185ac1d1,35,Male,33,Moderate,"Fatigue, Irritability, Insomnia, Sadness, Anxiety",No Depression,Medication
+109dee1c-ac3c-4d7b-a5b7-be621af73255,26,Female,4,Severe,"Sadness, Loss of appetite, Fatigue, Anxiety",Major Depressive Disorder,No treatment
+da0da3ed-5cf6-4bb1-98f4-c204b5fb74a7,19,Male,33,Severe,"Insomnia, Loss of appetite",No Depression,Medication
+27544d27-84e0-4300-b2b3-e6da26ebcad7,27,Female,28,Moderate,"Insomnia, Loss of appetite, Irritability, Fatigue, Sadness",Major Depressive Disorder,Medication
+38ac5357-ef62-46cd-b1b8-d6b50f668a69,60,Female,19,Mild,"Fatigue, Insomnia, Sadness, Loss of appetite",Major Depressive Disorder,Combination therapy
+5b5c4b5c-9a8e-4c2a-8b8a-c87a33794b5e,42,Male,34,Mild,"Anxiety, Insomnia, Fatigue",Major Depressive Disorder,Medication
+0afc795b-6d48-492a-95ff-d0d0915b3d7d,40,Female,8,Severe,"Insomnia, Sadness, Loss of appetite, Fatigue, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+2c9c903b-b599-4038-ab47-bfaaa0eda332,31,Male,25,Mild,"Fatigue, Sadness, Loss of appetite, Insomnia",Major Depressive Disorder,Combination therapy
+0d21fa17-173b-4bed-9ec6-e842db92da58,74,Male,31,Severe,"Insomnia, Fatigue",Major Depressive Disorder,Medication
+2990e354-2b68-42b3-ae48-a54e701dc14b,26,Male,23,Mild,"Anxiety, Fatigue, Insomnia, Irritability, Loss of appetite",Major Depressive Disorder,No treatment
+b161c86c-fb65-45ad-a419-46699e0f94f1,41,Female,34,Moderate,"Loss of appetite, Fatigue, Irritability, Sadness",Major Depressive Disorder,No treatment
+7d42382f-ed77-48e8-9ebf-de50cf59de0f,73,Male,23,Mild,"Anxiety, Fatigue, Insomnia, Irritability, Sadness",No Depression,Combination therapy
+09f4d28f-dec1-4e52-9d59-3beeeb5df72f,70,Female,5,Mild,"Anxiety, Sadness",No Depression,Medication
+e6d7e7fa-2ed1-4d12-b09f-9f7a675fefec,71,Other,31,Severe,"Fatigue, Anxiety",Major Depressive Disorder,Combination therapy
+6080c3e3-774e-4d87-bae3-d97c16f53298,35,Other,13,Moderate,"Sadness, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+7fa4cfc3-15a2-41b5-9e10-176a9bef8aa6,22,Female,34,Moderate,"Anxiety, Irritability",Major Depressive Disorder,No treatment
+760cfb26-1dc3-4abb-bf75-71d26722c69a,36,Other,44,Mild,"Loss of appetite, Insomnia, Sadness",No Depression,No treatment
+19f4257e-a846-4b9c-8840-64b555e98f34,78,Male,28,Severe,"Insomnia, Sadness, Irritability, Fatigue",No Depression,Cognitive Behavioral Therapy
+23039b2f-695e-41ea-8779-c81edea4f71b,32,Other,46,Moderate,"Loss of appetite, Sadness, Irritability, Anxiety",Major Depressive Disorder,Medication
+cfc2034c-6869-4807-8754-72186c6d44c4,41,Male,25,Severe,"Loss of appetite, Anxiety, Fatigue, Sadness, Irritability",Major Depressive Disorder,Medication
+9d203fe3-f63f-46be-b32e-9868d9c1f269,23,Male,13,Mild,"Insomnia, Anxiety, Loss of appetite, Irritability, Sadness",Major Depressive Disorder,No treatment
+75f60906-bcc4-44e2-a944-b859b2478933,69,Female,41,Mild,"Insomnia, Fatigue, Loss of appetite",No Depression,Medication
+69620dc4-7fef-448a-98df-971593b2ace6,74,Female,2,Mild,"Irritability, Sadness, Anxiety",No Depression,Combination therapy
+082cbd68-59fd-4058-8f3c-5010e88fcb36,33,Male,52,Severe,"Sadness, Irritability, Anxiety, Loss of appetite, Fatigue",Major Depressive Disorder,Cognitive Behavioral Therapy
+91fdb266-87b9-4522-a4d5-baa2295543da,75,Other,14,Moderate,"Sadness, Insomnia, Loss of appetite, Fatigue, Irritability",Major Depressive Disorder,No treatment
+63bc3e7e-b99e-499c-ba9f-dfbfe94ce89c,63,Male,40,Severe,"Loss of appetite, Sadness, Anxiety, Insomnia, Irritability",Major Depressive Disorder,Combination therapy
+e0060bc0-bcd9-4017-a9ab-2b998b363bd5,77,Other,43,Mild,"Irritability, Fatigue",Major Depressive Disorder,No treatment
+84501e6e-9710-4180-996d-4c00dd1eb0d5,32,Other,5,Moderate,"Insomnia, Irritability",Major Depressive Disorder,Combination therapy
+3253c3b2-c25a-4799-b804-78f56346f9d6,69,Male,9,Severe,"Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+ba164f98-6231-4221-8386-9b5e3de1a7c7,29,Male,44,Severe,"Irritability, Fatigue, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+6d012b33-e99b-4a0f-8047-1f207eceb5ab,36,Female,23,Severe,"Sadness, Insomnia, Irritability, Fatigue",No Depression,Medication
+b4f4e945-aab3-4197-a087-46b2bcad2e52,33,Female,32,Moderate,"Irritability, Loss of appetite",No Depression,No treatment
+e032b610-b721-4d4e-afd8-4669182d095a,31,Female,48,Moderate,"Insomnia, Sadness",No Depression,Medication
+228717d1-960b-4f44-a1d3-134ad822cd46,35,Female,12,Moderate,"Loss of appetite, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+9be574a9-2fd3-4f21-986e-2884d6d2f0a9,76,Other,33,Moderate,"Loss of appetite, Sadness, Fatigue, Insomnia, Anxiety",Major Depressive Disorder,Combination therapy
+5c2341d5-845a-4791-ade8-4148f0e9341c,35,Male,29,Severe,"Fatigue, Sadness, Anxiety",Major Depressive Disorder,Combination therapy
+032f838d-c6ae-4b75-b5c2-6a4bedc0d6ad,80,Female,48,Severe,"Anxiety, Sadness",No Depression,Cognitive Behavioral Therapy
+f41591da-c69e-43d1-b291-0b0fe78f0200,50,Other,51,Severe,"Anxiety, Fatigue, Loss of appetite, Insomnia, Irritability",Major Depressive Disorder,No treatment
+0ec986fb-4b04-41f3-864b-966e2498358d,31,Female,13,Severe,"Irritability, Insomnia, Loss of appetite, Fatigue",Major Depressive Disorder,Medication
+74cfa9a4-f327-406b-85fe-c29e4837046f,59,Male,7,Severe,"Insomnia, Irritability",No Depression,No treatment
+8fa2c755-a189-484c-a929-130373c69c5d,30,Female,45,Moderate,"Loss of appetite, Fatigue, Sadness",Major Depressive Disorder,Cognitive Behavioral Therapy
+dfef6727-23f5-4187-a516-61631ba8221e,39,Male,11,Moderate,"Insomnia, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+566a2c69-ac5a-49f0-aeec-ba63857d99fd,29,Male,52,Mild,"Sadness, Fatigue, Irritability",No Depression,Cognitive Behavioral Therapy
+1fcbe5c7-3cbb-4b67-a691-fbe0318ac84d,76,Other,22,Moderate,"Sadness, Anxiety, Irritability",No Depression,Combination therapy
+5a5e93c4-cafe-4c3b-b5d3-7012af26d8eb,61,Other,31,Moderate,"Insomnia, Irritability",No Depression,Combination therapy
+a4c74b2f-5195-483c-a1ca-6c07dd19f833,47,Other,21,Moderate,"Irritability, Loss of appetite, Anxiety, Fatigue",No Depression,No treatment
+c82ad1b1-ccec-42fd-9541-a59f179f6763,35,Male,4,Severe,"Irritability, Sadness, Anxiety, Insomnia, Loss of appetite",No Depression,No treatment
+5eb1cb1c-d71f-40bd-aaf5-b99475a4c322,56,Male,19,Mild,"Insomnia, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+80734b14-a4fd-47a0-95ea-849c8aaa1de9,27,Other,35,Mild,"Fatigue, Insomnia, Sadness",No Depression,Combination therapy
+da1b8095-f07d-4ba1-bf28-f32f61e2edd6,63,Male,19,Mild,"Fatigue, Loss of appetite, Sadness",No Depression,No treatment
+03650c8a-548c-4fa7-8809-639c2a8a5116,56,Other,18,Severe,"Sadness, Anxiety, Fatigue, Irritability, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+747b1fed-456c-4155-b63a-57950e92a27d,76,Female,50,Moderate,"Loss of appetite, Irritability, Sadness, Anxiety",No Depression,No treatment
+6ec5b0d2-56cd-4c00-a835-bff0df8e75a0,26,Female,33,Severe,"Sadness, Anxiety, Irritability",Major Depressive Disorder,Cognitive Behavioral Therapy
+8e8abf0a-4e3b-4df2-8ce8-01faa0fd69d4,77,Other,18,Mild,"Loss of appetite, Insomnia, Fatigue",No Depression,Medication
+d5c3e1b9-04ce-4298-a5a1-d1987d6bc92e,18,Other,4,Severe,"Loss of appetite, Fatigue, Insomnia, Anxiety, Sadness",No Depression,No treatment
+601956e1-1b8c-4270-b96e-bd511117d5be,67,Other,35,Severe,"Irritability, Anxiety, Insomnia, Sadness",Major Depressive Disorder,No treatment
+bbf42adf-e6d7-4ec9-b00d-f1ca151ab588,21,Female,42,Mild,"Sadness, Anxiety, Fatigue, Loss of appetite",Major Depressive Disorder,Medication
+343e70b2-f1ea-4904-952f-9ca40a4da86d,60,Other,23,Moderate,"Loss of appetite, Fatigue, Insomnia, Anxiety",No Depression,No treatment
+ab017b02-9f7d-4c0b-a404-c21910bf0e72,53,Female,6,Mild,"Insomnia, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+4f02578a-9a12-493c-a2eb-02e8bf812b0b,37,Other,51,Severe,"Anxiety, Irritability, Sadness",No Depression,Medication
+3a2dd2a1-6f17-4b07-8f3f-948df1896b2a,70,Male,11,Severe,"Insomnia, Anxiety, Sadness",Major Depressive Disorder,Combination therapy
+9ba58fa3-ee31-4f0d-9ac0-0619fe481efa,76,Female,15,Mild,"Sadness, Loss of appetite, Fatigue, Irritability",Major Depressive Disorder,No treatment
+4cf9c963-b04a-457b-bf85-858c991be683,49,Male,52,Mild,"Insomnia, Fatigue",Major Depressive Disorder,Combination therapy
+bfd25beb-bbd3-4f91-87cd-9cc891898a43,66,Female,28,Moderate,"Insomnia, Sadness, Fatigue",Major Depressive Disorder,Medication
+2ee5041e-540b-4f77-b125-7bd69a6bb9ce,77,Female,51,Moderate,"Loss of appetite, Fatigue, Sadness, Irritability, Insomnia",No Depression,Combination therapy
+5f6129e6-5fc3-45b0-b8ea-f8625c34386e,45,Male,43,Moderate,"Anxiety, Fatigue",Major Depressive Disorder,No treatment
+1c0a17e7-9537-44cc-8120-7779fd89d052,30,Male,2,Severe,"Fatigue, Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,Combination therapy
+814884e5-4925-4386-9d42-ef5ab46c0c68,68,Male,13,Severe,"Irritability, Anxiety, Sadness, Insomnia",No Depression,Cognitive Behavioral Therapy
+e69981db-d984-4eea-b613-5a368b48bbf9,30,Female,51,Severe,"Sadness, Fatigue",Major Depressive Disorder,Medication
+4b5ef446-b246-49ac-ba90-70b96d1f51d7,60,Male,6,Mild,"Sadness, Anxiety, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+2e60288b-47f7-402e-b886-1526bb624517,40,Female,38,Mild,"Irritability, Insomnia",Major Depressive Disorder,Medication
+8945c9b4-37b3-4737-a767-90b370496594,29,Other,4,Moderate,"Insomnia, Anxiety, Fatigue, Irritability, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+73b07827-5a99-4618-b46e-346bf57a9a21,60,Female,44,Severe,"Sadness, Anxiety",No Depression,Combination therapy
+2f9c9e19-fa35-417e-a146-9fc92b2db231,32,Female,27,Moderate,"Sadness, Anxiety",No Depression,No treatment
+644eecca-b1a9-4b78-85bb-9b35a8d952d2,18,Female,28,Severe,"Anxiety, Sadness, Fatigue, Loss of appetite, Insomnia",Major Depressive Disorder,Medication
+ece45cbd-5a86-4e39-b0d5-e928cc09e06e,65,Female,51,Severe,"Irritability, Sadness, Loss of appetite, Insomnia",No Depression,No treatment
+87d73ff6-1704-40aa-a8e5-dbf7667f3949,70,Male,5,Mild,"Fatigue, Loss of appetite, Anxiety, Sadness, Irritability",Major Depressive Disorder,Combination therapy
+0d85c21f-c046-475e-84e3-d447cb55ec52,51,Female,3,Moderate,"Anxiety, Loss of appetite, Sadness, Insomnia, Fatigue",Major Depressive Disorder,Medication
+734af11e-2814-4a1c-abef-ba26f63c7063,33,Male,41,Severe,"Fatigue, Irritability, Loss of appetite, Anxiety",Major Depressive Disorder,Cognitive Behavioral Therapy
+f68eb15a-f6b9-48b4-8816-9e4d91ef6b30,68,Other,5,Mild,"Irritability, Insomnia, Loss of appetite, Anxiety",No Depression,Medication
+72937598-7146-4c30-8034-27a0a636513f,22,Female,34,Mild,"Insomnia, Loss of appetite",Major Depressive Disorder,Cognitive Behavioral Therapy
+945533e6-3112-46f9-ac08-943cb716b934,35,Other,45,Severe,"Irritability, Fatigue, Insomnia, Anxiety, Loss of appetite",Major Depressive Disorder,Combination therapy
+f4bc260e-d58a-4b72-9518-c670b4e014bb,63,Female,43,Severe,"Fatigue, Insomnia, Sadness",No Depression,Combination therapy
+fc1e27d2-63f8-4203-b468-bf2f8a0deea9,45,Female,50,Mild,"Fatigue, Anxiety, Loss of appetite",No Depression,No treatment
+2281b439-c1e2-4613-9aa6-4d5666e8f08e,57,Male,51,Severe,"Irritability, Insomnia, Sadness, Loss of appetite, Anxiety",Major Depressive Disorder,Medication
+717e602d-b6c1-4194-8e56-70107a4f1f77,79,Male,19,Severe,"Loss of appetite, Sadness, Anxiety, Irritability, Fatigue",No Depression,No treatment
+ba05101a-aae6-4b1f-950a-68af724a47d5,76,Other,11,Mild,"Insomnia, Loss of appetite, Irritability",Major Depressive Disorder,Medication
+fb5b3f88-dc94-4960-958a-0c95fe69eb4b,61,Other,41,Moderate,"Fatigue, Sadness, Insomnia, Irritability",Major Depressive Disorder,No treatment
+995516c3-a0cf-44f1-95a5-6232a5900db9,67,Female,9,Moderate,"Sadness, Fatigue, Insomnia",Major Depressive Disorder,Cognitive Behavioral Therapy
+39122b06-49ce-4af6-8731-a5bda48a357e,33,Other,10,Moderate,"Insomnia, Irritability",Major Depressive Disorder,Combination therapy

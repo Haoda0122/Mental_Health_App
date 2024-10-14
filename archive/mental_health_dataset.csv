@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,PrimarySymptom,Diagnosis,TreatmentPlan,Severity,StartDate,EndDate,Duration(weeks)
+556657,67,Non-binary,Changes in appetite,Bipolar Disorder,Electroconvulsive therapy,Mild,2023-10-29,2024-10-06,49
+147506,59,Female,Excessive worry,Obsessive-Compulsive Disorder,Psychodynamic therapy,Mild,2024-08-01,2024-11-21,16
+440693,26,Female,Excessive worry,Obsessive-Compulsive Disorder,Group therapy,Moderate,2023-03-15,2023-05-17,9
+802324,23,Non-binary,Changes in appetite,Generalized Anxiety Disorder,Family therapy,Moderate,2024-04-17,2024-10-23,27
+124249,72,Male,Mood swings,Eating Disorder,Mindfulness-based therapy,Mild,2023-05-22,2023-11-06,24
+670957,22,Female,Low self-esteem,Substance Use Disorder,Family therapy,Severe,2024-07-27,2025-02-22,30
+124445,26,Non-binary,Excessive worry,Generalized Anxiety Disorder,Exposure therapy,Moderate,2023-09-06,2024-09-04,52
+612265,22,Female,Changes in appetite,Panic Disorder,Electroconvulsive therapy,Mild,2024-08-14,2025-04-02,33
+795051,39,Female,Low self-esteem,Bipolar Disorder,Art therapy,Severe,2023-11-20,2024-09-30,45
+542200,20,Male,Changes in appetite,Social Anxiety Disorder,Psychodynamic therapy,Severe,2022-12-01,2023-06-29,30
+59572,20,Female,Panic attacks,Schizophrenia,Cognitive Behavioral Therapy,Mild,2023-08-17,2023-11-02,11
+450688,41,Non-binary,Fatigue,Generalized Anxiety Disorder,Exposure therapy,Moderate,2023-02-07,2023-04-04,8
+545215,64,Non-binary,Anxiety,Social Anxiety Disorder,Art therapy,Mild,2024-03-07,2024-11-07,35
+473278,79,Female,Social withdrawal,Social Anxiety Disorder,Mindfulness-based therapy,Mild,2023-03-26,2023-04-02,1
+391181,39,Female,Panic attacks,Substance Use Disorder,Art therapy,Moderate,2023-12-19,2024-04-23,18
+36734,45,Female,Changes in appetite,Obsessive-Compulsive Disorder,Exposure therapy,Mild,2024-05-10,2024-09-13,18
+885011,62,Male,Difficulty concentrating,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Severe,2024-05-23,2024-08-29,14
+923133,35,Female,Loss of interest,Eating Disorder,Group therapy,Mild,2022-10-23,2022-12-11,7
+736393,69,Male,Changes in appetite,Major Depressive Disorder,Art therapy,Moderate,2023-02-18,2023-02-25,1
+376130,70,Male,Irritability,Schizophrenia,Family therapy,Moderate,2024-05-10,2024-05-24,2
+105694,53,Non-binary,Depressed mood,Social Anxiety Disorder,Electroconvulsive therapy,Mild,2024-01-20,2024-02-03,2
+245748,42,Non-binary,Fatigue,Substance Use Disorder,Medication management,Mild,2023-04-07,2023-05-26,7
+808531,58,Non-binary,Insomnia,Social Anxiety Disorder,Mindfulness-based therapy,Moderate,2023-03-31,2023-08-04,18
+156848,77,Female,Panic attacks,Major Depressive Disorder,Electroconvulsive therapy,Severe,2023-09-24,2024-01-14,16
+256650,21,Male,Difficulty concentrating,Major Depressive Disorder,Psychodynamic therapy,Mild,2023-10-13,2024-04-26,28
+540856,63,Female,Changes in appetite,Panic Disorder,Mindfulness-based therapy,Moderate,2024-02-01,2024-08-01,26
+868949,23,Male,Changes in appetite,Major Depressive Disorder,Psychodynamic therapy,Moderate,2023-05-02,2023-09-19,20
+165249,51,Female,Irritability,Substance Use Disorder,Family therapy,Moderate,2024-07-17,2025-04-23,40
+823091,63,Female,Loss of interest,Substance Use Disorder,Mindfulness-based therapy,Severe,2024-09-04,2024-10-02,4
+612659,59,Non-binary,Social withdrawal,Schizophrenia,Electroconvulsive therapy,Severe,2024-03-18,2025-01-06,42
+992821,70,Female,Mood swings,Eating Disorder,Exposure therapy,Moderate,2024-04-08,2024-09-02,21
+7591,47,Female,Excessive worry,Major Depressive Disorder,Exposure therapy,Moderate,2023-08-26,2024-02-17,25
+784605,63,Non-binary,Irritability,Substance Use Disorder,Cognitive Behavioral Therapy,Mild,2023-05-02,2024-01-09,36
+977333,24,Male,Low self-esteem,Post-Traumatic Stress Disorder,Group therapy,Mild,2024-10-09,2025-03-12,22
+621325,39,Female,Fatigue,Eating Disorder,Cognitive Behavioral Therapy,Moderate,2024-07-02,2024-12-03,22
+731504,63,Non-binary,Panic attacks,Eating Disorder,Art therapy,Severe,2024-01-23,2025-01-14,51
+789700,77,Female,Insomnia,Major Depressive Disorder,Dialectical Behavior Therapy,Moderate,2023-03-06,2023-03-20,2
+780536,60,Non-binary,Mood swings,Generalized Anxiety Disorder,Medication management,Mild,2023-08-09,2023-12-06,17
+691373,67,Male,Panic attacks,Panic Disorder,Psychodynamic therapy,Moderate,2024-08-04,2024-11-17,15
+3646,35,Male,Fatigue,Major Depressive Disorder,Art therapy,Moderate,2024-09-29,2025-07-27,43
+793819,27,Female,Fatigue,Social Anxiety Disorder,Electroconvulsive therapy,Mild,2022-10-16,2023-05-28,32
+399368,63,Non-binary,Social withdrawal,Substance Use Disorder,Dialectical Behavior Therapy,Moderate,2022-12-13,2023-07-11,30
+500721,21,Male,Changes in appetite,Eating Disorder,Electroconvulsive therapy,Severe,2023-07-18,2024-01-30,28
+983194,58,Female,Mood swings,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Mild,2024-08-21,2025-03-26,31
+38067,77,Non-binary,Excessive worry,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Mild,2022-11-30,2023-09-27,43
+670719,80,Female,Depressed mood,Obsessive-Compulsive Disorder,Group therapy,Severe,2022-10-14,2023-09-22,49
+105215,59,Male,Insomnia,Major Depressive Disorder,Family therapy,Severe,2022-12-11,2023-11-12,48
+52826,62,Male,Mood swings,Eating Disorder,Cognitive Behavioral Therapy,Mild,2024-09-15,2025-02-02,20
+651425,28,Male,Insomnia,Social Anxiety Disorder,Group therapy,Severe,2024-06-08,2025-03-15,40
+395172,35,Female,Fatigue,Eating Disorder,Medication management,Mild,2024-07-28,2025-01-12,24
+322415,40,Male,Mood swings,Panic Disorder,Dialectical Behavior Therapy,Severe,2023-05-05,2024-04-26,51
+971906,65,Male,Difficulty concentrating,Schizophrenia,Cognitive Behavioral Therapy,Severe,2023-07-13,2024-05-23,45
+763523,67,Non-binary,Difficulty concentrating,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Severe,2024-07-24,2025-02-19,30
+930496,38,Non-binary,Irritability,Substance Use Disorder,Psychodynamic therapy,Severe,2024-09-15,2025-03-16,26
+934179,23,Non-binary,Insomnia,Major Depressive Disorder,Art therapy,Mild,2024-06-28,2024-07-19,3
+659874,48,Female,Excessive worry,Social Anxiety Disorder,Family therapy,Moderate,2023-09-29,2024-03-15,24
+827988,61,Male,Anxiety,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Moderate,2023-08-18,2024-07-12,47
+158308,63,Female,Low self-esteem,Obsessive-Compulsive Disorder,Medication management,Mild,2022-12-06,2022-12-20,2
+178586,38,Female,Difficulty concentrating,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Severe,2023-11-17,2024-09-27,45
+86647,57,Female,Anxiety,Obsessive-Compulsive Disorder,Medication management,Mild,2023-10-23,2024-05-06,28
+687084,50,Male,Excessive worry,Panic Disorder,Group therapy,Severe,2023-04-06,2023-05-11,5
+139377,46,Female,Mood swings,Bipolar Disorder,Group therapy,Mild,2023-04-25,2024-02-27,44
+770312,29,Male,Depressed mood,Panic Disorder,Family therapy,Severe,2023-09-05,2023-10-24,7
+174043,52,Male,Panic attacks,Obsessive-Compulsive Disorder,Family therapy,Moderate,2023-03-13,2023-05-08,8
+677076,52,Non-binary,Insomnia,Major Depressive Disorder,Exposure therapy,Moderate,2023-01-23,2023-04-17,12
+251023,23,Female,Fatigue,Bipolar Disorder,Mindfulness-based therapy,Severe,2024-07-29,2024-09-30,9
+966350,62,Male,Excessive worry,Obsessive-Compulsive Disorder,Psychodynamic therapy,Moderate,2023-07-24,2024-06-24,48
+250103,74,Female,Insomnia,Social Anxiety Disorder,Mindfulness-based therapy,Severe,2024-05-19,2024-06-23,5
+238350,62,Male,Depressed mood,Obsessive-Compulsive Disorder,Exposure therapy,Mild,2023-09-22,2023-09-29,1
+731077,77,Female,Insomnia,Panic Disorder,Medication management,Severe,2024-01-10,2024-03-13,9
+480061,28,Non-binary,Low self-esteem,Social Anxiety Disorder,Group therapy,Moderate,2023-07-04,2023-07-18,2
+733451,37,Non-binary,Social withdrawal,Schizophrenia,Mindfulness-based therapy,Moderate,2024-01-13,2024-03-09,8
+260034,65,Female,Irritability,Eating Disorder,Family therapy,Severe,2023-04-21,2024-03-08,46
+116237,35,Female,Low self-esteem,Bipolar Disorder,Electroconvulsive therapy,Mild,2023-06-12,2024-02-05,34
+107739,30,Male,Panic attacks,Generalized Anxiety Disorder,Dialectical Behavior Therapy,Moderate,2023-11-06,2024-03-25,20
+454663,76,Male,Irritability,Post-Traumatic Stress Disorder,Exposure therapy,Severe,2023-07-19,2024-01-03,24
+636759,53,Non-binary,Anxiety,Obsessive-Compulsive Disorder,Group therapy,Moderate,2023-08-17,2024-06-27,45
+719082,74,Male,Irritability,Panic Disorder,Psychodynamic therapy,Mild,2024-06-13,2025-06-12,52
+724317,28,Female,Irritability,Major Depressive Disorder,Electroconvulsive therapy,Moderate,2023-12-21,2024-03-14,12
+759662,49,Non-binary,Fatigue,Bipolar Disorder,Cognitive Behavioral Therapy,Moderate,2024-08-02,2024-08-23,3
+144877,55,Male,Insomnia,Substance Use Disorder,Family therapy,Moderate,2022-10-28,2023-03-10,19
+209272,23,Non-binary,Anxiety,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Severe,2023-02-10,2023-07-28,24
+860887,66,Non-binary,Fatigue,Major Depressive Disorder,Cognitive Behavioral Therapy,Moderate,2022-12-30,2023-03-31,13
+293032,35,Non-binary,Fatigue,Obsessive-Compulsive Disorder,Psychodynamic therapy,Moderate,2024-02-05,2024-06-24,20
+39090,58,Male,Irritability,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Mild,2024-04-13,2024-05-11,4
+582908,50,Male,Panic attacks,Bipolar Disorder,Cognitive Behavioral Therapy,Mild,2023-08-30,2024-04-24,34
+193084,20,Non-binary,Excessive worry,Social Anxiety Disorder,Medication management,Mild,2023-09-09,2024-07-13,44
+262729,63,Male,Loss of interest,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2023-02-05,2024-01-14,49
+997263,27,Non-binary,Fatigue,Bipolar Disorder,Electroconvulsive therapy,Severe,2023-06-23,2024-03-22,39
+377989,76,Male,Excessive worry,Major Depressive Disorder,Psychodynamic therapy,Severe,2023-09-08,2024-03-22,28
+368040,61,Male,Irritability,Social Anxiety Disorder,Exposure therapy,Moderate,2023-04-28,2023-06-09,6
+756888,27,Non-binary,Anxiety,Schizophrenia,Family therapy,Moderate,2024-06-28,2025-01-17,29
+932329,74,Male,Depressed mood,Social Anxiety Disorder,Medication management,Severe,2023-06-22,2024-02-22,35
+608865,34,Male,Mood swings,Substance Use Disorder,Mindfulness-based therapy,Severe,2023-03-10,2023-04-21,6
+610260,28,Male,Social withdrawal,Substance Use Disorder,Mindfulness-based therapy,Severe,2023-06-25,2024-05-12,46
+16984,37,Male,Panic attacks,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Mild,2023-02-11,2024-02-10,52
+858479,77,Male,Loss of interest,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Severe,2024-07-17,2024-10-30,15
+622054,28,Non-binary,Mood swings,Panic Disorder,Cognitive Behavioral Therapy,Severe,2023-06-13,2024-05-07,47
+411033,52,Female,Panic attacks,Eating Disorder,Exposure therapy,Moderate,2024-06-01,2025-03-29,43
+298172,74,Non-binary,Difficulty concentrating,Eating Disorder,Group therapy,Severe,2022-11-01,2023-06-27,34
+217262,61,Female,Low self-esteem,Generalized Anxiety Disorder,Group therapy,Mild,2024-08-30,2024-12-27,17
+263833,73,Male,Insomnia,Social Anxiety Disorder,Dialectical Behavior Therapy,Severe,2024-02-26,2024-07-15,20
+197419,37,Female,Loss of interest,Bipolar Disorder,Dialectical Behavior Therapy,Moderate,2024-09-14,2025-02-15,22
+655081,32,Male,Depressed mood,Schizophrenia,Mindfulness-based therapy,Mild,2024-10-04,2024-11-08,5
+816190,45,Female,Excessive worry,Obsessive-Compulsive Disorder,Psychodynamic therapy,Moderate,2023-08-07,2023-09-04,4
+238606,64,Male,Changes in appetite,Bipolar Disorder,Family therapy,Mild,2024-04-27,2025-02-08,41
+930527,80,Female,Irritability,Major Depressive Disorder,Group therapy,Severe,2024-08-27,2025-06-03,40
+712332,19,Female,Irritability,Social Anxiety Disorder,Family therapy,Severe,2022-10-27,2023-02-23,17
+741311,68,Non-binary,Changes in appetite,Major Depressive Disorder,Exposure therapy,Severe,2023-09-04,2023-09-18,2
+879630,46,Male,Loss of interest,Bipolar Disorder,Dialectical Behavior Therapy,Severe,2022-11-03,2023-09-14,45
+894630,22,Male,Mood swings,Major Depressive Disorder,Art therapy,Severe,2023-07-15,2024-06-22,49
+706549,30,Male,Changes in appetite,Eating Disorder,Mindfulness-based therapy,Severe,2023-06-15,2024-03-07,38
+125390,56,Non-binary,Loss of interest,Social Anxiety Disorder,Exposure therapy,Mild,2024-01-23,2024-11-19,43
+427849,43,Male,Panic attacks,Eating Disorder,Group therapy,Moderate,2023-12-26,2024-04-16,16
+686110,31,Female,Excessive worry,Eating Disorder,Cognitive Behavioral Therapy,Mild,2024-08-24,2025-06-21,43
+231279,37,Male,Loss of interest,Social Anxiety Disorder,Electroconvulsive therapy,Severe,2023-03-30,2023-06-22,12
+164297,54,Non-binary,Anxiety,Eating Disorder,Group therapy,Severe,2024-09-03,2025-03-04,26
+259953,77,Female,Excessive worry,Social Anxiety Disorder,Medication management,Moderate,2024-09-26,2024-11-07,6
+357131,50,Female,Low self-esteem,Bipolar Disorder,Exposure therapy,Severe,2023-03-10,2024-01-05,43
+234398,54,Female,Excessive worry,Generalized Anxiety Disorder,Electroconvulsive therapy,Moderate,2024-01-28,2024-06-09,19
+556471,21,Male,Panic attacks,Social Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2023-04-13,2023-08-17,18
+133535,62,Female,Panic attacks,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Severe,2024-08-22,2025-02-27,27
+257966,66,Male,Changes in appetite,Major Depressive Disorder,Family therapy,Severe,2023-04-16,2024-03-24,49
+161333,50,Female,Fatigue,Schizophrenia,Dialectical Behavior Therapy,Severe,2024-02-24,2024-07-13,20
+478845,18,Non-binary,Irritability,Schizophrenia,Mindfulness-based therapy,Moderate,2023-12-06,2024-01-24,7
+760832,30,Male,Irritability,Generalized Anxiety Disorder,Mindfulness-based therapy,Moderate,2024-01-21,2024-12-08,46
+91307,23,Non-binary,Low self-esteem,Social Anxiety Disorder,Group therapy,Moderate,2023-01-13,2023-10-13,39
+619295,66,Female,Mood swings,Schizophrenia,Group therapy,Severe,2023-05-31,2023-06-14,2
+630833,68,Female,Difficulty concentrating,Generalized Anxiety Disorder,Dialectical Behavior Therapy,Mild,2023-07-16,2024-07-07,51
+253806,24,Male,Fatigue,Generalized Anxiety Disorder,Electroconvulsive therapy,Moderate,2023-07-14,2023-08-04,3
+413766,43,Male,Low self-esteem,Schizophrenia,Medication management,Mild,2024-03-04,2024-10-21,33
+662723,31,Male,Anxiety,Major Depressive Disorder,Cognitive Behavioral Therapy,Severe,2024-09-10,2025-09-02,51
+403487,20,Non-binary,Excessive worry,Panic Disorder,Electroconvulsive therapy,Mild,2023-10-01,2024-04-21,29
+135103,44,Male,Changes in appetite,Substance Use Disorder,Group therapy,Moderate,2023-04-08,2024-04-06,52
+34540,66,Male,Insomnia,Bipolar Disorder,Psychodynamic therapy,Severe,2023-08-13,2024-04-28,37
+513219,70,Male,Loss of interest,Social Anxiety Disorder,Medication management,Moderate,2023-02-08,2023-06-07,17
+63323,32,Female,Low self-esteem,Substance Use Disorder,Mindfulness-based therapy,Moderate,2023-11-30,2024-02-08,10
+684376,59,Male,Changes in appetite,Schizophrenia,Group therapy,Mild,2023-07-06,2023-09-14,10
+573209,50,Male,Difficulty concentrating,Eating Disorder,Family therapy,Severe,2023-03-04,2023-05-13,10
+515005,40,Female,Difficulty concentrating,Obsessive-Compulsive Disorder,Group therapy,Severe,2024-06-09,2024-10-27,20
+153173,24,Male,Irritability,Substance Use Disorder,Family therapy,Mild,2024-01-28,2024-12-08,45
+849700,40,Male,Depressed mood,Panic Disorder,Art therapy,Severe,2024-04-15,2025-03-10,47
+557718,48,Female,Loss of interest,Eating Disorder,Group therapy,Severe,2024-06-01,2024-06-15,2
+69111,29,Non-binary,Panic attacks,Panic Disorder,Cognitive Behavioral Therapy,Severe,2023-03-13,2023-11-27,37
+768610,39,Female,Loss of interest,Bipolar Disorder,Medication management,Moderate,2023-02-02,2023-08-17,28
+366826,40,Female,Loss of interest,Schizophrenia,Cognitive Behavioral Therapy,Moderate,2023-04-26,2023-11-15,29
+620338,43,Male,Panic attacks,Substance Use Disorder,Family therapy,Severe,2023-10-23,2024-02-12,16
+125747,37,Non-binary,Anxiety,Panic Disorder,Cognitive Behavioral Therapy,Mild,2023-05-25,2024-02-29,40
+86746,60,Non-binary,Excessive worry,Obsessive-Compulsive Disorder,Psychodynamic therapy,Severe,2023-11-19,2024-10-20,48
+335340,53,Non-binary,Anxiety,Schizophrenia,Art therapy,Moderate,2023-10-29,2024-02-04,14
+853843,70,Male,Fatigue,Bipolar Disorder,Electroconvulsive therapy,Moderate,2023-03-17,2023-08-18,22
+946778,46,Female,Loss of interest,Panic Disorder,Dialectical Behavior Therapy,Mild,2024-07-13,2025-02-01,29
+287096,76,Non-binary,Social withdrawal,Major Depressive Disorder,Group therapy,Mild,2024-01-10,2024-07-31,29
+938476,22,Non-binary,Excessive worry,Substance Use Disorder,Group therapy,Moderate,2023-10-16,2024-07-01,37
+250905,23,Female,Loss of interest,Obsessive-Compulsive Disorder,Family therapy,Severe,2022-12-09,2023-09-22,41
+80374,77,Female,Fatigue,Social Anxiety Disorder,Exposure therapy,Severe,2023-03-11,2023-10-28,33
+808302,50,Female,Low self-esteem,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Severe,2023-12-06,2024-02-21,11
+879901,22,Male,Anxiety,Generalized Anxiety Disorder,Electroconvulsive therapy,Severe,2024-03-24,2024-04-28,5
+347045,54,Male,Loss of interest,Obsessive-Compulsive Disorder,Art therapy,Mild,2024-08-26,2024-12-02,14
+641885,76,Non-binary,Anxiety,Bipolar Disorder,Psychodynamic therapy,Mild,2024-07-02,2025-05-20,46
+221968,44,Female,Fatigue,Eating Disorder,Art therapy,Moderate,2022-11-29,2023-10-03,44
+211967,39,Non-binary,Changes in appetite,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Mild,2022-10-25,2023-01-17,12
+789299,18,Female,Social withdrawal,Eating Disorder,Medication management,Severe,2023-08-31,2023-11-02,9
+440417,74,Non-binary,Panic attacks,Panic Disorder,Family therapy,Moderate,2024-07-11,2024-10-24,15
+254544,38,Male,Fatigue,Panic Disorder,Electroconvulsive therapy,Mild,2023-04-24,2023-08-28,18
+805019,60,Female,Changes in appetite,Major Depressive Disorder,Family therapy,Mild,2024-06-22,2024-10-26,18
+231703,35,Female,Loss of interest,Social Anxiety Disorder,Dialectical Behavior Therapy,Severe,2024-08-18,2025-05-04,37
+143647,42,Non-binary,Mood swings,Obsessive-Compulsive Disorder,Psychodynamic therapy,Moderate,2024-06-03,2025-05-12,49
+350733,80,Non-binary,Social withdrawal,Substance Use Disorder,Psychodynamic therapy,Severe,2024-10-07,2025-09-29,51
+666371,64,Non-binary,Fatigue,Panic Disorder,Dialectical Behavior Therapy,Severe,2023-07-19,2023-08-30,6
+346257,20,Male,Insomnia,Generalized Anxiety Disorder,Group therapy,Severe,2023-04-23,2023-11-26,31
+106472,40,Male,Irritability,Panic Disorder,Family therapy,Moderate,2022-12-24,2022-12-31,1
+880900,29,Non-binary,Insomnia,Social Anxiety Disorder,Medication management,Moderate,2023-10-06,2024-07-19,41
+783733,47,Female,Mood swings,Panic Disorder,Dialectical Behavior Therapy,Moderate,2024-05-10,2025-01-31,38
+684450,66,Female,Mood swings,Generalized Anxiety Disorder,Medication management,Mild,2023-10-19,2024-09-05,46
+249673,50,Non-binary,Low self-esteem,Bipolar Disorder,Medication management,Moderate,2023-12-29,2024-09-27,39
+998147,75,Female,Difficulty concentrating,Schizophrenia,Cognitive Behavioral Therapy,Severe,2022-12-15,2023-03-16,13
+929226,42,Male,Panic attacks,Schizophrenia,Exposure therapy,Moderate,2023-11-01,2024-04-24,25
+830567,58,Male,Changes in appetite,Post-Traumatic Stress Disorder,Art therapy,Mild,2024-07-09,2025-05-27,46
+930259,44,Non-binary,Fatigue,Post-Traumatic Stress Disorder,Exposure therapy,Severe,2024-10-06,2024-12-29,12
+945121,23,Female,Insomnia,Generalized Anxiety Disorder,Art therapy,Severe,2024-07-23,2025-05-20,43
+400729,38,Male,Insomnia,Obsessive-Compulsive Disorder,Exposure therapy,Moderate,2023-08-29,2023-10-10,6
+630340,72,Male,Panic attacks,Generalized Anxiety Disorder,Exposure therapy,Mild,2023-09-29,2024-06-07,36
+398828,27,Non-binary,Low self-esteem,Social Anxiety Disorder,Medication management,Severe,2023-11-10,2024-06-21,32
+533312,72,Non-binary,Loss of interest,Schizophrenia,Exposure therapy,Mild,2023-09-26,2024-08-27,48
+575826,32,Female,Changes in appetite,Bipolar Disorder,Group therapy,Severe,2023-11-11,2024-01-20,10
+130198,75,Male,Mood swings,Post-Traumatic Stress Disorder,Mindfulness-based therapy,Severe,2024-09-11,2024-10-23,6
+129369,27,Female,Low self-esteem,Eating Disorder,Cognitive Behavioral Therapy,Severe,2024-03-03,2024-10-13,32
+752523,23,Non-binary,Excessive worry,Post-Traumatic Stress Disorder,Group therapy,Severe,2023-07-26,2024-02-28,31
+675175,29,Non-binary,Depressed mood,Substance Use Disorder,Psychodynamic therapy,Mild,2023-02-24,2023-04-07,6
+524486,56,Male,Excessive worry,Substance Use Disorder,Electroconvulsive therapy,Severe,2023-07-10,2024-06-10,48
+213412,19,Male,Irritability,Generalized Anxiety Disorder,Psychodynamic therapy,Mild,2023-12-10,2024-05-19,23
+114641,49,Male,Depressed mood,Eating Disorder,Group therapy,Mild,2023-04-06,2023-07-27,16
+146533,31,Male,Fatigue,Eating Disorder,Medication management,Moderate,2023-07-07,2023-10-27,16
+334737,19,Non-binary,Difficulty concentrating,Major Depressive Disorder,Family therapy,Severe,2023-09-12,2024-01-16,18
+354743,24,Non-binary,Loss of interest,Social Anxiety Disorder,Art therapy,Severe,2024-07-31,2025-01-15,24
+342112,55,Male,Changes in appetite,Substance Use Disorder,Art therapy,Mild,2023-07-15,2024-05-11,43
+742866,25,Female,Low self-esteem,Post-Traumatic Stress Disorder,Group therapy,Severe,2022-11-04,2022-11-25,3
+672383,77,Non-binary,Anxiety,Eating Disorder,Family therapy,Severe,2024-03-26,2024-07-09,15
+537305,44,Non-binary,Irritability,Schizophrenia,Family therapy,Moderate,2023-04-15,2023-04-22,1
+883247,23,Male,Difficulty concentrating,Major Depressive Disorder,Art therapy,Severe,2023-03-23,2023-09-07,24
+975419,63,Male,Fatigue,Panic Disorder,Exposure therapy,Mild,2023-01-09,2023-05-01,16
+693807,35,Male,Fatigue,Major Depressive Disorder,Medication management,Moderate,2023-03-08,2023-11-29,38
+511485,43,Male,Low self-esteem,Eating Disorder,Mindfulness-based therapy,Mild,2024-08-24,2025-03-22,30
+230961,75,Male,Fatigue,Schizophrenia,Mindfulness-based therapy,Moderate,2024-05-03,2024-08-30,17
+54538,28,Non-binary,Excessive worry,Bipolar Disorder,Medication management,Severe,2024-07-16,2024-09-03,7
+597847,46,Female,Excessive worry,Obsessive-Compulsive Disorder,Electroconvulsive therapy,Mild,2023-10-10,2024-08-13,44
+239003,77,Non-binary,Loss of interest,Bipolar Disorder,Exposure therapy,Mild,2023-02-23,2023-12-28,44
+831421,19,Female,Irritability,Post-Traumatic Stress Disorder,Medication management,Severe,2023-01-16,2023-01-23,1
+26719,66,Male,Depressed mood,Eating Disorder,Psychodynamic therapy,Mild,2024-09-21,2025-09-13,51
+611347,49,Male,Depressed mood,Obsessive-Compulsive Disorder,Group therapy,Mild,2023-05-26,2024-03-22,43
+266677,27,Female,Changes in appetite,Major Depressive Disorder,Dialectical Behavior Therapy,Mild,2024-06-11,2024-07-30,7
+576124,63,Female,Depressed mood,Bipolar Disorder,Psychodynamic therapy,Mild,2024-07-11,2024-12-26,24
+329025,68,Non-binary,Difficulty concentrating,Schizophrenia,Psychodynamic therapy,Severe,2023-07-16,2024-04-07,38
+452306,67,Non-binary,Low self-esteem,Substance Use Disorder,Psychodynamic therapy,Severe,2024-03-28,2025-03-13,50
+128431,60,Non-binary,Depressed mood,Major Depressive Disorder,Psychodynamic therapy,Moderate,2023-05-12,2024-01-26,37
+6154,30,Non-binary,Fatigue,Post-Traumatic Stress Disorder,Group therapy,Severe,2024-05-09,2024-05-30,3
+907374,36,Non-binary,Mood swings,Obsessive-Compulsive Disorder,Group therapy,Moderate,2023-10-10,2024-09-10,48
+488335,59,Female,Panic attacks,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Severe,2024-09-16,2025-07-14,43
+879670,30,Female,Irritability,Bipolar Disorder,Exposure therapy,Severe,2023-04-18,2023-12-26,36
+533712,70,Male,Panic attacks,Bipolar Disorder,Art therapy,Severe,2023-10-07,2024-03-09,22
+993818,21,Non-binary,Excessive worry,Major Depressive Disorder,Psychodynamic therapy,Mild,2023-01-29,2023-12-24,47
+15485,35,Non-binary,Difficulty concentrating,Panic Disorder,Group therapy,Moderate,2024-02-17,2024-09-28,32
+137932,37,Male,Difficulty concentrating,Eating Disorder,Family therapy,Severe,2024-06-25,2025-05-27,48
+4568,59,Male,Social withdrawal,Generalized Anxiety Disorder,Mindfulness-based therapy,Moderate,2024-04-30,2024-08-06,14
+832852,41,Female,Panic attacks,Social Anxiety Disorder,Exposure therapy,Moderate,2024-02-09,2025-01-03,47
+419723,56,Male,Changes in appetite,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Mild,2023-09-15,2024-02-02,20
+245923,62,Non-binary,Low self-esteem,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Moderate,2023-02-07,2023-08-15,27
+307785,33,Male,Loss of interest,Substance Use Disorder,Art therapy,Severe,2023-12-16,2024-04-13,17
+637916,70,Male,Difficulty concentrating,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Severe,2022-12-03,2023-01-28,8
+51404,30,Male,Irritability,Social Anxiety Disorder,Exposure therapy,Severe,2023-07-04,2023-12-05,22
+493645,22,Non-binary,Loss of interest,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Mild,2023-01-27,2023-10-20,38
+712679,26,Male,Insomnia,Major Depressive Disorder,Mindfulness-based therapy,Moderate,2022-10-13,2023-05-18,31
+713574,67,Male,Depressed mood,Panic Disorder,Art therapy,Moderate,2023-01-21,2024-01-06,50
+137649,35,Female,Excessive worry,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Moderate,2024-05-11,2024-07-27,11
+352720,27,Male,Panic attacks,Post-Traumatic Stress Disorder,Medication management,Moderate,2023-02-04,2023-10-07,35
+433677,74,Non-binary,Difficulty concentrating,Bipolar Disorder,Cognitive Behavioral Therapy,Mild,2024-07-10,2024-10-09,13
+66255,31,Male,Mood swings,Eating Disorder,Art therapy,Severe,2023-11-07,2024-06-11,31
+738237,25,Non-binary,Irritability,Major Depressive Disorder,Psychodynamic therapy,Severe,2024-09-27,2024-11-15,7
+682132,65,Female,Anxiety,Major Depressive Disorder,Dialectical Behavior Therapy,Severe,2022-11-12,2023-10-14,48
+992644,30,Male,Irritability,Substance Use Disorder,Cognitive Behavioral Therapy,Moderate,2023-09-03,2024-05-12,36
+567247,40,Male,Irritability,Bipolar Disorder,Psychodynamic therapy,Mild,2023-03-15,2024-01-03,42
+148218,52,Male,Insomnia,Post-Traumatic Stress Disorder,Group therapy,Mild,2024-06-19,2024-11-20,22
+142788,48,Female,Changes in appetite,Social Anxiety Disorder,Exposure therapy,Moderate,2023-02-28,2024-01-02,44
+203447,56,Female,Low self-esteem,Major Depressive Disorder,Group therapy,Severe,2023-10-18,2024-06-19,35
+553448,68,Female,Excessive worry,Eating Disorder,Family therapy,Moderate,2023-04-02,2024-02-04,44
+404148,55,Male,Panic attacks,Obsessive-Compulsive Disorder,Dialectical Behavior Therapy,Moderate,2024-03-11,2025-01-06,43
+781037,42,Female,Social withdrawal,Major Depressive Disorder,Exposure therapy,Mild,2023-09-03,2024-02-18,24
+305425,20,Male,Anxiety,Obsessive-Compulsive Disorder,Mindfulness-based therapy,Severe,2023-09-16,2023-12-30,15
+213588,80,Non-binary,Fatigue,Substance Use Disorder,Exposure therapy,Moderate,2024-05-14,2025-02-04,38
+732581,23,Non-binary,Depressed mood,Generalized Anxiety Disorder,Art therapy,Severe,2023-07-04,2024-02-06,31
+126561,79,Female,Social withdrawal,Generalized Anxiety Disorder,Group therapy,Severe,2023-01-08,2023-04-02,12
+831331,28,Female,Changes in appetite,Bipolar Disorder,Electroconvulsive therapy,Severe,2023-10-22,2024-01-21,13
+234609,47,Male,Social withdrawal,Generalized Anxiety Disorder,Mindfulness-based therapy,Severe,2023-03-12,2023-04-02,3
+236628,38,Male,Fatigue,Schizophrenia,Dialectical Behavior Therapy,Mild,2024-05-12,2025-01-12,35
+299221,44,Male,Irritability,Obsessive-Compulsive Disorder,Electroconvulsive therapy,Severe,2024-07-06,2024-09-21,11
+326924,68,Non-binary,Excessive worry,Substance Use Disorder,Mindfulness-based therapy,Severe,2023-07-16,2023-08-13,4
+754651,27,Non-binary,Insomnia,Schizophrenia,Medication management,Severe,2023-12-18,2024-08-12,34
+679515,76,Male,Mood swings,Substance Use Disorder,Art therapy,Moderate,2023-03-18,2023-09-09,25
+220848,36,Male,Anxiety,Panic Disorder,Family therapy,Severe,2024-03-28,2025-03-20,51
+74329,28,Female,Depressed mood,Generalized Anxiety Disorder,Art therapy,Severe,2023-04-11,2023-04-18,1
+156597,19,Non-binary,Panic attacks,Social Anxiety Disorder,Dialectical Behavior Therapy,Moderate,2023-01-03,2023-08-01,30
+967548,39,Male,Low self-esteem,Major Depressive Disorder,Art therapy,Severe,2024-07-22,2024-11-18,17
+815378,34,Female,Fatigue,Generalized Anxiety Disorder,Art therapy,Moderate,2023-04-09,2023-05-07,4
+754197,23,Non-binary,Fatigue,Major Depressive Disorder,Dialectical Behavior Therapy,Severe,2023-01-11,2023-02-15,5
+435988,55,Female,Fatigue,Substance Use Disorder,Mindfulness-based therapy,Mild,2024-06-21,2024-12-27,27
+703549,55,Male,Excessive worry,Panic Disorder,Medication management,Moderate,2023-07-30,2024-02-11,28
+133299,65,Male,Excessive worry,Schizophrenia,Art therapy,Moderate,2022-11-02,2023-07-12,36
+241226,23,Male,Fatigue,Panic Disorder,Mindfulness-based therapy,Severe,2024-02-11,2024-10-06,34
+708911,70,Non-binary,Social withdrawal,Major Depressive Disorder,Psychodynamic therapy,Moderate,2024-06-05,2024-11-27,25
+195118,39,Non-binary,Loss of interest,Panic Disorder,Group therapy,Mild,2024-05-21,2024-06-25,5
+319193,46,Female,Loss of interest,Generalized Anxiety Disorder,Exposure therapy,Severe,2023-02-23,2023-08-10,24
+848799,27,Non-binary,Difficulty concentrating,Major Depressive Disorder,Family therapy,Mild,2024-02-07,2024-12-04,43
+461009,34,Female,Anxiety,Panic Disorder,Mindfulness-based therapy,Moderate,2024-04-26,2025-03-28,48
+518566,26,Female,Insomnia,Bipolar Disorder,Exposure therapy,Moderate,2022-12-09,2023-04-07,17
+400628,40,Female,Loss of interest,Post-Traumatic Stress Disorder,Group therapy,Moderate,2024-03-15,2024-09-27,28
+755299,23,Female,Insomnia,Eating Disorder,Dialectical Behavior Therapy,Moderate,2022-11-17,2023-02-23,14
+526396,29,Female,Difficulty concentrating,Generalized Anxiety Disorder,Medication management,Severe,2023-04-15,2023-05-20,5
+9908,60,Male,Panic attacks,Obsessive-Compulsive Disorder,Electroconvulsive therapy,Severe,2024-05-16,2024-10-24,23
+586545,35,Male,Insomnia,Substance Use Disorder,Group therapy,Moderate,2023-10-20,2023-12-22,9
+892441,57,Male,Excessive worry,Major Depressive Disorder,Family therapy,Severe,2024-06-04,2024-07-16,6
+187060,72,Non-binary,Mood swings,Bipolar Disorder,Group therapy,Severe,2023-03-26,2024-03-10,50
+23926,33,Female,Excessive worry,Major Depressive Disorder,Cognitive Behavioral Therapy,Severe,2022-11-01,2023-04-11,23
+43227,19,Non-binary,Social withdrawal,Generalized Anxiety Disorder,Psychodynamic therapy,Severe,2024-09-19,2025-08-14,47
+462498,54,Male,Difficulty concentrating,Major Depressive Disorder,Art therapy,Severe,2024-09-23,2025-04-07,28
+382727,25,Male,Fatigue,Major Depressive Disorder,Mindfulness-based therapy,Severe,2023-06-24,2023-09-16,12
+286150,28,Non-binary,Excessive worry,Panic Disorder,Electroconvulsive therapy,Mild,2023-12-21,2024-01-11,3
+505273,61,Male,Loss of interest,Bipolar Disorder,Mindfulness-based therapy,Mild,2024-02-13,2024-12-17,44
+838819,31,Female,Insomnia,Social Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2024-02-18,2024-03-10,3
+84921,74,Female,Irritability,Generalized Anxiety Disorder,Medication management,Mild,2022-10-16,2023-09-24,49
+288136,55,Male,Difficulty concentrating,Bipolar Disorder,Psychodynamic therapy,Severe,2024-03-14,2024-08-15,22
+533703,43,Female,Panic attacks,Bipolar Disorder,Psychodynamic therapy,Severe,2023-09-19,2023-10-10,3
+423242,77,Male,Excessive worry,Bipolar Disorder,Medication management,Moderate,2024-01-15,2024-09-02,33
+241249,64,Male,Excessive worry,Social Anxiety Disorder,Family therapy,Mild,2023-09-12,2024-04-16,31
+754990,20,Non-binary,Mood swings,Bipolar Disorder,Psychodynamic therapy,Severe,2024-08-10,2024-09-07,4
+462538,28,Female,Irritability,Generalized Anxiety Disorder,Psychodynamic therapy,Severe,2023-03-21,2023-10-03,28
+265946,25,Female,Panic attacks,Substance Use Disorder,Dialectical Behavior Therapy,Moderate,2023-07-26,2024-05-08,41
+476392,21,Male,Mood swings,Panic Disorder,Dialectical Behavior Therapy,Mild,2023-08-16,2023-10-25,10
+318750,37,Female,Changes in appetite,Generalized Anxiety Disorder,Psychodynamic therapy,Mild,2023-10-31,2024-09-10,45
+678430,34,Female,Difficulty concentrating,Social Anxiety Disorder,Art therapy,Moderate,2023-12-01,2024-08-09,36
+348969,78,Non-binary,Fatigue,Substance Use Disorder,Electroconvulsive therapy,Mild,2024-09-11,2025-07-09,43
+193326,68,Non-binary,Panic attacks,Bipolar Disorder,Medication management,Moderate,2023-03-05,2024-01-28,47
+145411,30,Female,Irritability,Bipolar Disorder,Art therapy,Severe,2023-01-19,2023-05-11,16
+741610,45,Female,Excessive worry,Panic Disorder,Psychodynamic therapy,Mild,2024-05-19,2024-05-26,1
+913209,52,Female,Fatigue,Eating Disorder,Cognitive Behavioral Therapy,Mild,2023-01-14,2023-12-16,48
+81071,75,Male,Social withdrawal,Post-Traumatic Stress Disorder,Mindfulness-based therapy,Mild,2023-06-06,2024-01-02,30
+678261,19,Non-binary,Fatigue,Substance Use Disorder,Mindfulness-based therapy,Mild,2023-05-12,2024-01-26,37
+377824,58,Male,Excessive worry,Social Anxiety Disorder,Art therapy,Moderate,2022-11-14,2023-03-13,17
+894876,72,Non-binary,Panic attacks,Generalized Anxiety Disorder,Dialectical Behavior Therapy,Severe,2024-03-17,2024-05-19,9
+166281,62,Male,Loss of interest,Post-Traumatic Stress Disorder,Exposure therapy,Moderate,2023-06-25,2024-04-14,42
+954369,48,Male,Low self-esteem,Generalized Anxiety Disorder,Dialectical Behavior Therapy,Moderate,2022-12-06,2023-08-08,35
+33413,70,Non-binary,Changes in appetite,Schizophrenia,Group therapy,Mild,2022-10-20,2023-09-14,47
+762794,23,Male,Low self-esteem,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Severe,2023-07-19,2023-10-25,14
+50629,55,Male,Social withdrawal,Obsessive-Compulsive Disorder,Family therapy,Severe,2022-10-11,2023-05-02,29
+358950,36,Female,Anxiety,Panic Disorder,Dialectical Behavior Therapy,Mild,2023-08-18,2024-02-16,26
+812567,79,Non-binary,Fatigue,Generalized Anxiety Disorder,Electroconvulsive therapy,Severe,2023-02-09,2023-09-21,32
+526219,53,Non-binary,Loss of interest,Bipolar Disorder,Art therapy,Mild,2023-01-19,2023-09-07,33
+251080,53,Female,Mood swings,Obsessive-Compulsive Disorder,Group therapy,Severe,2024-06-28,2024-10-18,16
+910283,60,Male,Loss of interest,Obsessive-Compulsive Disorder,Group therapy,Severe,2024-04-02,2024-11-05,31
+213994,72,Male,Low self-esteem,Post-Traumatic Stress Disorder,Medication management,Severe,2023-07-04,2023-11-07,18
+113934,45,Male,Irritability,Major Depressive Disorder,Exposure therapy,Moderate,2023-04-23,2023-05-07,2
+992900,75,Female,Mood swings,Major Depressive Disorder,Family therapy,Moderate,2023-04-12,2023-07-26,15
+256942,74,Non-binary,Anxiety,Social Anxiety Disorder,Family therapy,Mild,2023-04-28,2023-06-23,8
+521103,20,Female,Difficulty concentrating,Panic Disorder,Cognitive Behavioral Therapy,Mild,2022-12-31,2023-07-29,30
+147264,78,Non-binary,Panic attacks,Post-Traumatic Stress Disorder,Art therapy,Severe,2024-05-03,2024-08-30,17
+546052,42,Female,Depressed mood,Substance Use Disorder,Cognitive Behavioral Therapy,Moderate,2023-06-24,2023-07-15,3
+228780,61,Female,Panic attacks,Panic Disorder,Psychodynamic therapy,Mild,2024-01-28,2024-03-17,7
+518720,48,Non-binary,Fatigue,Eating Disorder,Group therapy,Moderate,2023-08-23,2023-10-04,6
+581213,44,Female,Irritability,Bipolar Disorder,Psychodynamic therapy,Mild,2024-01-04,2024-10-31,43
+236522,76,Non-binary,Panic attacks,Panic Disorder,Exposure therapy,Mild,2024-06-15,2025-05-17,48
+889008,29,Male,Insomnia,Panic Disorder,Exposure therapy,Severe,2023-10-27,2024-03-15,20
+305994,46,Male,Social withdrawal,Post-Traumatic Stress Disorder,Exposure therapy,Severe,2023-10-18,2024-03-27,23
+519320,19,Non-binary,Social withdrawal,Generalized Anxiety Disorder,Psychodynamic therapy,Mild,2024-02-10,2024-10-26,37
+252219,55,Non-binary,Mood swings,Generalized Anxiety Disorder,Art therapy,Mild,2024-05-14,2025-04-01,46
+152188,63,Non-binary,Low self-esteem,Bipolar Disorder,Cognitive Behavioral Therapy,Moderate,2023-10-29,2024-10-13,50
+26171,66,Non-binary,Loss of interest,Substance Use Disorder,Group therapy,Moderate,2022-12-23,2023-11-17,47
+328990,76,Female,Irritability,Obsessive-Compulsive Disorder,Psychodynamic therapy,Severe,2023-09-24,2024-01-14,16
+792549,34,Male,Excessive worry,Substance Use Disorder,Exposure therapy,Mild,2024-07-29,2024-11-04,14
+138009,66,Non-binary,Low self-esteem,Major Depressive Disorder,Family therapy,Moderate,2023-03-16,2023-04-13,4
+400588,53,Male,Loss of interest,Post-Traumatic Stress Disorder,Exposure therapy,Mild,2023-02-03,2023-11-24,42
+502742,29,Female,Panic attacks,Obsessive-Compulsive Disorder,Mindfulness-based therapy,Severe,2023-05-05,2023-12-15,32
+148902,70,Male,Depressed mood,Bipolar Disorder,Dialectical Behavior Therapy,Severe,2023-11-27,2024-06-24,30
+491082,31,Non-binary,Anxiety,Panic Disorder,Group therapy,Mild,2023-01-24,2023-05-09,15
+42718,25,Male,Fatigue,Panic Disorder,Mindfulness-based therapy,Mild,2023-07-16,2023-10-22,14
+262246,44,Non-binary,Changes in appetite,Panic Disorder,Exposure therapy,Severe,2023-03-08,2023-03-29,3
+116516,68,Female,Insomnia,Post-Traumatic Stress Disorder,Medication management,Severe,2024-07-30,2025-04-08,36
+597340,43,Non-binary,Excessive worry,Bipolar Disorder,Art therapy,Moderate,2024-07-01,2025-02-03,31
+678682,67,Non-binary,Depressed mood,Social Anxiety Disorder,Art therapy,Mild,2024-01-01,2024-01-08,1
+465376,57,Non-binary,Anxiety,Schizophrenia,Art therapy,Mild,2023-08-30,2024-08-07,49
+334877,18,Male,Anxiety,Eating Disorder,Electroconvulsive therapy,Severe,2024-07-21,2025-03-02,32
+839192,74,Female,Panic attacks,Panic Disorder,Family therapy,Moderate,2023-11-15,2024-06-19,31
+859353,40,Female,Panic attacks,Panic Disorder,Art therapy,Moderate,2023-11-21,2024-07-30,36
+31631,43,Non-binary,Irritability,Social Anxiety Disorder,Group therapy,Mild,2023-10-23,2024-05-06,28
+572662,50,Female,Irritability,Major Depressive Disorder,Cognitive Behavioral Therapy,Severe,2023-03-14,2023-04-18,5
+884891,62,Female,Irritability,Major Depressive Disorder,Family therapy,Moderate,2022-12-18,2023-09-17,39
+65317,40,Non-binary,Mood swings,Panic Disorder,Cognitive Behavioral Therapy,Mild,2023-06-01,2023-10-12,19
+770941,65,Non-binary,Loss of interest,Eating Disorder,Family therapy,Mild,2024-05-09,2025-01-09,35
+977769,48,Male,Mood swings,Social Anxiety Disorder,Art therapy,Moderate,2022-10-18,2023-03-14,21
+21653,77,Non-binary,Fatigue,Bipolar Disorder,Medication management,Severe,2024-06-21,2024-11-29,23
+608069,71,Female,Changes in appetite,Generalized Anxiety Disorder,Group therapy,Mild,2023-12-31,2024-10-13,41
+681294,47,Male,Depressed mood,Bipolar Disorder,Art therapy,Mild,2024-09-16,2025-01-06,16
+683627,76,Non-binary,Irritability,Major Depressive Disorder,Group therapy,Mild,2023-02-16,2024-02-08,51
+152069,63,Non-binary,Fatigue,Panic Disorder,Exposure therapy,Severe,2023-09-17,2024-05-19,35
+198464,50,Male,Irritability,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Severe,2023-04-10,2023-12-04,34
+900788,33,Non-binary,Depressed mood,Substance Use Disorder,Family therapy,Severe,2024-02-09,2024-12-13,44
+237095,61,Male,Low self-esteem,Social Anxiety Disorder,Family therapy,Severe,2024-07-30,2025-03-25,34
+494384,29,Female,Excessive worry,Obsessive-Compulsive Disorder,Dialectical Behavior Therapy,Severe,2024-09-03,2024-09-24,3
+529932,42,Female,Difficulty concentrating,Panic Disorder,Group therapy,Moderate,2024-09-11,2025-07-23,45
+612416,63,Male,Social withdrawal,Obsessive-Compulsive Disorder,Medication management,Mild,2024-06-16,2024-10-20,18
+687793,64,Female,Low self-esteem,Social Anxiety Disorder,Mindfulness-based therapy,Severe,2023-08-06,2023-12-03,17
+701907,21,Male,Panic attacks,Schizophrenia,Family therapy,Severe,2023-10-09,2024-08-12,44
+534897,69,Male,Irritability,Schizophrenia,Electroconvulsive therapy,Moderate,2024-09-17,2025-05-06,33
+486385,32,Male,Low self-esteem,Panic Disorder,Group therapy,Moderate,2024-08-21,2025-06-25,44
+822360,70,Non-binary,Difficulty concentrating,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Mild,2023-04-12,2024-02-21,45
+93990,59,Non-binary,Social withdrawal,Major Depressive Disorder,Electroconvulsive therapy,Mild,2023-05-14,2023-10-15,22
+167837,43,Male,Panic attacks,Social Anxiety Disorder,Dialectical Behavior Therapy,Moderate,2023-07-17,2024-06-03,46
+785381,65,Non-binary,Fatigue,Schizophrenia,Art therapy,Mild,2023-10-16,2024-03-18,22
+623088,19,Male,Panic attacks,Generalized Anxiety Disorder,Psychodynamic therapy,Mild,2023-10-13,2024-08-23,45
+332017,47,Male,Excessive worry,Eating Disorder,Electroconvulsive therapy,Severe,2023-07-12,2024-06-12,48
+720932,28,Male,Low self-esteem,Substance Use Disorder,Cognitive Behavioral Therapy,Mild,2022-12-14,2023-08-09,34
+277239,58,Female,Changes in appetite,Social Anxiety Disorder,Exposure therapy,Severe,2022-12-16,2023-04-14,17
+975354,30,Male,Loss of interest,Post-Traumatic Stress Disorder,Group therapy,Severe,2023-06-23,2024-05-24,48
+549981,52,Non-binary,Excessive worry,Schizophrenia,Group therapy,Severe,2023-04-15,2024-02-10,43
+420047,72,Non-binary,Mood swings,Schizophrenia,Electroconvulsive therapy,Mild,2024-04-14,2024-11-03,29
+643082,30,Male,Irritability,Major Depressive Disorder,Mindfulness-based therapy,Mild,2024-02-18,2024-09-22,31
+358596,65,Female,Mood swings,Social Anxiety Disorder,Family therapy,Mild,2023-11-03,2024-09-20,46
+313107,47,Female,Difficulty concentrating,Social Anxiety Disorder,Electroconvulsive therapy,Moderate,2023-06-11,2024-04-21,45
+670552,47,Female,Excessive worry,Panic Disorder,Dialectical Behavior Therapy,Mild,2023-11-09,2024-06-13,31
+890537,33,Male,Low self-esteem,Social Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2024-05-08,2024-08-28,16
+589022,48,Non-binary,Mood swings,Substance Use Disorder,Medication management,Severe,2024-02-09,2024-04-26,11
+94933,21,Non-binary,Fatigue,Eating Disorder,Medication management,Moderate,2024-02-19,2025-01-13,47
+436317,65,Female,Changes in appetite,Substance Use Disorder,Group therapy,Mild,2022-11-01,2023-03-21,20
+111155,30,Non-binary,Social withdrawal,Eating Disorder,Exposure therapy,Moderate,2023-12-17,2024-07-28,32
+778564,41,Female,Excessive worry,Panic Disorder,Electroconvulsive therapy,Severe,2024-03-22,2024-09-06,24
+115596,39,Male,Mood swings,Major Depressive Disorder,Medication management,Moderate,2024-07-04,2025-06-19,50
+597674,64,Female,Depressed mood,Obsessive-Compulsive Disorder,Dialectical Behavior Therapy,Mild,2024-01-10,2024-12-18,49
+824132,50,Male,Social withdrawal,Major Depressive Disorder,Family therapy,Severe,2023-08-12,2023-09-16,5
+207592,43,Male,Irritability,Social Anxiety Disorder,Family therapy,Mild,2023-03-14,2023-05-16,9
+46992,29,Male,Anxiety,Major Depressive Disorder,Mindfulness-based therapy,Moderate,2024-10-03,2025-01-02,13
+634226,26,Male,Excessive worry,Obsessive-Compulsive Disorder,Medication management,Mild,2023-05-22,2023-09-04,15
+331866,78,Male,Excessive worry,Eating Disorder,Electroconvulsive therapy,Mild,2023-10-02,2024-08-05,44
+163984,77,Non-binary,Loss of interest,Schizophrenia,Group therapy,Severe,2023-08-27,2024-06-30,44
+322856,41,Male,Loss of interest,Substance Use Disorder,Dialectical Behavior Therapy,Mild,2024-07-31,2024-12-04,18
+520636,62,Non-binary,Loss of interest,Bipolar Disorder,Group therapy,Moderate,2023-07-12,2023-11-08,17
+886845,28,Female,Depressed mood,Substance Use Disorder,Psychodynamic therapy,Mild,2023-02-04,2023-11-04,39
+430502,77,Non-binary,Anxiety,Obsessive-Compulsive Disorder,Art therapy,Severe,2024-07-12,2024-09-20,10
+702550,22,Male,Depressed mood,Panic Disorder,Electroconvulsive therapy,Severe,2023-08-12,2023-12-30,20
+569257,56,Male,Difficulty concentrating,Social Anxiety Disorder,Exposure therapy,Severe,2023-03-26,2023-08-13,20
+21411,47,Female,Anxiety,Panic Disorder,Mindfulness-based therapy,Severe,2024-05-16,2025-02-13,39
+228232,56,Female,Difficulty concentrating,Post-Traumatic Stress Disorder,Group therapy,Moderate,2022-12-26,2023-04-10,15
+686839,78,Female,Excessive worry,Schizophrenia,Group therapy,Mild,2023-02-05,2023-12-31,47
+64069,56,Female,Mood swings,Social Anxiety Disorder,Exposure therapy,Severe,2024-05-13,2024-07-15,9
+36506,53,Female,Low self-esteem,Panic Disorder,Group therapy,Severe,2024-01-03,2024-06-26,25
+747584,48,Male,Difficulty concentrating,Schizophrenia,Mindfulness-based therapy,Severe,2022-11-08,2023-04-18,23
+391187,19,Non-binary,Panic attacks,Major Depressive Disorder,Psychodynamic therapy,Moderate,2023-09-22,2024-08-23,48
+617506,26,Female,Excessive worry,Obsessive-Compulsive Disorder,Medication management,Mild,2023-11-26,2024-10-27,48
+182172,35,Non-binary,Difficulty concentrating,Bipolar Disorder,Exposure therapy,Moderate,2024-02-10,2024-04-06,8
+372860,38,Non-binary,Irritability,Bipolar Disorder,Cognitive Behavioral Therapy,Severe,2023-04-03,2023-07-03,13
+993407,61,Male,Panic attacks,Generalized Anxiety Disorder,Dialectical Behavior Therapy,Moderate,2023-02-05,2023-07-16,23
+887148,27,Male,Difficulty concentrating,Panic Disorder,Group therapy,Moderate,2023-01-03,2023-06-13,23
+446710,48,Male,Depressed mood,Generalized Anxiety Disorder,Medication management,Severe,2023-09-22,2023-11-24,9
+548570,23,Female,Panic attacks,Substance Use Disorder,Psychodynamic therapy,Severe,2024-08-15,2025-03-13,30
+468380,71,Non-binary,Insomnia,Obsessive-Compulsive Disorder,Dialectical Behavior Therapy,Severe,2024-06-08,2024-11-02,21
+168803,50,Non-binary,Depressed mood,Social Anxiety Disorder,Art therapy,Moderate,2023-04-24,2023-07-10,11
+576019,23,Non-binary,Difficulty concentrating,Eating Disorder,Dialectical Behavior Therapy,Mild,2023-05-08,2023-06-05,4
+339567,28,Non-binary,Difficulty concentrating,Post-Traumatic Stress Disorder,Group therapy,Mild,2023-06-30,2024-03-01,35
+584429,50,Male,Depressed mood,Post-Traumatic Stress Disorder,Psychodynamic therapy,Severe,2023-09-03,2024-06-23,42
+269110,22,Male,Irritability,Schizophrenia,Medication management,Severe,2022-12-27,2023-02-28,9
+822490,53,Male,Panic attacks,Eating Disorder,Art therapy,Mild,2023-01-28,2023-03-18,7
+622439,32,Non-binary,Difficulty concentrating,Substance Use Disorder,Dialectical Behavior Therapy,Moderate,2023-01-17,2023-07-25,27
+195199,59,Non-binary,Low self-esteem,Obsessive-Compulsive Disorder,Electroconvulsive therapy,Mild,2024-07-23,2025-05-27,44
+448254,21,Male,Low self-esteem,Social Anxiety Disorder,Group therapy,Moderate,2024-03-11,2024-05-06,8
+642261,27,Non-binary,Anxiety,Eating Disorder,Exposure therapy,Mild,2024-01-02,2024-10-08,40
+651840,33,Male,Difficulty concentrating,Bipolar Disorder,Family therapy,Severe,2023-05-15,2024-01-08,34
+963248,34,Male,Social withdrawal,Major Depressive Disorder,Psychodynamic therapy,Moderate,2024-08-30,2024-12-06,14
+34777,38,Non-binary,Insomnia,Major Depressive Disorder,Family therapy,Mild,2022-12-03,2023-06-24,29
+112839,25,Female,Anxiety,Panic Disorder,Group therapy,Moderate,2024-04-22,2024-12-02,32
+99509,40,Male,Panic attacks,Major Depressive Disorder,Mindfulness-based therapy,Moderate,2024-07-25,2024-10-03,10
+282646,76,Non-binary,Changes in appetite,Panic Disorder,Medication management,Mild,2023-08-03,2024-01-18,24
+266749,65,Male,Irritability,Schizophrenia,Medication management,Severe,2023-11-26,2024-01-07,6
+474799,34,Male,Insomnia,Obsessive-Compulsive Disorder,Art therapy,Mild,2023-03-24,2023-05-26,9
+569925,64,Non-binary,Panic attacks,Generalized Anxiety Disorder,Group therapy,Moderate,2024-02-11,2024-07-21,23
+482958,75,Non-binary,Fatigue,Obsessive-Compulsive Disorder,Family therapy,Mild,2024-04-03,2024-07-03,13
+359372,42,Female,Panic attacks,Social Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2023-05-19,2024-01-12,34
+427833,39,Non-binary,Low self-esteem,Panic Disorder,Cognitive Behavioral Therapy,Severe,2022-12-13,2023-08-08,34
+377182,59,Female,Social withdrawal,Eating Disorder,Exposure therapy,Moderate,2023-09-06,2024-06-05,39
+887714,73,Male,Panic attacks,Major Depressive Disorder,Group therapy,Severe,2024-03-03,2024-06-30,17
+176410,19,Non-binary,Fatigue,Panic Disorder,Mindfulness-based therapy,Moderate,2023-08-15,2024-01-30,24
+442753,76,Female,Insomnia,Post-Traumatic Stress Disorder,Exposure therapy,Severe,2024-02-10,2024-06-01,16
+245122,32,Female,Social withdrawal,Bipolar Disorder,Cognitive Behavioral Therapy,Mild,2022-12-06,2023-06-27,29
+872764,39,Male,Irritability,Social Anxiety Disorder,Art therapy,Moderate,2024-07-03,2025-04-16,41
+875414,51,Male,Depressed mood,Eating Disorder,Art therapy,Moderate,2023-09-19,2024-03-12,25
+247593,48,Non-binary,Loss of interest,Eating Disorder,Cognitive Behavioral Therapy,Moderate,2023-10-09,2023-11-27,7
+840038,54,Male,Anxiety,Eating Disorder,Exposure therapy,Severe,2024-08-10,2025-05-03,38
+255544,65,Male,Social withdrawal,Substance Use Disorder,Group therapy,Moderate,2024-09-08,2025-06-22,41
+249277,19,Female,Insomnia,Social Anxiety Disorder,Electroconvulsive therapy,Mild,2023-05-06,2023-12-16,32
+223665,69,Non-binary,Fatigue,Social Anxiety Disorder,Art therapy,Moderate,2024-10-09,2024-12-18,10
+609167,48,Male,Panic attacks,Social Anxiety Disorder,Exposure therapy,Mild,2024-03-06,2024-03-27,3
+58315,57,Non-binary,Irritability,Obsessive-Compulsive Disorder,Mindfulness-based therapy,Moderate,2023-12-27,2024-06-05,23
+666234,55,Non-binary,Depressed mood,Schizophrenia,Cognitive Behavioral Therapy,Mild,2024-03-26,2024-08-27,22
+464499,29,Female,Insomnia,Schizophrenia,Dialectical Behavior Therapy,Severe,2022-10-21,2023-02-03,15
+174017,25,Non-binary,Social withdrawal,Bipolar Disorder,Mindfulness-based therapy,Severe,2023-11-01,2024-05-22,29
+163531,52,Female,Loss of interest,Eating Disorder,Electroconvulsive therapy,Severe,2024-04-15,2024-07-01,11
+451457,77,Female,Panic attacks,Schizophrenia,Cognitive Behavioral Therapy,Mild,2024-07-25,2025-07-03,49
+937189,51,Female,Depressed mood,Eating Disorder,Psychodynamic therapy,Moderate,2023-02-20,2023-10-02,32
+426295,68,Female,Irritability,Major Depressive Disorder,Group therapy,Severe,2023-02-16,2023-07-20,22
+602961,40,Non-binary,Panic attacks,Panic Disorder,Group therapy,Mild,2024-04-27,2024-10-12,24
+527684,43,Male,Irritability,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Moderate,2022-11-03,2022-12-08,5
+708589,25,Male,Irritability,Bipolar Disorder,Medication management,Moderate,2024-05-14,2024-06-25,6
+106471,49,Non-binary,Irritability,Major Depressive Disorder,Dialectical Behavior Therapy,Moderate,2023-01-28,2023-08-26,30
+213458,42,Non-binary,Low self-esteem,Substance Use Disorder,Mindfulness-based therapy,Mild,2023-08-14,2024-04-15,35
+287501,50,Female,Fatigue,Generalized Anxiety Disorder,Electroconvulsive therapy,Moderate,2023-09-28,2024-04-04,27
+41606,49,Non-binary,Fatigue,Social Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2023-06-07,2023-07-12,5
+647214,55,Non-binary,Anxiety,Generalized Anxiety Disorder,Mindfulness-based therapy,Mild,2023-04-23,2024-02-25,44
+168302,80,Male,Depressed mood,Social Anxiety Disorder,Psychodynamic therapy,Mild,2024-09-14,2025-03-29,28
+839260,78,Non-binary,Irritability,Schizophrenia,Art therapy,Moderate,2023-10-06,2023-11-10,5
+696048,40,Female,Excessive worry,Bipolar Disorder,Mindfulness-based therapy,Mild,2023-12-23,2024-06-22,26
+100330,37,Female,Changes in appetite,Panic Disorder,Medication management,Severe,2024-06-05,2025-01-08,31
+847814,67,Male,Low self-esteem,Schizophrenia,Group therapy,Moderate,2022-12-08,2023-06-01,25
+646180,50,Female,Insomnia,Social Anxiety Disorder,Art therapy,Moderate,2022-11-12,2022-12-24,6
+413869,44,Non-binary,Changes in appetite,Generalized Anxiety Disorder,Dialectical Behavior Therapy,Mild,2023-11-16,2024-06-06,29
+62113,43,Female,Anxiety,Schizophrenia,Cognitive Behavioral Therapy,Mild,2023-01-21,2023-11-25,44
+767577,43,Male,Fatigue,Obsessive-Compulsive Disorder,Psychodynamic therapy,Severe,2024-09-27,2025-09-05,49
+769236,40,Non-binary,Low self-esteem,Bipolar Disorder,Dialectical Behavior Therapy,Severe,2024-07-26,2024-08-30,5
+580327,25,Female,Depressed mood,Social Anxiety Disorder,Psychodynamic therapy,Severe,2023-04-25,2023-10-03,23
+706638,46,Non-binary,Social withdrawal,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Moderate,2023-07-08,2023-12-23,24
+365379,78,Female,Depressed mood,Obsessive-Compulsive Disorder,Psychodynamic therapy,Severe,2023-04-07,2024-01-12,40
+165949,59,Non-binary,Irritability,Social Anxiety Disorder,Dialectical Behavior Therapy,Mild,2024-02-09,2024-06-28,20
+912404,56,Male,Difficulty concentrating,Substance Use Disorder,Art therapy,Mild,2024-02-25,2024-07-07,19
+603507,37,Non-binary,Low self-esteem,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2024-04-06,2024-12-14,36
+413937,80,Female,Anxiety,Panic Disorder,Group therapy,Mild,2023-01-29,2023-07-30,26
+857559,20,Non-binary,Loss of interest,Social Anxiety Disorder,Exposure therapy,Mild,2023-07-30,2024-03-10,32
+248252,38,Non-binary,Panic attacks,Substance Use Disorder,Exposure therapy,Moderate,2022-12-02,2023-07-28,34
+940161,61,Non-binary,Irritability,Substance Use Disorder,Art therapy,Moderate,2024-09-09,2024-10-07,4
+456658,27,Male,Irritability,Panic Disorder,Art therapy,Moderate,2023-12-30,2024-11-16,46
+627741,62,Non-binary,Changes in appetite,Eating Disorder,Family therapy,Mild,2023-10-01,2024-04-21,29
+887578,70,Female,Social withdrawal,Bipolar Disorder,Psychodynamic therapy,Severe,2024-03-07,2024-10-17,32
+331586,72,Non-binary,Social withdrawal,Obsessive-Compulsive Disorder,Electroconvulsive therapy,Mild,2024-08-01,2024-08-29,4
+707222,45,Male,Loss of interest,Schizophrenia,Family therapy,Mild,2023-11-13,2024-07-29,37
+692013,50,Non-binary,Low self-esteem,Substance Use Disorder,Mindfulness-based therapy,Severe,2024-04-14,2024-04-28,2
+337516,42,Non-binary,Insomnia,Panic Disorder,Electroconvulsive therapy,Mild,2023-02-02,2023-03-16,6
+656547,76,Non-binary,Anxiety,Bipolar Disorder,Electroconvulsive therapy,Moderate,2023-08-07,2023-10-16,10
+905340,35,Female,Low self-esteem,Substance Use Disorder,Family therapy,Moderate,2022-11-03,2023-10-19,50
+899294,60,Non-binary,Changes in appetite,Post-Traumatic Stress Disorder,Exposure therapy,Mild,2024-01-04,2024-11-28,47
+10381,26,Female,Depressed mood,Major Depressive Disorder,Group therapy,Mild,2023-06-29,2024-03-14,37
+507205,60,Non-binary,Difficulty concentrating,Substance Use Disorder,Medication management,Mild,2024-06-23,2024-10-06,15
+367523,52,Male,Excessive worry,Eating Disorder,Mindfulness-based therapy,Severe,2024-10-09,2025-08-13,44
+29950,50,Non-binary,Loss of interest,Schizophrenia,Family therapy,Moderate,2023-12-02,2024-04-20,20
+30619,59,Non-binary,Mood swings,Substance Use Disorder,Medication management,Mild,2023-02-16,2023-12-21,44
+499626,78,Non-binary,Social withdrawal,Substance Use Disorder,Medication management,Mild,2024-05-05,2025-03-23,46
+664185,36,Male,Excessive worry,Schizophrenia,Art therapy,Mild,2024-06-23,2024-07-14,3
+585357,74,Female,Depressed mood,Eating Disorder,Art therapy,Severe,2023-04-09,2023-12-31,38
+129186,35,Female,Low self-esteem,Bipolar Disorder,Dialectical Behavior Therapy,Severe,2024-06-15,2025-05-17,48
+479977,49,Male,Difficulty concentrating,Schizophrenia,Dialectical Behavior Therapy,Mild,2023-05-22,2023-07-10,7
+47777,77,Female,Loss of interest,Eating Disorder,Psychodynamic therapy,Mild,2024-10-07,2025-03-03,21
+768993,66,Non-binary,Difficulty concentrating,Obsessive-Compulsive Disorder,Psychodynamic therapy,Moderate,2023-03-27,2024-01-01,40
+950171,51,Male,Low self-esteem,Panic Disorder,Psychodynamic therapy,Moderate,2023-03-20,2023-04-24,5
+32813,38,Male,Excessive worry,Substance Use Disorder,Family therapy,Mild,2023-12-16,2024-08-31,37
+613807,75,Non-binary,Low self-esteem,Major Depressive Disorder,Dialectical Behavior Therapy,Moderate,2024-07-15,2024-09-09,8
+620456,24,Female,Insomnia,Social Anxiety Disorder,Dialectical Behavior Therapy,Mild,2023-12-17,2024-03-10,12
+29024,67,Male,Depressed mood,Schizophrenia,Art therapy,Mild,2022-11-06,2023-08-06,39
+327236,40,Non-binary,Low self-esteem,Social Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2022-11-25,2023-01-27,9
+397847,42,Female,Changes in appetite,Panic Disorder,Psychodynamic therapy,Moderate,2022-11-16,2023-05-17,26
+971506,60,Non-binary,Changes in appetite,Substance Use Disorder,Medication management,Moderate,2024-01-17,2024-10-30,41
+134446,76,Female,Fatigue,Post-Traumatic Stress Disorder,Group therapy,Moderate,2024-03-20,2024-08-28,23
+768095,30,Non-binary,Social withdrawal,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Mild,2023-05-23,2024-01-23,35
+379536,25,Female,Depressed mood,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Moderate,2024-02-07,2024-12-04,43
+273210,21,Female,Mood swings,Major Depressive Disorder,Dialectical Behavior Therapy,Severe,2023-01-17,2023-08-29,32
+784386,51,Non-binary,Difficulty concentrating,Post-Traumatic Stress Disorder,Group therapy,Mild,2023-12-29,2024-11-08,45
+683883,50,Female,Low self-esteem,Eating Disorder,Cognitive Behavioral Therapy,Severe,2023-01-14,2023-03-11,8
+715319,33,Male,Irritability,Bipolar Disorder,Mindfulness-based therapy,Mild,2023-01-29,2024-01-14,50
+325578,21,Female,Irritability,Major Depressive Disorder,Cognitive Behavioral Therapy,Moderate,2024-04-20,2024-10-19,26
+512662,51,Male,Social withdrawal,Bipolar Disorder,Group therapy,Moderate,2022-10-14,2023-08-11,43
+936835,77,Non-binary,Depressed mood,Major Depressive Disorder,Dialectical Behavior Therapy,Severe,2024-04-25,2024-10-24,26
+142093,53,Non-binary,Difficulty concentrating,Social Anxiety Disorder,Cognitive Behavioral Therapy,Mild,2023-02-15,2023-11-15,39
+257108,22,Male,Depressed mood,Major Depressive Disorder,Dialectical Behavior Therapy,Moderate,2023-10-20,2023-11-17,4
+454632,77,Male,Anxiety,Panic Disorder,Psychodynamic therapy,Mild,2023-12-01,2024-04-05,18
+639631,62,Male,Insomnia,Social Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2024-10-07,2025-09-15,49
+256935,47,Male,Loss of interest,Major Depressive Disorder,Psychodynamic therapy,Severe,2022-12-10,2023-01-28,7
+297774,77,Male,Excessive worry,Bipolar Disorder,Family therapy,Mild,2023-06-16,2024-03-01,37
+543453,55,Male,Low self-esteem,Schizophrenia,Group therapy,Severe,2023-06-15,2024-01-25,32
+207567,64,Male,Fatigue,Social Anxiety Disorder,Psychodynamic therapy,Severe,2024-04-06,2024-06-08,9
+82748,51,Female,Mood swings,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2024-03-10,2024-04-21,6
+787158,34,Male,Social withdrawal,Generalized Anxiety Disorder,Dialectical Behavior Therapy,Moderate,2023-01-16,2023-04-17,13
+48881,75,Male,Anxiety,Major Depressive Disorder,Exposure therapy,Mild,2024-09-17,2025-02-11,21
+918472,43,Non-binary,Depressed mood,Schizophrenia,Electroconvulsive therapy,Moderate,2023-02-05,2023-12-10,44
+355923,56,Non-binary,Social withdrawal,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Severe,2023-09-10,2023-10-22,6
+288719,53,Non-binary,Panic attacks,Major Depressive Disorder,Psychodynamic therapy,Severe,2023-04-02,2024-02-25,47
+417518,50,Non-binary,Depressed mood,Schizophrenia,Group therapy,Severe,2023-01-19,2023-12-07,46
+376931,68,Non-binary,Changes in appetite,Post-Traumatic Stress Disorder,Exposure therapy,Moderate,2024-05-25,2025-03-22,43
+218056,51,Male,Depressed mood,Post-Traumatic Stress Disorder,Art therapy,Mild,2023-06-08,2024-05-30,51
+458999,33,Non-binary,Low self-esteem,Eating Disorder,Cognitive Behavioral Therapy,Moderate,2023-08-15,2023-09-05,3
+848652,35,Non-binary,Loss of interest,Generalized Anxiety Disorder,Family therapy,Moderate,2024-05-18,2024-06-15,4
+782211,41,Female,Fatigue,Eating Disorder,Mindfulness-based therapy,Mild,2024-07-29,2025-06-23,47
+521814,42,Non-binary,Panic attacks,Panic Disorder,Dialectical Behavior Therapy,Mild,2023-11-17,2024-10-11,47
+44036,47,Male,Loss of interest,Schizophrenia,Medication management,Severe,2022-11-10,2022-11-17,1
+454408,42,Female,Changes in appetite,Major Depressive Disorder,Dialectical Behavior Therapy,Moderate,2023-03-27,2023-05-01,5
+343874,18,Female,Excessive worry,Eating Disorder,Medication management,Mild,2023-06-13,2024-03-19,40
+263889,55,Non-binary,Excessive worry,Major Depressive Disorder,Psychodynamic therapy,Mild,2023-01-16,2023-10-16,39
+582985,26,Male,Loss of interest,Generalized Anxiety Disorder,Art therapy,Moderate,2023-05-24,2024-03-27,44
+569961,33,Male,Low self-esteem,Schizophrenia,Dialectical Behavior Therapy,Severe,2023-11-05,2023-12-03,4
+372664,74,Non-binary,Panic attacks,Substance Use Disorder,Cognitive Behavioral Therapy,Severe,2023-03-09,2023-05-18,10
+980641,74,Male,Mood swings,Eating Disorder,Art therapy,Mild,2024-02-05,2024-03-18,6
+788684,52,Non-binary,Anxiety,Eating Disorder,Group therapy,Severe,2024-01-26,2024-03-15,7
+802659,41,Non-binary,Fatigue,Social Anxiety Disorder,Psychodynamic therapy,Moderate,2024-04-29,2024-07-01,9
+265185,40,Female,Irritability,Substance Use Disorder,Family therapy,Severe,2024-09-14,2025-06-14,39
+635975,69,Male,Irritability,Schizophrenia,Electroconvulsive therapy,Severe,2023-08-15,2024-05-28,41
+174890,45,Non-binary,Mood swings,Generalized Anxiety Disorder,Psychodynamic therapy,Severe,2023-02-14,2023-06-20,18
+838133,36,Male,Difficulty concentrating,Schizophrenia,Medication management,Severe,2023-08-08,2023-09-12,5
+233605,41,Male,Fatigue,Panic Disorder,Exposure therapy,Mild,2023-06-09,2024-05-03,47
+584986,74,Female,Loss of interest,Bipolar Disorder,Medication management,Mild,2023-04-05,2024-02-28,47
+621289,26,Male,Mood swings,Eating Disorder,Medication management,Mild,2024-03-02,2024-07-27,21
+919981,18,Non-binary,Social withdrawal,Substance Use Disorder,Mindfulness-based therapy,Moderate,2023-11-30,2024-04-04,18
+787116,66,Non-binary,Excessive worry,Schizophrenia,Family therapy,Mild,2023-07-06,2023-12-14,23
+107686,68,Female,Excessive worry,Panic Disorder,Family therapy,Mild,2022-10-28,2023-08-04,40
+153795,69,Non-binary,Fatigue,Obsessive-Compulsive Disorder,Art therapy,Moderate,2023-12-13,2024-11-06,47
+302635,71,Female,Fatigue,Schizophrenia,Group therapy,Moderate,2023-03-24,2023-07-07,15
+865171,32,Non-binary,Loss of interest,Post-Traumatic Stress Disorder,Psychodynamic therapy,Severe,2023-07-22,2024-01-20,26
+904479,23,Female,Mood swings,Post-Traumatic Stress Disorder,Group therapy,Mild,2023-06-01,2023-09-07,14
+885002,72,Female,Changes in appetite,Bipolar Disorder,Cognitive Behavioral Therapy,Severe,2024-03-01,2024-12-06,40
+273745,60,Non-binary,Social withdrawal,Eating Disorder,Medication management,Severe,2023-12-07,2024-05-30,25
+962035,47,Non-binary,Low self-esteem,Social Anxiety Disorder,Art therapy,Mild,2023-08-08,2023-11-14,14
+775105,22,Non-binary,Panic attacks,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2023-08-26,2024-05-04,36
+139,20,Male,Social withdrawal,Major Depressive Disorder,Group therapy,Severe,2023-04-22,2023-09-09,20
+654648,44,Male,Anxiety,Eating Disorder,Mindfulness-based therapy,Moderate,2023-12-12,2024-04-16,18
+818068,38,Female,Changes in appetite,Obsessive-Compulsive Disorder,Art therapy,Mild,2023-01-24,2023-11-14,42
+218203,32,Non-binary,Difficulty concentrating,Eating Disorder,Mindfulness-based therapy,Moderate,2023-01-18,2023-09-27,36
+272553,34,Non-binary,Depressed mood,Substance Use Disorder,Exposure therapy,Mild,2024-01-01,2024-07-22,29
+393713,55,Non-binary,Panic attacks,Generalized Anxiety Disorder,Mindfulness-based therapy,Moderate,2024-04-01,2025-02-10,45
+994289,40,Male,Anxiety,Major Depressive Disorder,Art therapy,Moderate,2023-05-15,2023-07-03,7
+759128,19,Female,Excessive worry,Bipolar Disorder,Group therapy,Severe,2023-04-28,2023-11-03,27
+992170,46,Female,Irritability,Panic Disorder,Dialectical Behavior Therapy,Severe,2023-10-11,2024-01-31,16
+934626,26,Male,Excessive worry,Panic Disorder,Psychodynamic therapy,Severe,2022-11-19,2023-10-21,48
+94634,58,Non-binary,Insomnia,Major Depressive Disorder,Family therapy,Moderate,2023-10-05,2024-04-25,29
+456383,53,Female,Social withdrawal,Substance Use Disorder,Exposure therapy,Mild,2023-09-21,2024-04-11,29
+144210,26,Male,Changes in appetite,Social Anxiety Disorder,Medication management,Mild,2023-05-19,2023-09-15,17
+721774,59,Non-binary,Loss of interest,Eating Disorder,Art therapy,Moderate,2024-08-28,2025-02-12,24
+380798,29,Male,Irritability,Eating Disorder,Psychodynamic therapy,Moderate,2023-09-28,2024-09-12,50
+906957,34,Female,Mood swings,Social Anxiety Disorder,Dialectical Behavior Therapy,Severe,2023-06-18,2023-08-20,9
+608397,45,Female,Mood swings,Generalized Anxiety Disorder,Electroconvulsive therapy,Moderate,2024-06-12,2025-01-29,33
+699214,37,Male,Social withdrawal,Panic Disorder,Mindfulness-based therapy,Mild,2024-02-16,2024-03-01,2
+860597,21,Female,Loss of interest,Generalized Anxiety Disorder,Family therapy,Moderate,2024-05-19,2025-03-16,43
+428095,65,Female,Changes in appetite,Panic Disorder,Mindfulness-based therapy,Mild,2023-09-13,2024-05-22,36
+380539,18,Female,Irritability,Post-Traumatic Stress Disorder,Mindfulness-based therapy,Moderate,2024-04-21,2024-11-03,28
+413910,30,Female,Irritability,Substance Use Disorder,Medication management,Severe,2023-03-19,2024-03-10,51
+470405,35,Male,Difficulty concentrating,Bipolar Disorder,Family therapy,Mild,2024-01-01,2024-03-25,12
+408551,43,Female,Changes in appetite,Bipolar Disorder,Electroconvulsive therapy,Mild,2024-05-21,2025-05-13,51
+25723,60,Female,Difficulty concentrating,Panic Disorder,Cognitive Behavioral Therapy,Mild,2022-12-02,2023-02-03,9
+686286,68,Non-binary,Anxiety,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2023-05-06,2023-10-21,24
+812984,38,Male,Excessive worry,Bipolar Disorder,Group therapy,Moderate,2023-12-21,2024-10-31,45
+727001,75,Non-binary,Social withdrawal,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2023-11-13,2024-04-08,21
+311645,54,Male,Panic attacks,Bipolar Disorder,Group therapy,Mild,2023-02-22,2023-10-25,35
+965775,26,Non-binary,Loss of interest,Eating Disorder,Cognitive Behavioral Therapy,Mild,2023-07-08,2023-12-16,23
+561911,68,Female,Loss of interest,Generalized Anxiety Disorder,Dialectical Behavior Therapy,Mild,2023-10-27,2024-02-09,15
+335464,24,Non-binary,Changes in appetite,Substance Use Disorder,Medication management,Moderate,2023-02-26,2023-07-23,21
+586144,78,Non-binary,Fatigue,Major Depressive Disorder,Art therapy,Severe,2023-08-11,2023-10-13,9
+337483,43,Female,Fatigue,Eating Disorder,Family therapy,Moderate,2023-04-29,2023-07-15,11
+391340,65,Female,Changes in appetite,Bipolar Disorder,Family therapy,Mild,2023-05-18,2023-06-22,5
+58769,42,Female,Changes in appetite,Eating Disorder,Art therapy,Severe,2024-05-06,2025-02-03,39
+959429,37,Non-binary,Irritability,Eating Disorder,Psychodynamic therapy,Moderate,2023-12-10,2024-07-21,32
+103939,44,Non-binary,Insomnia,Schizophrenia,Cognitive Behavioral Therapy,Mild,2024-08-12,2025-04-07,34
+789430,79,Non-binary,Depressed mood,Post-Traumatic Stress Disorder,Art therapy,Moderate,2024-07-07,2025-01-05,26
+546835,23,Female,Social withdrawal,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Severe,2023-09-05,2024-08-13,49
+287512,20,Non-binary,Mood swings,Schizophrenia,Mindfulness-based therapy,Mild,2023-10-05,2024-08-08,44
+616364,24,Female,Fatigue,Bipolar Disorder,Medication management,Severe,2023-03-14,2023-08-29,24
+998772,69,Non-binary,Low self-esteem,Obsessive-Compulsive Disorder,Family therapy,Moderate,2023-07-15,2023-12-23,23
+354102,35,Non-binary,Fatigue,Panic Disorder,Family therapy,Mild,2024-04-30,2024-05-28,4
+845405,52,Male,Low self-esteem,Generalized Anxiety Disorder,Electroconvulsive therapy,Severe,2023-01-24,2023-03-21,8
+972786,41,Male,Low self-esteem,Obsessive-Compulsive Disorder,Electroconvulsive therapy,Severe,2024-04-03,2024-05-29,8
+751958,26,Male,Mood swings,Panic Disorder,Art therapy,Moderate,2023-07-07,2023-10-27,16
+415201,40,Non-binary,Social withdrawal,Generalized Anxiety Disorder,Group therapy,Severe,2024-01-30,2024-11-05,40
+590985,42,Non-binary,Difficulty concentrating,Bipolar Disorder,Electroconvulsive therapy,Severe,2024-03-08,2024-09-20,28
+953273,23,Non-binary,Mood swings,Eating Disorder,Group therapy,Severe,2023-09-22,2023-11-03,6
+396687,69,Female,Low self-esteem,Obsessive-Compulsive Disorder,Group therapy,Severe,2024-05-27,2024-07-08,6
+265591,66,Male,Difficulty concentrating,Substance Use Disorder,Group therapy,Severe,2024-04-29,2024-09-23,21
+354638,58,Male,Social withdrawal,Panic Disorder,Family therapy,Severe,2022-11-25,2023-10-13,46
+570436,72,Non-binary,Fatigue,Major Depressive Disorder,Psychodynamic therapy,Severe,2023-08-09,2024-06-12,44
+422253,31,Female,Low self-esteem,Social Anxiety Disorder,Mindfulness-based therapy,Mild,2023-10-21,2024-03-16,21
+620473,41,Non-binary,Anxiety,Generalized Anxiety Disorder,Psychodynamic therapy,Severe,2024-06-26,2024-07-03,1
+411281,46,Non-binary,Changes in appetite,Bipolar Disorder,Mindfulness-based therapy,Severe,2022-11-19,2023-02-11,12
+94480,28,Female,Changes in appetite,Obsessive-Compulsive Disorder,Exposure therapy,Severe,2024-09-18,2025-03-26,27
+882525,79,Female,Low self-esteem,Eating Disorder,Psychodynamic therapy,Severe,2023-01-28,2023-02-18,3
+397026,23,Female,Panic attacks,Substance Use Disorder,Psychodynamic therapy,Moderate,2024-06-07,2024-12-20,28
+290156,62,Male,Panic attacks,Eating Disorder,Dialectical Behavior Therapy,Mild,2024-03-09,2025-01-11,44
+959648,59,Female,Loss of interest,Social Anxiety Disorder,Group therapy,Mild,2023-11-13,2023-11-27,2
+218025,33,Male,Social withdrawal,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Mild,2023-09-21,2023-11-16,8
+851315,77,Non-binary,Fatigue,Substance Use Disorder,Exposure therapy,Mild,2024-07-03,2025-04-30,43
+24817,25,Non-binary,Mood swings,Post-Traumatic Stress Disorder,Family therapy,Severe,2024-06-10,2024-10-07,17
+187536,76,Female,Anxiety,Generalized Anxiety Disorder,Family therapy,Severe,2024-04-08,2025-03-24,50
+632159,73,Female,Irritability,Panic Disorder,Family therapy,Mild,2023-07-19,2023-11-29,19
+978904,32,Non-binary,Fatigue,Substance Use Disorder,Cognitive Behavioral Therapy,Mild,2024-04-17,2024-09-11,21
+947343,39,Male,Changes in appetite,Eating Disorder,Mindfulness-based therapy,Moderate,2023-12-22,2024-08-30,36
+467789,65,Non-binary,Depressed mood,Substance Use Disorder,Mindfulness-based therapy,Moderate,2024-02-15,2024-06-06,16
+110717,29,Non-binary,Panic attacks,Generalized Anxiety Disorder,Mindfulness-based therapy,Mild,2023-01-29,2023-09-17,33
+7673,52,Female,Social withdrawal,Obsessive-Compulsive Disorder,Psychodynamic therapy,Severe,2023-12-23,2024-10-26,44
+623913,78,Female,Depressed mood,Major Depressive Disorder,Mindfulness-based therapy,Severe,2022-11-09,2023-09-27,46
+375539,38,Non-binary,Social withdrawal,Post-Traumatic Stress Disorder,Psychodynamic therapy,Moderate,2023-06-22,2023-12-14,25
+850999,61,Non-binary,Panic attacks,Social Anxiety Disorder,Family therapy,Severe,2024-03-05,2024-09-17,28
+21078,50,Male,Changes in appetite,Substance Use Disorder,Family therapy,Moderate,2023-07-23,2024-03-31,36
+172319,43,Non-binary,Anxiety,Post-Traumatic Stress Disorder,Psychodynamic therapy,Moderate,2024-01-08,2024-04-08,13
+834740,63,Female,Social withdrawal,Social Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2024-07-29,2025-07-28,52
+70397,76,Non-binary,Fatigue,Panic Disorder,Medication management,Severe,2024-01-14,2024-11-03,42
+56709,64,Male,Insomnia,Panic Disorder,Psychodynamic therapy,Mild,2023-03-24,2024-01-12,42
+553178,48,Non-binary,Changes in appetite,Bipolar Disorder,Group therapy,Moderate,2023-11-20,2024-07-01,32
+319459,79,Female,Irritability,Social Anxiety Disorder,Psychodynamic therapy,Moderate,2024-06-06,2024-06-27,3
+253566,68,Female,Social withdrawal,Bipolar Disorder,Mindfulness-based therapy,Severe,2024-08-19,2024-12-02,15
+63255,60,Non-binary,Low self-esteem,Substance Use Disorder,Psychodynamic therapy,Mild,2022-11-05,2023-09-23,46
+730303,33,Female,Difficulty concentrating,Eating Disorder,Family therapy,Moderate,2024-04-30,2025-04-29,52
+434110,52,Male,Irritability,Schizophrenia,Electroconvulsive therapy,Moderate,2023-01-17,2023-12-05,46
+936070,74,Non-binary,Loss of interest,Social Anxiety Disorder,Family therapy,Severe,2023-05-01,2024-02-05,40
+146040,79,Male,Fatigue,Bipolar Disorder,Cognitive Behavioral Therapy,Severe,2023-02-20,2023-11-06,37
+933940,41,Male,Loss of interest,Generalized Anxiety Disorder,Medication management,Severe,2024-06-01,2024-06-22,3
+134193,59,Male,Difficulty concentrating,Generalized Anxiety Disorder,Medication management,Mild,2024-03-11,2024-08-26,24
+979389,61,Non-binary,Low self-esteem,Major Depressive Disorder,Psychodynamic therapy,Mild,2023-04-05,2024-01-03,39
+416421,50,Non-binary,Mood swings,Bipolar Disorder,Cognitive Behavioral Therapy,Mild,2023-09-14,2023-11-02,7
+481101,55,Female,Panic attacks,Eating Disorder,Family therapy,Severe,2022-12-30,2023-01-20,3
+790504,73,Male,Changes in appetite,Social Anxiety Disorder,Mindfulness-based therapy,Mild,2024-02-17,2024-12-07,42
+930495,58,Female,Insomnia,Substance Use Disorder,Art therapy,Mild,2023-09-19,2024-02-20,22
+278951,60,Female,Fatigue,Schizophrenia,Art therapy,Severe,2023-07-23,2024-07-21,52
+211429,39,Male,Difficulty concentrating,Major Depressive Disorder,Family therapy,Mild,2024-06-12,2024-07-17,5
+437756,22,Non-binary,Depressed mood,Post-Traumatic Stress Disorder,Group therapy,Mild,2023-09-09,2024-03-09,26
+12794,69,Male,Low self-esteem,Post-Traumatic Stress Disorder,Medication management,Severe,2022-11-17,2023-07-27,36
+419050,71,Female,Fatigue,Eating Disorder,Family therapy,Severe,2023-01-01,2023-12-17,50
+834406,78,Male,Mood swings,Eating Disorder,Psychodynamic therapy,Moderate,2023-02-14,2023-07-04,20
+881285,36,Non-binary,Low self-esteem,Generalized Anxiety Disorder,Electroconvulsive therapy,Moderate,2024-04-16,2024-07-16,13
+956472,23,Non-binary,Low self-esteem,Post-Traumatic Stress Disorder,Mindfulness-based therapy,Moderate,2023-12-14,2024-10-03,42
+69276,26,Non-binary,Loss of interest,Bipolar Disorder,Electroconvulsive therapy,Mild,2023-06-14,2024-05-08,47
+335374,71,Female,Depressed mood,Bipolar Disorder,Exposure therapy,Moderate,2024-03-23,2025-01-18,43
+3144,41,Non-binary,Anxiety,Eating Disorder,Family therapy,Moderate,2023-09-19,2024-07-23,44
+865390,22,Non-binary,Panic attacks,Bipolar Disorder,Psychodynamic therapy,Moderate,2023-10-14,2024-06-15,35
+452548,25,Non-binary,Panic attacks,Bipolar Disorder,Mindfulness-based therapy,Severe,2024-09-24,2025-04-01,27
+921380,75,Female,Difficulty concentrating,Eating Disorder,Mindfulness-based therapy,Moderate,2024-02-13,2025-01-21,49
+577,49,Female,Fatigue,Panic Disorder,Electroconvulsive therapy,Mild,2023-02-19,2023-02-26,1
+99398,42,Non-binary,Low self-esteem,Post-Traumatic Stress Disorder,Medication management,Mild,2024-03-23,2025-02-08,46
+250128,50,Female,Fatigue,Social Anxiety Disorder,Medication management,Severe,2024-01-11,2024-04-11,13
+328444,54,Male,Anxiety,Substance Use Disorder,Medication management,Moderate,2024-01-20,2024-03-02,6
+71128,30,Non-binary,Fatigue,Major Depressive Disorder,Art therapy,Mild,2023-12-10,2024-04-14,18
+56823,66,Male,Excessive worry,Panic Disorder,Medication management,Severe,2023-05-12,2023-08-18,14
+613674,62,Male,Mood swings,Bipolar Disorder,Electroconvulsive therapy,Severe,2023-05-25,2024-05-02,49
+593135,39,Male,Mood swings,Substance Use Disorder,Cognitive Behavioral Therapy,Mild,2024-08-31,2025-05-24,38
+831554,52,Non-binary,Panic attacks,Substance Use Disorder,Mindfulness-based therapy,Mild,2023-11-27,2024-05-27,26
+922637,60,Male,Social withdrawal,Generalized Anxiety Disorder,Psychodynamic therapy,Severe,2022-12-14,2023-05-17,22
+533864,37,Female,Fatigue,Obsessive-Compulsive Disorder,Psychodynamic therapy,Severe,2024-04-06,2024-04-27,3
+920003,48,Female,Insomnia,Social Anxiety Disorder,Psychodynamic therapy,Moderate,2023-10-07,2023-10-14,1
+26683,66,Male,Difficulty concentrating,Schizophrenia,Exposure therapy,Moderate,2023-03-25,2023-10-07,28
+322116,76,Male,Social withdrawal,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Mild,2024-02-25,2024-04-21,8
+183880,24,Female,Loss of interest,Social Anxiety Disorder,Family therapy,Moderate,2024-03-12,2024-07-23,19
+412522,51,Female,Changes in appetite,Substance Use Disorder,Psychodynamic therapy,Severe,2023-04-04,2023-08-29,21
+517922,77,Non-binary,Depressed mood,Schizophrenia,Mindfulness-based therapy,Mild,2023-09-17,2024-04-21,31
+396233,77,Non-binary,Low self-esteem,Social Anxiety Disorder,Family therapy,Severe,2022-11-28,2023-06-05,27
+303452,45,Non-binary,Excessive worry,Social Anxiety Disorder,Medication management,Mild,2022-10-12,2022-12-07,8
+704167,37,Non-binary,Changes in appetite,Bipolar Disorder,Group therapy,Moderate,2023-08-13,2023-10-15,9
+62803,42,Non-binary,Anxiety,Generalized Anxiety Disorder,Mindfulness-based therapy,Mild,2023-04-19,2023-05-10,3
+334749,53,Non-binary,Depressed mood,Major Depressive Disorder,Exposure therapy,Moderate,2024-05-11,2024-12-14,31
+378493,61,Female,Insomnia,Generalized Anxiety Disorder,Mindfulness-based therapy,Severe,2023-03-26,2024-01-28,44
+847764,63,Male,Fatigue,Schizophrenia,Family therapy,Severe,2023-03-15,2024-02-28,50
+208425,58,Female,Irritability,Eating Disorder,Family therapy,Severe,2023-11-22,2024-07-10,33
+994824,56,Female,Irritability,Major Depressive Disorder,Cognitive Behavioral Therapy,Moderate,2023-01-19,2024-01-04,50
+682179,45,Male,Social withdrawal,Substance Use Disorder,Psychodynamic therapy,Severe,2024-05-19,2025-04-27,49
+336630,48,Male,Insomnia,Post-Traumatic Stress Disorder,Group therapy,Moderate,2023-07-05,2024-02-07,31
+491001,59,Male,Loss of interest,Panic Disorder,Dialectical Behavior Therapy,Mild,2024-09-23,2024-10-14,3
+362250,21,Female,Low self-esteem,Generalized Anxiety Disorder,Electroconvulsive therapy,Moderate,2022-11-22,2023-10-31,49
+805095,36,Non-binary,Fatigue,Substance Use Disorder,Art therapy,Moderate,2023-06-08,2023-12-28,29
+865001,35,Female,Anxiety,Generalized Anxiety Disorder,Family therapy,Severe,2023-01-23,2023-08-14,29
+586415,35,Male,Panic attacks,Obsessive-Compulsive Disorder,Psychodynamic therapy,Severe,2023-08-22,2024-02-20,26
+869607,19,Male,Low self-esteem,Obsessive-Compulsive Disorder,Art therapy,Mild,2024-07-19,2024-09-13,8
+491069,52,Male,Insomnia,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Moderate,2022-12-24,2023-05-20,21
+547100,33,Non-binary,Mood swings,Bipolar Disorder,Cognitive Behavioral Therapy,Mild,2023-05-30,2023-08-08,10
+892623,53,Female,Excessive worry,Eating Disorder,Psychodynamic therapy,Mild,2024-03-06,2024-09-11,27
+317017,57,Female,Excessive worry,Panic Disorder,Mindfulness-based therapy,Severe,2022-10-11,2023-03-14,22
+111781,64,Non-binary,Difficulty concentrating,Bipolar Disorder,Medication management,Severe,2024-03-27,2024-04-24,4
+763549,23,Male,Difficulty concentrating,Schizophrenia,Dialectical Behavior Therapy,Moderate,2024-03-06,2024-06-19,15
+796473,24,Male,Anxiety,Bipolar Disorder,Electroconvulsive therapy,Mild,2023-12-01,2024-03-01,13
+894054,75,Non-binary,Difficulty concentrating,Bipolar Disorder,Exposure therapy,Severe,2024-03-06,2025-02-26,51
+163820,77,Non-binary,Mood swings,Panic Disorder,Exposure therapy,Moderate,2023-06-29,2024-03-14,37
+632565,61,Male,Irritability,Generalized Anxiety Disorder,Medication management,Moderate,2024-04-11,2024-05-02,3
+313668,60,Male,Irritability,Generalized Anxiety Disorder,Family therapy,Severe,2023-04-14,2024-02-09,43
+663677,19,Female,Changes in appetite,Substance Use Disorder,Art therapy,Moderate,2024-03-09,2025-02-01,47
+869268,23,Non-binary,Low self-esteem,Post-Traumatic Stress Disorder,Family therapy,Severe,2023-02-10,2024-01-19,49
+408563,54,Male,Anxiety,Panic Disorder,Psychodynamic therapy,Severe,2023-06-11,2024-05-19,49
+493025,23,Male,Irritability,Eating Disorder,Medication management,Moderate,2024-05-03,2024-12-27,34
+13021,50,Male,Fatigue,Schizophrenia,Family therapy,Severe,2023-08-01,2023-11-28,17
+250393,43,Female,Irritability,Bipolar Disorder,Medication management,Severe,2023-12-04,2024-06-17,28
+933217,55,Non-binary,Irritability,Eating Disorder,Art therapy,Mild,2024-03-12,2024-06-18,14
+415407,79,Male,Depressed mood,Social Anxiety Disorder,Exposure therapy,Severe,2023-12-11,2024-01-29,7
+416484,48,Non-binary,Low self-esteem,Panic Disorder,Mindfulness-based therapy,Moderate,2022-11-13,2022-12-25,6
+742437,43,Male,Fatigue,Social Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2023-03-05,2023-10-15,32
+359434,25,Non-binary,Irritability,Obsessive-Compulsive Disorder,Electroconvulsive therapy,Moderate,2024-07-04,2024-12-19,24
+407394,78,Male,Panic attacks,Obsessive-Compulsive Disorder,Mindfulness-based therapy,Moderate,2024-09-04,2024-12-11,14
+662898,37,Male,Insomnia,Schizophrenia,Family therapy,Severe,2024-08-08,2025-03-20,32
+179363,51,Male,Difficulty concentrating,Generalized Anxiety Disorder,Psychodynamic therapy,Moderate,2024-08-03,2025-07-12,49
+8196,29,Non-binary,Fatigue,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Mild,2022-10-17,2023-05-22,31
+147773,75,Non-binary,Panic attacks,Generalized Anxiety Disorder,Art therapy,Severe,2024-02-29,2024-04-11,6
+954468,65,Female,Excessive worry,Bipolar Disorder,Family therapy,Severe,2023-08-23,2024-04-10,33
+366010,43,Male,Loss of interest,Eating Disorder,Dialectical Behavior Therapy,Mild,2023-07-25,2024-03-19,34
+885840,22,Male,Fatigue,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Moderate,2022-10-20,2023-07-20,39
+638098,40,Female,Insomnia,Bipolar Disorder,Medication management,Severe,2024-02-08,2024-06-27,20
+438174,39,Female,Irritability,Generalized Anxiety Disorder,Mindfulness-based therapy,Mild,2023-11-20,2024-10-07,46
+187733,53,Male,Social withdrawal,Eating Disorder,Electroconvulsive therapy,Moderate,2023-03-27,2023-11-20,34
+350111,71,Non-binary,Depressed mood,Post-Traumatic Stress Disorder,Art therapy,Mild,2023-02-28,2023-08-15,24
+757696,42,Female,Loss of interest,Eating Disorder,Family therapy,Mild,2024-01-25,2024-12-12,46
+795900,80,Female,Low self-esteem,Major Depressive Disorder,Psychodynamic therapy,Mild,2024-05-29,2024-08-07,10
+430320,69,Non-binary,Panic attacks,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Mild,2023-10-04,2023-12-13,10
+418446,22,Male,Irritability,Substance Use Disorder,Art therapy,Mild,2023-06-28,2023-11-15,20
+389053,69,Female,Fatigue,Generalized Anxiety Disorder,Medication management,Mild,2023-01-29,2023-12-17,46
+17852,54,Non-binary,Social withdrawal,Eating Disorder,Cognitive Behavioral Therapy,Severe,2023-02-13,2023-04-24,10
+525071,41,Non-binary,Anxiety,Bipolar Disorder,Dialectical Behavior Therapy,Mild,2024-05-25,2024-07-06,6
+392835,23,Non-binary,Depressed mood,Post-Traumatic Stress Disorder,Family therapy,Moderate,2023-07-25,2024-04-30,40
+689512,37,Male,Anxiety,Obsessive-Compulsive Disorder,Exposure therapy,Severe,2024-09-14,2025-03-29,28
+413357,21,Non-binary,Loss of interest,Panic Disorder,Art therapy,Mild,2024-03-15,2025-01-31,46
+79602,57,Non-binary,Panic attacks,Obsessive-Compulsive Disorder,Medication management,Mild,2024-06-18,2024-10-15,17
+198317,21,Female,Panic attacks,Eating Disorder,Cognitive Behavioral Therapy,Severe,2024-06-15,2024-11-23,23
+278447,73,Female,Difficulty concentrating,Substance Use Disorder,Cognitive Behavioral Therapy,Severe,2024-04-28,2024-09-01,18
+129562,50,Non-binary,Anxiety,Social Anxiety Disorder,Electroconvulsive therapy,Severe,2022-10-13,2023-02-16,18
+835408,61,Non-binary,Loss of interest,Generalized Anxiety Disorder,Medication management,Mild,2023-06-03,2023-06-24,3
+315405,54,Female,Changes in appetite,Substance Use Disorder,Cognitive Behavioral Therapy,Mild,2023-10-05,2024-03-14,23
+221816,69,Male,Irritability,Post-Traumatic Stress Disorder,Medication management,Moderate,2024-08-24,2025-07-12,46
+102363,61,Male,Changes in appetite,Major Depressive Disorder,Exposure therapy,Severe,2023-04-09,2024-03-24,50
+444861,80,Male,Excessive worry,Major Depressive Disorder,Electroconvulsive therapy,Mild,2023-11-07,2024-01-23,11
+578225,25,Female,Changes in appetite,Obsessive-Compulsive Disorder,Psychodynamic therapy,Severe,2023-01-29,2023-10-15,37
+436041,29,Non-binary,Anxiety,Major Depressive Disorder,Dialectical Behavior Therapy,Moderate,2024-06-06,2025-02-27,38
+482384,51,Male,Anxiety,Post-Traumatic Stress Disorder,Medication management,Severe,2023-09-16,2023-10-14,4
+125124,47,Male,Irritability,Bipolar Disorder,Mindfulness-based therapy,Moderate,2023-01-03,2023-03-14,10
+235450,71,Non-binary,Changes in appetite,Post-Traumatic Stress Disorder,Medication management,Mild,2023-11-29,2024-05-22,25
+228228,27,Female,Panic attacks,Bipolar Disorder,Electroconvulsive therapy,Mild,2024-06-21,2025-03-07,37
+261845,64,Non-binary,Difficulty concentrating,Generalized Anxiety Disorder,Electroconvulsive therapy,Severe,2023-04-15,2023-12-30,37
+62710,44,Female,Social withdrawal,Panic Disorder,Exposure therapy,Moderate,2023-07-05,2023-07-12,1
+206891,42,Female,Insomnia,Major Depressive Disorder,Family therapy,Moderate,2024-04-22,2025-04-14,51
+543933,57,Non-binary,Excessive worry,Major Depressive Disorder,Mindfulness-based therapy,Moderate,2023-11-22,2023-12-20,4
+212397,42,Non-binary,Social withdrawal,Eating Disorder,Dialectical Behavior Therapy,Severe,2022-12-07,2023-05-17,23
+397604,59,Non-binary,Difficulty concentrating,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Moderate,2024-07-27,2025-03-15,33
+258736,43,Female,Anxiety,Substance Use Disorder,Dialectical Behavior Therapy,Severe,2022-10-28,2023-06-02,31
+190433,71,Female,Mood swings,Major Depressive Disorder,Cognitive Behavioral Therapy,Moderate,2022-10-19,2023-05-24,31
+131297,69,Non-binary,Irritability,Schizophrenia,Exposure therapy,Mild,2024-01-13,2025-01-04,51
+611875,64,Non-binary,Changes in appetite,Eating Disorder,Group therapy,Moderate,2024-04-09,2024-10-15,27
+979037,30,Female,Fatigue,Post-Traumatic Stress Disorder,Exposure therapy,Severe,2023-08-19,2024-03-09,29
+446084,42,Female,Low self-esteem,Schizophrenia,Electroconvulsive therapy,Moderate,2023-08-16,2024-01-17,22
+770058,41,Male,Mood swings,Post-Traumatic Stress Disorder,Psychodynamic therapy,Severe,2023-05-01,2024-01-01,35
+101477,64,Male,Changes in appetite,Bipolar Disorder,Mindfulness-based therapy,Mild,2024-08-24,2024-08-31,1
+436840,40,Female,Insomnia,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2023-07-15,2024-02-03,29
+811761,32,Male,Social withdrawal,Social Anxiety Disorder,Mindfulness-based therapy,Severe,2023-08-10,2024-06-20,45
+202351,54,Male,Loss of interest,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Severe,2024-01-01,2024-06-03,22
+287642,41,Non-binary,Changes in appetite,Panic Disorder,Psychodynamic therapy,Severe,2023-07-01,2023-08-19,7
+124333,57,Non-binary,Mood swings,Substance Use Disorder,Medication management,Severe,2023-09-11,2024-05-13,35
+930755,44,Non-binary,Panic attacks,Social Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2024-03-26,2024-09-17,25
+849211,44,Female,Excessive worry,Schizophrenia,Cognitive Behavioral Therapy,Mild,2024-09-22,2024-11-03,6
+191459,77,Non-binary,Fatigue,Substance Use Disorder,Dialectical Behavior Therapy,Mild,2023-03-30,2023-08-10,19
+687423,22,Female,Irritability,Post-Traumatic Stress Disorder,Psychodynamic therapy,Mild,2023-07-17,2024-05-13,43
+90758,66,Female,Excessive worry,Substance Use Disorder,Cognitive Behavioral Therapy,Severe,2023-11-17,2024-01-12,8
+542000,42,Female,Fatigue,Major Depressive Disorder,Mindfulness-based therapy,Severe,2024-03-28,2024-11-14,33
+249264,22,Female,Changes in appetite,Bipolar Disorder,Mindfulness-based therapy,Moderate,2024-02-01,2024-02-15,2
+800468,79,Male,Panic attacks,Post-Traumatic Stress Disorder,Family therapy,Moderate,2023-07-05,2024-05-22,46
+853290,44,Non-binary,Excessive worry,Social Anxiety Disorder,Group therapy,Mild,2023-05-22,2023-06-05,2
+187588,38,Non-binary,Social withdrawal,Generalized Anxiety Disorder,Mindfulness-based therapy,Moderate,2023-05-18,2023-11-30,28
+895120,62,Female,Low self-esteem,Social Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2024-05-08,2025-04-23,50
+751478,45,Male,Loss of interest,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Moderate,2023-02-11,2024-02-03,51
+250921,53,Non-binary,Fatigue,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Severe,2024-04-13,2024-08-10,17
+841564,19,Non-binary,Low self-esteem,Post-Traumatic Stress Disorder,Group therapy,Moderate,2023-05-31,2024-02-28,39
+458966,32,Male,Fatigue,Eating Disorder,Group therapy,Severe,2022-11-21,2023-05-08,24
+225558,58,Non-binary,Difficulty concentrating,Eating Disorder,Medication management,Moderate,2023-12-17,2024-01-28,6
+279298,64,Non-binary,Irritability,Major Depressive Disorder,Electroconvulsive therapy,Severe,2022-10-14,2023-04-28,28
+632898,50,Female,Mood swings,Post-Traumatic Stress Disorder,Family therapy,Moderate,2024-10-07,2025-03-31,25
+98195,23,Male,Social withdrawal,Bipolar Disorder,Family therapy,Mild,2023-10-12,2023-12-21,10
+449163,33,Female,Depressed mood,Generalized Anxiety Disorder,Medication management,Severe,2024-05-03,2025-03-21,46
+329369,31,Female,Anxiety,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Moderate,2023-07-15,2023-11-25,19
+229650,47,Non-binary,Mood swings,Generalized Anxiety Disorder,Psychodynamic therapy,Severe,2024-03-15,2024-05-03,7
+652146,60,Non-binary,Irritability,Schizophrenia,Medication management,Moderate,2023-05-07,2023-08-27,16
+17285,69,Non-binary,Insomnia,Panic Disorder,Exposure therapy,Mild,2023-09-06,2024-08-21,50
+513586,60,Non-binary,Anxiety,Schizophrenia,Electroconvulsive therapy,Mild,2023-09-17,2024-07-14,43
+683454,44,Female,Insomnia,Schizophrenia,Medication management,Mild,2023-07-05,2024-04-03,39
+410160,55,Non-binary,Depressed mood,Post-Traumatic Stress Disorder,Family therapy,Severe,2023-02-01,2023-03-15,6
+945123,26,Male,Insomnia,Schizophrenia,Mindfulness-based therapy,Mild,2022-11-10,2023-07-27,37
+150499,25,Male,Mood swings,Obsessive-Compulsive Disorder,Group therapy,Moderate,2024-01-20,2024-11-02,41
+690451,55,Female,Mood swings,Generalized Anxiety Disorder,Medication management,Mild,2022-12-27,2023-10-03,40
+381701,18,Female,Mood swings,Schizophrenia,Medication management,Moderate,2024-07-24,2025-06-25,48
+704271,62,Non-binary,Mood swings,Eating Disorder,Electroconvulsive therapy,Severe,2022-12-13,2023-04-25,19
+162077,54,Non-binary,Social withdrawal,Bipolar Disorder,Mindfulness-based therapy,Moderate,2023-08-02,2023-10-18,11
+249471,63,Non-binary,Mood swings,Eating Disorder,Group therapy,Mild,2023-07-21,2023-10-06,11
+997858,34,Male,Social withdrawal,Panic Disorder,Mindfulness-based therapy,Mild,2024-03-21,2024-09-05,24
+679577,24,Female,Insomnia,Schizophrenia,Electroconvulsive therapy,Mild,2024-06-02,2024-08-25,12
+43597,46,Male,Anxiety,Post-Traumatic Stress Disorder,Exposure therapy,Mild,2024-03-11,2024-07-22,19
+221851,38,Non-binary,Irritability,Bipolar Disorder,Family therapy,Moderate,2022-11-06,2023-02-12,14
+357513,74,Male,Mood swings,Schizophrenia,Dialectical Behavior Therapy,Mild,2023-01-27,2023-11-17,42
+231368,22,Female,Social withdrawal,Major Depressive Disorder,Psychodynamic therapy,Moderate,2023-04-13,2024-04-11,52
+92361,50,Non-binary,Changes in appetite,Major Depressive Disorder,Cognitive Behavioral Therapy,Severe,2023-11-05,2023-12-31,8
+205191,19,Male,Irritability,Substance Use Disorder,Family therapy,Severe,2024-06-12,2024-10-23,19
+915597,52,Female,Anxiety,Social Anxiety Disorder,Electroconvulsive therapy,Mild,2023-05-26,2024-04-12,46
+988940,53,Female,Mood swings,Obsessive-Compulsive Disorder,Art therapy,Moderate,2024-01-03,2024-03-13,10
+966172,54,Female,Low self-esteem,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Moderate,2023-11-20,2023-12-11,3
+517188,47,Male,Fatigue,Panic Disorder,Group therapy,Mild,2024-08-30,2024-09-13,2
+510510,43,Male,Social withdrawal,Obsessive-Compulsive Disorder,Art therapy,Mild,2022-10-18,2023-01-24,14
+897166,32,Male,Depressed mood,Eating Disorder,Mindfulness-based therapy,Severe,2024-09-27,2024-11-08,6
+330689,20,Non-binary,Social withdrawal,Bipolar Disorder,Medication management,Mild,2024-04-29,2024-08-05,14
+289180,60,Male,Low self-esteem,Major Depressive Disorder,Medication management,Moderate,2023-08-22,2024-07-02,45
+851888,27,Female,Changes in appetite,Bipolar Disorder,Family therapy,Mild,2023-10-09,2023-10-16,1
+722711,22,Male,Low self-esteem,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Moderate,2023-07-06,2023-08-03,4
+53978,80,Male,Low self-esteem,Post-Traumatic Stress Disorder,Medication management,Mild,2024-04-02,2024-06-04,9
+727334,20,Non-binary,Changes in appetite,Social Anxiety Disorder,Medication management,Severe,2023-12-20,2024-01-10,3
+138886,71,Male,Anxiety,Social Anxiety Disorder,Dialectical Behavior Therapy,Moderate,2023-09-11,2024-08-26,50
+192989,30,Male,Low self-esteem,Social Anxiety Disorder,Psychodynamic therapy,Severe,2022-12-07,2023-06-07,26
+677779,47,Non-binary,Irritability,Obsessive-Compulsive Disorder,Family therapy,Severe,2023-04-05,2023-11-01,30
+56197,63,Male,Mood swings,Schizophrenia,Art therapy,Mild,2023-04-29,2023-10-28,26
+647934,74,Male,Panic attacks,Panic Disorder,Psychodynamic therapy,Severe,2023-06-06,2024-03-05,39
+43798,54,Male,Low self-esteem,Panic Disorder,Medication management,Moderate,2022-12-28,2023-09-13,37
+49663,54,Male,Depressed mood,Social Anxiety Disorder,Electroconvulsive therapy,Mild,2024-03-09,2024-09-28,29
+199546,58,Female,Panic attacks,Substance Use Disorder,Medication management,Severe,2023-01-04,2023-08-30,34
+88418,18,Female,Panic attacks,Eating Disorder,Electroconvulsive therapy,Moderate,2024-07-01,2025-04-28,43
+262801,75,Female,Irritability,Eating Disorder,Cognitive Behavioral Therapy,Moderate,2023-07-27,2023-10-19,12
+50988,63,Female,Loss of interest,Eating Disorder,Dialectical Behavior Therapy,Mild,2023-12-04,2024-11-11,49
+170995,23,Male,Difficulty concentrating,Social Anxiety Disorder,Mindfulness-based therapy,Moderate,2024-02-07,2024-05-08,13
+349665,23,Male,Insomnia,Obsessive-Compulsive Disorder,Group therapy,Moderate,2023-01-15,2023-11-05,42
+527357,63,Male,Low self-esteem,Eating Disorder,Group therapy,Moderate,2024-10-07,2024-11-18,6
+454695,51,Female,Excessive worry,Substance Use Disorder,Dialectical Behavior Therapy,Moderate,2024-06-21,2025-05-09,46
+320259,30,Female,Depressed mood,Major Depressive Disorder,Medication management,Severe,2023-11-04,2024-09-07,44
+551498,71,Male,Irritability,Panic Disorder,Electroconvulsive therapy,Mild,2023-05-10,2024-02-14,40
+404489,26,Non-binary,Low self-esteem,Social Anxiety Disorder,Family therapy,Moderate,2024-04-24,2025-02-26,44
+642887,80,Male,Loss of interest,Schizophrenia,Art therapy,Moderate,2024-07-26,2024-08-30,5
+275642,44,Female,Fatigue,Generalized Anxiety Disorder,Psychodynamic therapy,Mild,2024-08-12,2025-06-30,46
+398802,78,Male,Changes in appetite,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Moderate,2024-01-23,2024-05-14,16
+404738,73,Male,Insomnia,Bipolar Disorder,Cognitive Behavioral Therapy,Moderate,2023-02-20,2023-07-10,20
+295223,58,Male,Low self-esteem,Social Anxiety Disorder,Electroconvulsive therapy,Severe,2024-06-29,2025-05-10,45
+973877,68,Female,Panic attacks,Generalized Anxiety Disorder,Medication management,Mild,2024-06-03,2024-07-29,8
+758730,41,Female,Difficulty concentrating,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Moderate,2023-10-11,2024-08-21,45
+260329,32,Female,Irritability,Schizophrenia,Exposure therapy,Severe,2024-05-11,2024-08-31,16
+989887,32,Non-binary,Irritability,Social Anxiety Disorder,Medication management,Moderate,2024-02-08,2024-11-28,42
+191572,45,Female,Anxiety,Social Anxiety Disorder,Art therapy,Mild,2024-08-29,2024-09-26,4
+380598,35,Non-binary,Loss of interest,Panic Disorder,Family therapy,Moderate,2023-07-12,2023-12-27,24
+399316,33,Male,Excessive worry,Substance Use Disorder,Group therapy,Severe,2023-01-25,2023-12-20,47
+477799,28,Male,Panic attacks,Major Depressive Disorder,Family therapy,Moderate,2022-11-07,2023-08-07,39
+593888,80,Female,Irritability,Social Anxiety Disorder,Medication management,Severe,2024-02-22,2024-03-07,2
+667597,26,Non-binary,Changes in appetite,Bipolar Disorder,Medication management,Moderate,2022-12-15,2023-09-21,40
+701261,23,Non-binary,Fatigue,Schizophrenia,Electroconvulsive therapy,Severe,2023-01-29,2024-01-07,49
+120537,39,Female,Difficulty concentrating,Social Anxiety Disorder,Psychodynamic therapy,Mild,2023-08-12,2024-05-04,38
+106002,78,Male,Difficulty concentrating,Substance Use Disorder,Exposure therapy,Mild,2023-04-14,2023-11-10,30
+419023,45,Female,Low self-esteem,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Moderate,2023-11-12,2024-11-10,52
+216253,72,Male,Excessive worry,Panic Disorder,Cognitive Behavioral Therapy,Severe,2024-01-12,2024-09-27,37
+880264,36,Female,Fatigue,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Moderate,2024-04-04,2024-10-31,30
+317913,62,Male,Social withdrawal,Substance Use Disorder,Dialectical Behavior Therapy,Severe,2023-08-31,2024-08-08,49
+842091,32,Non-binary,Insomnia,Social Anxiety Disorder,Psychodynamic therapy,Moderate,2024-04-01,2024-10-28,30
+969612,35,Female,Anxiety,Social Anxiety Disorder,Exposure therapy,Mild,2023-03-02,2023-10-12,32
+143422,52,Female,Depressed mood,Obsessive-Compulsive Disorder,Art therapy,Moderate,2023-05-07,2023-11-05,26
+763031,66,Non-binary,Panic attacks,Panic Disorder,Medication management,Severe,2024-07-16,2025-05-20,44
+689155,74,Non-binary,Panic attacks,Social Anxiety Disorder,Group therapy,Moderate,2024-01-10,2024-10-09,39
+359123,63,Male,Depressed mood,Bipolar Disorder,Psychodynamic therapy,Severe,2023-10-13,2023-12-15,9
+802994,77,Female,Changes in appetite,Panic Disorder,Art therapy,Severe,2023-03-17,2023-06-16,13
+963719,71,Male,Social withdrawal,Obsessive-Compulsive Disorder,Medication management,Severe,2024-06-08,2025-04-19,45
+697023,65,Female,Loss of interest,Substance Use Disorder,Exposure therapy,Mild,2022-10-15,2022-12-03,7
+193922,62,Male,Fatigue,Post-Traumatic Stress Disorder,Family therapy,Moderate,2024-06-12,2025-01-01,29
+691034,78,Female,Depressed mood,Schizophrenia,Exposure therapy,Severe,2022-10-12,2023-04-05,25
+165039,53,Female,Depressed mood,Bipolar Disorder,Group therapy,Moderate,2022-12-08,2023-03-23,15
+510667,50,Non-binary,Excessive worry,Generalized Anxiety Disorder,Family therapy,Mild,2022-10-14,2022-11-25,6
+25616,78,Female,Excessive worry,Panic Disorder,Group therapy,Mild,2023-02-16,2023-04-06,7
+41346,31,Non-binary,Depressed mood,Obsessive-Compulsive Disorder,Medication management,Moderate,2023-04-20,2024-03-07,46
+90854,45,Non-binary,Mood swings,Post-Traumatic Stress Disorder,Group therapy,Moderate,2024-03-24,2024-06-09,11
+50634,33,Female,Changes in appetite,Post-Traumatic Stress Disorder,Group therapy,Moderate,2024-01-06,2024-10-19,41
+95392,26,Female,Panic attacks,Schizophrenia,Psychodynamic therapy,Mild,2023-11-23,2024-05-09,24
+774932,45,Male,Anxiety,Post-Traumatic Stress Disorder,Group therapy,Moderate,2023-12-14,2024-08-15,35
+195787,36,Non-binary,Social withdrawal,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Mild,2024-01-12,2024-01-26,2
+787823,47,Non-binary,Depressed mood,Substance Use Disorder,Group therapy,Severe,2022-11-11,2023-03-31,20
+828091,70,Female,Changes in appetite,Social Anxiety Disorder,Mindfulness-based therapy,Moderate,2024-05-07,2025-02-11,40
+652468,51,Male,Low self-esteem,Generalized Anxiety Disorder,Exposure therapy,Moderate,2023-06-24,2024-04-20,43
+287053,38,Female,Loss of interest,Substance Use Disorder,Psychodynamic therapy,Moderate,2024-07-12,2024-10-04,12
+920826,35,Male,Insomnia,Schizophrenia,Exposure therapy,Severe,2023-01-12,2023-03-02,7
+696313,39,Non-binary,Low self-esteem,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Severe,2024-04-28,2024-05-19,3
+205723,25,Non-binary,Low self-esteem,Obsessive-Compulsive Disorder,Dialectical Behavior Therapy,Mild,2024-05-09,2025-02-06,39
+239938,51,Female,Panic attacks,Eating Disorder,Exposure therapy,Mild,2024-04-14,2025-01-26,41
+934331,63,Male,Loss of interest,Substance Use Disorder,Mindfulness-based therapy,Severe,2024-08-19,2025-06-30,45
+647146,71,Non-binary,Loss of interest,Schizophrenia,Electroconvulsive therapy,Moderate,2022-11-24,2023-09-21,43
+819779,19,Male,Mood swings,Schizophrenia,Psychodynamic therapy,Severe,2022-12-02,2023-06-30,30
+666311,47,Male,Loss of interest,Social Anxiety Disorder,Mindfulness-based therapy,Mild,2023-03-13,2023-07-03,16
+775884,60,Non-binary,Loss of interest,Panic Disorder,Dialectical Behavior Therapy,Moderate,2023-02-07,2023-06-13,18
+271470,56,Male,Insomnia,Bipolar Disorder,Exposure therapy,Moderate,2023-04-13,2024-01-04,38
+411719,20,Male,Irritability,Major Depressive Disorder,Family therapy,Severe,2024-02-04,2024-04-28,12
+617300,78,Male,Depressed mood,Schizophrenia,Cognitive Behavioral Therapy,Moderate,2023-04-12,2023-12-13,35
+848789,74,Female,Insomnia,Post-Traumatic Stress Disorder,Mindfulness-based therapy,Mild,2023-01-15,2023-01-22,1
+454915,72,Male,Mood swings,Social Anxiety Disorder,Medication management,Moderate,2023-02-04,2024-01-20,50
+141513,80,Non-binary,Difficulty concentrating,Substance Use Disorder,Cognitive Behavioral Therapy,Moderate,2023-08-09,2023-09-06,4
+199762,35,Non-binary,Depressed mood,Post-Traumatic Stress Disorder,Group therapy,Severe,2024-08-10,2024-11-30,16
+804410,61,Male,Anxiety,Social Anxiety Disorder,Cognitive Behavioral Therapy,Severe,2023-08-30,2024-01-24,21
+869761,29,Male,Low self-esteem,Schizophrenia,Mindfulness-based therapy,Mild,2024-01-07,2025-01-05,52
+176606,58,Male,Changes in appetite,Eating Disorder,Exposure therapy,Mild,2023-12-14,2024-10-24,45
+563730,19,Non-binary,Low self-esteem,Post-Traumatic Stress Disorder,Medication management,Severe,2024-04-06,2024-12-14,36
+102597,18,Female,Panic attacks,Schizophrenia,Exposure therapy,Mild,2024-06-20,2024-10-10,16
+907030,18,Female,Loss of interest,Post-Traumatic Stress Disorder,Group therapy,Mild,2023-05-21,2024-04-14,47
+458519,50,Non-binary,Depressed mood,Substance Use Disorder,Medication management,Moderate,2023-01-11,2023-01-25,2
+115220,36,Female,Mood swings,Post-Traumatic Stress Disorder,Dialectical Behavior Therapy,Mild,2022-10-11,2023-09-05,47
+971824,69,Male,Insomnia,Generalized Anxiety Disorder,Medication management,Severe,2022-12-18,2023-03-05,11
+914353,51,Non-binary,Social withdrawal,Schizophrenia,Art therapy,Moderate,2024-05-07,2025-04-01,47
+932813,22,Male,Anxiety,Panic Disorder,Dialectical Behavior Therapy,Severe,2023-05-11,2023-11-09,26
+891024,71,Female,Changes in appetite,Generalized Anxiety Disorder,Family therapy,Mild,2023-03-15,2023-11-08,34
+809651,44,Non-binary,Loss of interest,Panic Disorder,Electroconvulsive therapy,Mild,2024-04-20,2024-08-31,19
+613309,59,Male,Low self-esteem,Substance Use Disorder,Cognitive Behavioral Therapy,Moderate,2024-02-02,2024-05-24,16
+853039,67,Male,Social withdrawal,Bipolar Disorder,Group therapy,Mild,2023-07-25,2024-03-19,34
+242069,33,Male,Panic attacks,Social Anxiety Disorder,Psychodynamic therapy,Moderate,2023-12-27,2024-04-10,15
+64282,19,Male,Changes in appetite,Panic Disorder,Dialectical Behavior Therapy,Moderate,2023-09-26,2024-06-25,39
+550140,41,Female,Insomnia,Substance Use Disorder,Cognitive Behavioral Therapy,Moderate,2024-03-27,2024-07-17,16
+281974,67,Non-binary,Excessive worry,Bipolar Disorder,Art therapy,Mild,2024-07-10,2024-10-23,15
+507392,60,Male,Anxiety,Major Depressive Disorder,Exposure therapy,Severe,2023-04-02,2023-05-07,5
+607195,64,Non-binary,Insomnia,Obsessive-Compulsive Disorder,Medication management,Severe,2024-07-13,2024-12-28,24
+454151,77,Female,Anxiety,Obsessive-Compulsive Disorder,Dialectical Behavior Therapy,Severe,2024-06-27,2025-02-13,33
+749567,76,Non-binary,Insomnia,Generalized Anxiety Disorder,Exposure therapy,Severe,2023-08-11,2024-05-03,38
+26319,76,Female,Fatigue,Post-Traumatic Stress Disorder,Cognitive Behavioral Therapy,Severe,2023-11-27,2024-09-23,43
+652412,21,Female,Anxiety,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Severe,2022-12-06,2023-03-28,16
+855440,29,Non-binary,Anxiety,Major Depressive Disorder,Family therapy,Moderate,2024-08-09,2024-10-04,8
+725487,48,Non-binary,Difficulty concentrating,Substance Use Disorder,Family therapy,Severe,2024-03-26,2025-01-21,43
+471102,25,Female,Loss of interest,Post-Traumatic Stress Disorder,Exposure therapy,Moderate,2024-08-03,2025-04-12,36
+27397,24,Non-binary,Social withdrawal,Obsessive-Compulsive Disorder,Medication management,Mild,2022-12-20,2023-12-05,50
+178963,66,Male,Fatigue,Generalized Anxiety Disorder,Medication management,Moderate,2023-09-08,2024-05-31,38
+960705,22,Female,Anxiety,Social Anxiety Disorder,Psychodynamic therapy,Moderate,2023-08-12,2024-05-11,39
+406504,73,Male,Difficulty concentrating,Schizophrenia,Exposure therapy,Moderate,2024-09-09,2025-08-11,48
+247428,59,Non-binary,Low self-esteem,Bipolar Disorder,Mindfulness-based therapy,Severe,2023-10-23,2024-10-07,50
+128171,21,Male,Irritability,Post-Traumatic Stress Disorder,Mindfulness-based therapy,Severe,2024-05-02,2025-05-01,52
+51683,79,Non-binary,Low self-esteem,Major Depressive Disorder,Family therapy,Severe,2023-01-16,2023-05-08,16
+594381,52,Male,Loss of interest,Substance Use Disorder,Medication management,Severe,2023-04-30,2023-06-04,5
+250671,42,Non-binary,Fatigue,Substance Use Disorder,Electroconvulsive therapy,Moderate,2023-12-06,2024-02-28,12
+183238,48,Female,Low self-esteem,Bipolar Disorder,Group therapy,Severe,2022-11-02,2023-06-14,32
+874345,63,Male,Loss of interest,Generalized Anxiety Disorder,Exposure therapy,Severe,2024-02-27,2024-04-09,6
+749257,18,Female,Loss of interest,Bipolar Disorder,Group therapy,Mild,2023-08-12,2023-11-25,15
+886176,62,Non-binary,Irritability,Schizophrenia,Family therapy,Moderate,2023-04-23,2023-07-02,10
+818353,59,Non-binary,Changes in appetite,Social Anxiety Disorder,Family therapy,Severe,2024-06-03,2025-04-07,44
+816051,77,Female,Fatigue,Major Depressive Disorder,Family therapy,Mild,2023-08-29,2023-12-26,17
+627717,42,Non-binary,Insomnia,Post-Traumatic Stress Disorder,Family therapy,Moderate,2024-01-03,2024-10-30,43
+669066,70,Male,Social withdrawal,Generalized Anxiety Disorder,Cognitive Behavioral Therapy,Mild,2024-01-27,2024-05-25,17
+263444,29,Male,Excessive worry,Bipolar Disorder,Cognitive Behavioral Therapy,Mild,2023-12-11,2024-03-04,12
+911887,44,Female,Depressed mood,Major Depressive Disorder,Electroconvulsive therapy,Severe,2024-01-12,2024-11-08,43
+339107,66,Non-binary,Panic attacks,Bipolar Disorder,Mindfulness-based therapy,Moderate,2024-02-06,2024-12-31,47
+730033,58,Female,Changes in appetite,Social Anxiety Disorder,Dialectical Behavior Therapy,Moderate,2022-11-11,2023-08-04,38
+599802,55,Male,Difficulty concentrating,Major Depressive Disorder,Psychodynamic therapy,Moderate,2024-06-20,2024-09-05,11
+517823,65,Non-binary,Anxiety,Generalized Anxiety Disorder,Family therapy,Moderate,2023-05-13,2023-07-22,10
+593753,42,Non-binary,Irritability,Post-Traumatic Stress Disorder,Electroconvulsive therapy,Moderate,2023-09-05,2024-03-12,27
+442153,43,Male,Anxiety,Bipolar Disorder,Art therapy,Mild,2023-04-12,2024-03-27,50
+599247,23,Non-binary,Irritability,Post-Traumatic Stress Disorder,Medication management,Severe,2023-05-05,2023-08-25,16
+482159,79,Female,Panic attacks,Eating Disorder,Cognitive Behavioral Therapy,Severe,2022-12-18,2023-12-03,50
+31375,20,Male,Difficulty concentrating,Social Anxiety Disorder,Psychodynamic therapy,Moderate,2023-01-24,2023-10-10,37
+658097,53,Female,Social withdrawal,Obsessive-Compulsive Disorder,Dialectical Behavior Therapy,Severe,2023-06-27,2024-06-04,49
+425526,49,Male,Excessive worry,Obsessive-Compulsive Disorder,Mindfulness-based therapy,Mild,2023-03-12,2024-03-10,52
+933921,24,Female,Irritability,Substance Use Disorder,Psychodynamic therapy,Moderate,2023-08-20,2023-10-22,9
+671359,18,Female,Anxiety,Obsessive-Compulsive Disorder,Cognitive Behavioral Therapy,Mild,2023-05-18,2024-05-09,51
+398131,46,Female,Anxiety,Social Anxiety Disorder,Art therapy,Moderate,2023-04-02,2023-07-23,16
+113148,73,Non-binary,Irritability,Generalized Anxiety Disorder,Medication management,Severe,2023-08-11,2023-11-24,15

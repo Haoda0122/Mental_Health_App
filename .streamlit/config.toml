@@ -1,0 +1,15 @@
+[server]
+headless = true
+address = "0.0.0.0"
+port = 5000
+fileWatcherType = "poll"
+
+[theme]
+primaryColor = "#4CAF50"
+backgroundColor = "#f0f2f6"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#333333"
+font = "sans serif"
+
+[server.folderWatchBlacklist]
+folders = [".git", ".local", ".cache", ".config", ".pythonlibs", "__pycache__", "archive"]
